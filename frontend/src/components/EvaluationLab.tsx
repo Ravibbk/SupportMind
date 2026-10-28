@@ -25,37 +25,43 @@ export const EvaluationLab = () => {
     load();
   }, []);
 
-
   const getMetricNumber = (val: string) => {
     const n = parseFloat(val);
     return isNaN(n) ? 0 : n;
   };
 
+  const getDirectionText = (metric: string) => {
+    if (metric.includes('Latency') || metric.includes('Cost')) {
+      return 'Lower is better';
+    }
+    return 'Higher is better';
+  };
+
   return (
     <div className="max-w-7xl w-full mx-auto p-4 sm:p-6 space-y-6">
       {/* Top Banner */}
-      <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-800 shadow-xl backdrop-blur-md flex flex-col md:flex-row items-center justify-between gap-4">
+      <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>
           <div className="flex items-center gap-2">
-            <BarChart3 className="w-6 h-6 text-indigo-400" />
-            <h2 className="text-xl font-bold text-white tracking-tight">
-              RAG & Prompt Evaluation Lab
+            <BarChart3 className="w-5 h-5 text-indigo-600" />
+            <h2 className="text-lg font-bold text-slate-900 tracking-tight">
+              RAG & Retrieval Evaluation Lab
             </h2>
-            <span className="px-2.5 py-0.5 rounded-full text-xs font-bold bg-indigo-500/10 text-indigo-400 border border-indigo-500/30">
-              60 Grounded Benchmark Test Cases
+            <span className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-indigo-50 text-indigo-700 border border-indigo-200">
+              60 Grounded Test Cases
             </span>
           </div>
-          <p className="text-xs text-slate-400 mt-1">
-            Empirically measuring retrieval hit rate, mean reciprocal rank, faithfulness, and latency trade-offs across 7 pipeline variants.
+          <p className="text-xs text-slate-500 mt-1">
+            Empirically measuring retrieval hit-rate, mean reciprocal rank (MRR), correctness, and latency across 7 pipeline variants.
           </p>
         </div>
 
-        <div className="flex items-center gap-2">
-          <div className="p-3 bg-slate-950 rounded-xl border border-slate-800 text-center">
-            <span className="text-[10px] text-slate-500 uppercase font-bold block">
-              Winning Architecture
+        <div className="flex items-center gap-2 bg-slate-50 p-2.5 rounded-lg border border-slate-200">
+          <div className="text-left">
+            <span className="text-[10px] text-slate-500 uppercase font-semibold block">
+              Optimal Pipeline
             </span>
-            <span className="text-sm font-bold text-emerald-400">
+            <span className="text-xs font-bold text-indigo-700">
               Hybrid + Reranker (v3)
             </span>
           </div>
@@ -63,8 +69,8 @@ export const EvaluationLab = () => {
       </div>
 
       {/* Metric Selector Tabs */}
-      <div className="flex flex-wrap items-center gap-2 bg-slate-900/40 p-2 rounded-xl border border-slate-800">
-        <span className="text-xs font-semibold text-slate-400 ml-2 mr-1">
+      <div className="flex flex-wrap items-center gap-2 bg-white p-2 rounded-xl border border-slate-200 shadow-xs">
+        <span className="text-xs font-semibold text-slate-500 ml-2 mr-1">
           Compare Metric:
         </span>
         {(
@@ -79,10 +85,10 @@ export const EvaluationLab = () => {
           <button
             key={metric}
             onClick={() => setSelectedMetric(metric)}
-            className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
+            className={`px-3 py-1.5 rounded-lg text-xs font-medium transition ${
               selectedMetric === metric
-                ? 'bg-indigo-600 text-white shadow-md shadow-indigo-500/20'
-                : 'text-slate-400 hover:text-white hover:bg-slate-800'
+                ? 'bg-indigo-50 text-indigo-700 font-semibold border border-indigo-200'
+                : 'text-slate-600 hover:text-slate-900 hover:bg-slate-50'
             }`}
           >
             {metric}
@@ -91,16 +97,18 @@ export const EvaluationLab = () => {
       </div>
 
       {/* Visual Bar Comparison Chart */}
-      <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-800 shadow-xl space-y-4">
+      <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-xs space-y-4">
         <div className="flex items-center justify-between">
-          <h3 className="text-sm font-bold text-slate-200 flex items-center gap-2">
-            <TrendingUp className="w-4 h-4 text-cyan-400" />
-            Empirical Comparison: {selectedMetric}
+          <h3 className="text-sm font-semibold text-slate-900 flex items-center gap-2">
+            <TrendingUp className="w-4 h-4 text-indigo-600" />
+            Comparison: {selectedMetric}
           </h3>
-          <span className="text-xs text-slate-400">Higher is better (except latency & cost)</span>
+          <span className="text-xs text-slate-500 font-medium">
+            {getDirectionText(selectedMetric)}
+          </span>
         </div>
 
-        <div className="space-y-3 pt-2">
+        <div className="space-y-3.5 pt-2">
           {records.map((rec, i) => {
             const rawVal = rec[selectedMetric];
             const numVal = getMetricNumber(rawVal);
@@ -122,30 +130,30 @@ export const EvaluationLab = () => {
                   <div className="flex items-center gap-2">
                     <span
                       className={`font-medium ${
-                        isProd ? 'text-indigo-300 font-bold' : 'text-slate-300'
+                        isProd ? 'text-indigo-900 font-semibold' : 'text-slate-700'
                       }`}
                     >
                       {rec.Configuration}
                     </span>
                     {isProd && (
-                      <span className="px-1.5 py-0.2 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-300 border border-indigo-500/40">
-                        Active
+                      <span className="px-1.5 py-0.2 rounded text-[10px] font-semibold bg-indigo-50 text-indigo-700 border border-indigo-200">
+                        Production
                       </span>
                     )}
                   </div>
-                  <span className="font-mono font-bold text-slate-100">
+                  <span className="font-mono font-semibold text-slate-900">
                     {rawVal}
                     {selectedMetric.includes('Latency') ? ' ms' : ''}
                   </span>
                 </div>
-                <div className="w-full h-3 rounded-full bg-slate-950 overflow-hidden border border-slate-800">
+                <div className="w-full h-2.5 rounded-full bg-slate-100 overflow-hidden border border-slate-200">
                   <div
-                    className={`h-full rounded-full transition-all duration-500 ${
+                    className={`h-full rounded-full transition-all duration-300 ${
                       isProd
-                        ? 'bg-gradient-to-r from-indigo-500 via-violet-500 to-cyan-400'
+                        ? 'bg-indigo-600'
                         : rec.Configuration.includes('LLM Only')
-                        ? 'bg-rose-500/70'
-                        : 'bg-slate-600'
+                        ? 'bg-rose-400'
+                        : 'bg-slate-300'
                     }`}
                     style={{ width: `${barWidth}%` }}
                   />
@@ -157,22 +165,22 @@ export const EvaluationLab = () => {
       </div>
 
       {/* Comprehensive Benchmark Table */}
-      <div className="bg-slate-900/60 rounded-2xl border border-slate-800 shadow-xl overflow-hidden">
-        <div className="p-4 border-b border-slate-800 flex items-center justify-between">
+      <div className="bg-white rounded-xl border border-slate-200 shadow-xs overflow-hidden">
+        <div className="p-4 border-b border-slate-200 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <FileSpreadsheet className="w-4 h-4 text-indigo-400" />
-            <h4 className="text-sm font-bold text-slate-200">
-              Evaluation Matrix Benchmark Summary
+            <FileSpreadsheet className="w-4 h-4 text-indigo-600" />
+            <h4 className="text-sm font-semibold text-slate-900">
+              Benchmark Summary Matrix
             </h4>
           </div>
-          <span className="text-xs text-slate-400 font-mono">
+          <span className="text-xs text-slate-500 font-mono">
             eval/results/benchmark_summary.csv
           </span>
         </div>
 
         <div className="overflow-x-auto">
-          <table className="w-full text-left text-xs text-slate-300">
-            <thead className="bg-slate-950/80 text-slate-400 uppercase tracking-wider text-[11px] border-b border-slate-800">
+          <table className="w-full text-left text-xs text-slate-700">
+            <thead className="bg-slate-50 text-slate-500 uppercase tracking-wider text-[11px] border-b border-slate-200 font-semibold">
               <tr>
                 <th className="py-3 px-4">Configuration</th>
                 <th className="py-3 px-4">Hit-Rate@4</th>
@@ -183,27 +191,27 @@ export const EvaluationLab = () => {
                 <th className="py-3 px-4">Key Architectural Innovation</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-slate-800/60">
+            <tbody className="divide-y divide-slate-100">
               {records.map((r, i) => {
                 const isProd = r.Configuration.includes('Production');
                 return (
                   <tr
                     key={i}
-                    className={`hover:bg-slate-800/40 transition ${
-                      isProd ? 'bg-indigo-950/20' : ''
+                    className={`hover:bg-slate-50/80 transition ${
+                      isProd ? 'bg-indigo-50/30' : ''
                     }`}
                   >
-                    <td className="py-3 px-4 font-medium text-slate-200">
+                    <td className="py-3.5 px-4 font-medium text-slate-900">
                       {r.Configuration}
                     </td>
-                    <td className="py-3 px-4 font-mono">{r['Hit-Rate@4']}</td>
-                    <td className="py-3 px-4 font-mono">{r['MRR']}</td>
-                    <td className="py-3 px-4 font-mono font-bold text-emerald-400">
+                    <td className="py-3.5 px-4 font-mono">{r['Hit-Rate@4']}</td>
+                    <td className="py-3.5 px-4 font-mono">{r['MRR']}</td>
+                    <td className="py-3.5 px-4 font-mono font-semibold text-emerald-700">
                       {r['Answer Correctness']}
                     </td>
-                    <td className="py-3 px-4 font-mono">{r['Latency (p50 ms)']} ms</td>
-                    <td className="py-3 px-4 font-mono">${r['Cost ($/1000q)']}</td>
-                    <td className="py-3 px-4 text-slate-400">{r['Key Innovation']}</td>
+                    <td className="py-3.5 px-4 font-mono">{r['Latency (p50 ms)']} ms</td>
+                    <td className="py-3.5 px-4 font-mono">${r['Cost ($/1000q)']}</td>
+                    <td className="py-3.5 px-4 text-slate-500">{r['Key Innovation']}</td>
                   </tr>
                 );
               })}

@@ -4,7 +4,7 @@ import { App } from '../App';
 import { Header } from '../components/Header';
 import { ClassifierLab } from '../components/ClassifierLab';
 import { EvaluationLab } from '../components/EvaluationLab';
-import { ArchitectureGuide } from '../components/ArchitectureGuide';
+import { OrdersTable } from '../components/OrdersTable';
 
 // Mock scrollIntoView for jsdom
 window.HTMLElement.prototype.scrollIntoView = vi.fn();
@@ -16,7 +16,6 @@ globalThis.fetch = vi.fn(() =>
     json: () => Promise.resolve([]),
   } as unknown as Response)
 );
-
 
 describe('SupportMind Frontend Suite', () => {
   beforeEach(() => {
@@ -41,22 +40,20 @@ describe('SupportMind Frontend Suite', () => {
     expect(screen.getAllByText('3').length).toBeGreaterThanOrEqual(1); // pending badge count
   });
 
-
   it('renders App and defaults to Copilot Chat view', () => {
     render(<App />);
-    expect(screen.getByText(/SupportMind Copilot © 2026 NovaCart/i)).toBeDefined();
+    expect(screen.getByText(/SupportMind © 2026 NovaCart Operations/i)).toBeDefined();
     expect(screen.getByText(/Prompt Strategy:/i)).toBeDefined();
     expect(screen.getByText(/V3/i)).toBeDefined();
   });
 
-  it('switches navigation tab to System Design view', () => {
+  it('switches navigation tab to Fulfillment Orders view', () => {
     render(<App />);
-    const archButtons = screen.getAllByText('System Design');
-    fireEvent.click(archButtons[0]);
+    const ordersButtons = screen.getAllByText('Fulfillment Orders');
+    fireEvent.click(ordersButtons[0]);
 
-    expect(screen.getByText(/System Design & Interview Portfolio Guide/i)).toBeDefined();
-    expect(screen.getByText(/Min-Heap Top-K Retrieval DSA/i)).toBeDefined();
-    expect(screen.getByText(/O\(1\) LRU Cache DSA/i)).toBeDefined();
+    expect(screen.getAllByText(/Fulfillment Orders/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getByText(/500 Orders/i)).toBeDefined();
   });
 
   it('switches navigation tab to Supervisor Queue view', () => {
@@ -64,26 +61,26 @@ describe('SupportMind Frontend Suite', () => {
     const queueButtons = screen.getAllByText('Supervisor Queue');
     fireEvent.click(queueButtons[0]);
 
-    expect(screen.getByText(/Human-in-the-Loop Supervisor Queue/i)).toBeDefined();
+    expect(screen.getByText(/Supervisor Approvals Queue/i)).toBeDefined();
   });
 
   it('renders ClassifierLab with quick test examples', () => {
     render(<ClassifierLab />);
     expect(screen.getByText(/Machine Learning Classifier Lab/i)).toBeDefined();
-    expect(screen.getByText(/Double Billed \(Billing\)/i)).toBeDefined();
-    expect(screen.getByText(/Late Delivery \(Delivery\)/i)).toBeDefined();
+    expect(screen.getByText(/Double Billed \(Billing\):/i)).toBeDefined();
+    expect(screen.getByText(/Late Delivery \(Delivery\):/i)).toBeDefined();
   });
 
   it('renders EvaluationLab with benchmark metrics', () => {
     render(<EvaluationLab />);
-    expect(screen.getByText(/RAG & Prompt Evaluation Lab/i)).toBeDefined();
+    expect(screen.getByText(/RAG & Retrieval Evaluation Lab/i)).toBeDefined();
     expect(screen.getByText(/Compare Metric:/i)).toBeDefined();
     expect(screen.getAllByText(/Answer Correctness/i).length).toBeGreaterThanOrEqual(1);
   });
 
-  it('renders ArchitectureGuide with resume bullet points', () => {
-    render(<ArchitectureGuide />);
-    expect(screen.getByText(/Resume Ready Bullet Points/i)).toBeDefined();
-    expect(screen.getByText(/Technical Interview Q&A Deep Dive/i)).toBeDefined();
+  it('renders OrdersTable with search and filters', () => {
+    render(<OrdersTable />);
+    expect(screen.getAllByText(/Fulfillment Orders/i).length).toBeGreaterThanOrEqual(1);
+    expect(screen.getByText(/All Statuses/i)).toBeDefined();
   });
 });

@@ -5,7 +5,6 @@ import { ApprovalsQueue } from './components/ApprovalsQueue';
 import { OrdersTable } from './components/OrdersTable';
 import { ClassifierLab } from './components/ClassifierLab';
 import { EvaluationLab } from './components/EvaluationLab';
-import { ArchitectureGuide } from './components/ArchitectureGuide';
 import { fetchHealth, fetchPendingActions } from './services/api';
 
 export function App() {
@@ -45,7 +44,6 @@ export function App() {
 
   const handleOrderTrackInChat = (orderId: string) => {
     setActiveTab('chat');
-    // Pre-fill or notify chat
     setTimeout(() => {
       const input = document.querySelector('input[type="text"]') as HTMLInputElement;
       if (input) {
@@ -57,7 +55,7 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans selection:bg-indigo-500/30 selection:text-indigo-200">
+    <div className="min-h-screen bg-[#F5F7FA] text-slate-900 flex flex-col font-sans">
       {/* Top Navbar */}
       <Header
         activeTab={activeTab}
@@ -82,19 +80,18 @@ export function App() {
         )}
         {activeTab === 'classifier' && <ClassifierLab />}
         {activeTab === 'eval' && <EvaluationLab />}
-        {activeTab === 'architecture' && <ArchitectureGuide />}
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-slate-900 bg-slate-950/80 py-4 px-6 text-center text-xs text-slate-500">
+      <footer className="border-t border-slate-200 bg-white py-4 px-6 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <span>
-            SupportMind Copilot © 2026 NovaCart. Grounded Hybrid RAG + Agentic HITL Architecture.
+            SupportMind © 2026 NovaCart Operations. Enterprise Support Copilot with Grounded Hybrid RAG.
           </span>
-          <div className="flex items-center gap-4 text-slate-400">
-            <span>FastAPI Backend (8000)</span>
+          <div className="flex items-center gap-3 text-slate-400">
+            <span>FastAPI Backend</span>
             <span>•</span>
-            <span>React + Vite + Tailwind Frontend</span>
+            <span>React + Vite + Tailwind</span>
             <span>•</span>
             <span>Scikit-Learn ML</span>
           </div>
