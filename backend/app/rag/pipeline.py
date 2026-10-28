@@ -59,13 +59,13 @@ class RAGPipeline:
     def __init__(
         self,
         llm_provider: LLMProvider | None = None,
-        use_reranker: bool = True,
+        use_reranker: bool | None = None,
         cache_capacity: int = 128
     ):
         self.vector_store = VectorStore(backend=settings.VECTOR_STORE_BACKEND)
         self.bm25_index = BM25InvertedIndex()
         self.hybrid_retriever = HybridRetriever(self.vector_store, self.bm25_index)
-        self.reranker = Reranker(enabled=use_reranker)
+        self.reranker = Reranker(enabled=settings.USE_RERANKER if use_reranker is None else use_reranker)
         self.llm_provider = llm_provider or GeminiProvider()
         self.cache = LRUCache(capacity=cache_capacity)
         self.indexed_chunks: list[Chunk] = []

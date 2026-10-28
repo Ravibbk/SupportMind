@@ -36,7 +36,7 @@ class Settings(BaseSettings):
     CHUNK_OVERLAP: int = 50
     EMBEDDING_MODEL: str = "BAAI/bge-small-en-v1.5"
     TOP_K: int = 4
-    USE_RERANKER: bool = True
+    USE_RERANKER: bool = False
     VECTOR_STORE_BACKEND: str = "faiss"  # 'faiss' or 'numpy'
 
     # Guardrails

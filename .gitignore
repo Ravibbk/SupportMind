@@ -40,6 +40,8 @@ env/
 # FAISS and local indexes & binary models (save checkpoints in ml/ if needed, but not large caches)
 *.faiss
 *.pkl.tmp
+*.db
+*.sqlite3
 
 # Node / Frontend
 node_modules/
