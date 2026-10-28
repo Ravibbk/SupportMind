@@ -2,7 +2,7 @@
 asyncio_mode = "strict"
 asyncio_default_fixture_loop_scope = "function"
 testpaths = ["backend/tests"]
-pythonpath = ["backend"]
+pythonpath = ["backend", "."]
 filterwarnings = [
     "ignore::UserWarning:huggingface_hub.*",
 ]
@@ -13,7 +13,7 @@ line-length = 100
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP"]
-ignore = ["E501"]
+ignore = ["E501", "E402"]
 
 [tool.ruff.lint.isort]
 known-first-party = ["app"]

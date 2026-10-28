@@ -1,0 +1,8 @@
+Configuration,Hit-Rate@4,MRR,Answer Correctness,Faithfulness,Refusal Accuracy,Avg Latency (ms),Avg Tokens,Cost per 1k ($)
+Config A: LLM Only (No Retrieval),0.2333,0.2333,0.25,1.0,1.0,0.02,41,0.0062
+Config B: Vector Search Only,1.0,0.975,0.1722,0.4585,0.5333,14.55,77,0.0115
+Config C: Hybrid Search (BM25 + Vector),1.0,0.975,0.1555,0.3583,0.4667,16.69,86,0.0129
+Config D: Hybrid + Reranker,1.0,0.9222,0.1722,0.4397,0.5333,15.31,77,0.0115
+Prompt v1: Zero-Shot,1.0,0.975,0.1722,0.4585,0.5333,51.57,96,0.0144
+Prompt v2: Few-Shot,1.0,0.975,0.1555,0.3713,0.4667,20.63,108,0.0162
+Prompt v3: Chain-of-Thought (Production),1.0,0.975,0.1722,0.4585,0.5333,26.59,96,0.0144
