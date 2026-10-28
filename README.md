@@ -2,7 +2,6 @@
 
 [![SupportMind CI/CD](https://github.com/Ravibbk/SupportMind/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravibbk/SupportMind/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 [![Python 3.11 | 3.13](https://img.shields.io/badge/Python-3.11%20%7C%203.13-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com/)
 [![React 19](https://img.shields.io/badge/React-19.3-61DAFB.svg)](https://react.dev/)
@@ -10,7 +9,12 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.3-38B2AC.svg)](https://tailwindcss.com/)
 [![Code Style: Ruff](https://img.shields.io/badge/Code%20Style-Ruff-black.svg)](https://github.com/astral-sh/ruff)
 
+> 🚀 **Live Demo Web App**: [https://supportmind-frontend.onrender.com](https://supportmind-frontend.onrender.com)  
+> 📖 **Interactive Swagger API Docs**: [https://supportmind-backend.onrender.com/docs](https://supportmind-backend.onrender.com/docs)  
+> 🧪 **Evaluation Lab Report**: [`eval/reports/evaluation_report.md`](eval/reports/evaluation_report.md)
+
 > **SupportMind** is a production-grade AI customer support copilot engineered for high-volume e-commerce platforms ("NovaCart"). It pairs **Hybrid RAG** (BM25 + FAISS Dense Vector + Reciprocal Rank Fusion + Reranking) with **custom algorithmic Data Structures** ($O(N \log K)$ Min-Heap Top-K, $O(1)$ LRU Cache), **autonomous multi-agent routing**, **strict Human-in-the-Loop financial approval safeguards**, and a **post-generation Critic Agent** that audits factual claims to eliminate hallucinations.
+
 
 ---
 
