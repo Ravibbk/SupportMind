@@ -3,6 +3,9 @@ asyncio_mode = "strict"
 asyncio_default_fixture_loop_scope = "function"
 testpaths = ["backend/tests"]
 pythonpath = ["backend"]
+filterwarnings = [
+    "ignore::UserWarning:huggingface_hub.*",
+]
 
 [tool.ruff]
 target-version = "py311"
