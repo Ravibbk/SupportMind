@@ -1,7 +1,8 @@
 # SupportMind: Enterprise AI Customer Support Copilot
 
-[![SupportMind CI/CD](https://github.com/placeholder-user/SupportMind/actions/workflows/ci.yml/badge.svg)](https://github.com/placeholder-user/SupportMind/actions)
+[![SupportMind CI/CD](https://github.com/Ravibbk/SupportMind/actions/workflows/ci.yml/badge.svg)](https://github.com/Ravibbk/SupportMind/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Python 3.11 | 3.13](https://img.shields.io/badge/Python-3.11%20%7C%203.13-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com/)
 [![React 19](https://img.shields.io/badge/React-19.3-61DAFB.svg)](https://react.dev/)
@@ -126,8 +127,9 @@ SupportMind was benchmarked across **60 golden test questions** (45 policy quest
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/SupportMind.git
+git clone https://github.com/Ravibbk/SupportMind.git
 cd SupportMind
+
 
 # 2. Configure environment (optional, defaults to offline demo mode)
 cp .env.example .env
