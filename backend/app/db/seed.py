@@ -3,6 +3,7 @@ from pathlib import Path
 
 from app.db.models import get_db_connection, init_db
 
+
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 ORDERS_CSV = BASE_DIR / "data" / "orders.csv"
 

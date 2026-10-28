@@ -9,14 +9,23 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
       - LLM_MODEL=${LLM_MODEL:-gemini-2.5-flash}
       - PROMPT_VERSION=${PROMPT_VERSION:-v3}
-      - ALLOWED_ORIGINS=http://localhost:5173,http://localhost:3000
+      - ALLOWED_ORIGINS=http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173
       - ENVIRONMENT=production
+      - DEMO_MODE=${DEMO_MODE:-false}
     volumes:
       - ./backend/data:/app/backend/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
     restart: unless-stopped
+    networks:
+      - supportmind-net
 
   frontend:
     build:
@@ -26,5 +35,17 @@ services:
     ports:
       - "5173:80"
     depends_on:
-      - backend
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost/health"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
     restart: unless-stopped
+    networks:
+      - supportmind-net
+
+networks:
+  supportmind-net:
+    driver: bridge
