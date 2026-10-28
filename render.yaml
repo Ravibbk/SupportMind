@@ -27,6 +27,9 @@ services:
     plan: free
     buildCommand: "cd frontend && npm install && npm run build"
     staticPublishPath: "./frontend/dist"
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: "https://supportmind-backend.onrender.com"
     routes:
       - type: rewrite
         source: /*

@@ -8,7 +8,9 @@ import type {
   TraceRecord,
 } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = (import.meta.env.VITE_API_BASE_URL as string | undefined)
+  ? `${(import.meta.env.VITE_API_BASE_URL as string).replace(/\/+$/, '')}/api`
+  : '/api';
 
 export async function fetchHealth(): Promise<{ status: string; service: string; environment: string; demo_mode: boolean }> {
   try {
