@@ -1,12 +1,26 @@
-"""SupportMind FastAPI Application Entry Point.
-
-Configures CORS, middleware, lifecycle events, and routes.
-"""
+import logging
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.api.routes import router as api_router
 from app.config import settings
+from app.db.seed import seed_orders
+
+logger = logging.getLogger(__name__)
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Lifespan event handler: seeds SQLite database on application startup."""
+    try:
+        count = seed_orders()
+        logger.info("Successfully verified and seeded %d orders into database.", count)
+    except Exception as e:
+        logger.warning("Startup database initialization encountered an error: %s", e)
+    yield
+
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
@@ -14,6 +28,7 @@ app = FastAPI(
     description="AI Customer Support Copilot for NovaCart with RAG, Agentic Routing, and Guardrails.",
     docs_url="/docs",
     redoc_url="/redoc",
+    lifespan=lifespan,
 )
 
 # Setup CORS for Frontend integration
@@ -24,6 +39,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Mount REST API routes
+app.include_router(api_router)
 
 
 @app.get("/api/health", tags=["Health"])
@@ -45,3 +63,4 @@ async def root():
         "message": "Welcome to SupportMind API. Visit /docs for OpenAPI documentation.",
         "version": settings.VERSION,
     }
+
