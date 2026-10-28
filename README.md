@@ -9,7 +9,7 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.3-38B2AC.svg)](https://tailwindcss.com/)
 [![Code Style: Ruff](https://img.shields.io/badge/Code%20Style-Ruff-black.svg)](https://github.com/astral-sh/ruff)
 
-> 🚀 **Live Demo Web App**: [https://supportmind-frontend.onrender.com](https://supportmind-frontend.onrender.com)  
+> 🚀 **Live Demo Web App**: [https://supportmind-frontend.onrender.com](https://supportmind-1-hjtq.onrender.com))  
 > 📖 **Interactive Swagger API Docs**: [https://supportmind-backend.onrender.com/docs](https://supportmind-backend.onrender.com/docs)  
 > 🧪 **Evaluation Lab Report**: [`eval/reports/evaluation_report.md`](eval/reports/evaluation_report.md)
 
