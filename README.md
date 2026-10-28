@@ -239,11 +239,6 @@ SupportMind/
 
 ---
 
-## 💼 Interview Guide & Resume Talking Points
-
-Comprehensive interview resources are documented in [`docs/interview_guide.md`](docs/interview_guide.md):
-- **4 Quantified Resume Bullet Points** tailored for Senior AI Engineer & Machine Learning positions.
-- **Top 10 Technical Q&As** explaining trade-offs (Hybrid RAG vs dense vector, Min-Heap Top-K $O(N \log K)$ vs sorting, Human-in-the-Loop financial safety, Critic Agent hallucination auditing, and prompt injection defense).
 
 ---
 
