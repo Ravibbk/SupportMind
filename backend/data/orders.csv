@@ -1,0 +1,501 @@
+order_id,customer_name,email,product_title,price_usd,status,order_date,expected_delivery,carrier
+ORD-10001,Riley Johnson,riley.johnson45@example.com,SoundBar Studio Pro with Wireless Subwoofer,170.1,Delivered,2025-12-14 21:00:00,2025-12-21,FedEx
+ORD-10002,Hassan Williams,hassan.williams13@example.com,UltraView 4K Portable Monitor 15.6 inch,197.55,In Transit,2026-02-03 19:00:00,2026-02-10,FedEx
+ORD-10003,Mei Wright,mei.wright63@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,In Transit,2025-12-01 05:00:00,2025-12-06,DHL Express
+ORD-10004,Ethan Martinez,ethan.martinez37@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,109.65,Delivered,2026-01-18 03:00:00,2026-01-23,USPS
+ORD-10005,Kai Taylor,kai.taylor15@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delivered,2026-01-18 02:00:00,2026-01-25,USPS
+ORD-10006,Dante Torres,dante.torres34@example.com,UltraView 4K Portable Monitor 15.6 inch,186.57,In Transit,2026-01-07 02:00:00,2026-01-10,UPS
+ORD-10007,Elena Moore,elena.moore68@example.com,PocketCam 4K Action Camera Bundle,161.99,Delayed,2026-01-15 06:00:00,2026-01-18,USPS
+ORD-10008,Kai Hernandez,kai.hernandez78@example.com,SoundBar Studio Pro with Wireless Subwoofer,170.1,Cancelled,2026-01-18 08:00:00,2026-01-23,UPS
+ORD-10009,Morgan Anderson,morgan.anderson14@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,In Transit,2025-12-09 06:00:00,2025-12-13,USPS
+ORD-10010,Ananya Sanchez,ananya.sanchez92@example.com,NovaTab Pro 10.5 inch Tablet 128GB,269.1,In Transit,2025-12-18 07:00:00,2025-12-25,USPS
+ORD-10011,Hassan Nguyen,hassan.nguyen61@example.com,PocketCam 4K Action Camera Bundle,161.99,Delivered,2026-02-04 15:00:00,2026-02-07,FedEx
+ORD-10012,Riley Martinez,riley.martinez90@example.com,TitanShield Rugged PowerBank 30000mAh,54.99,Processing,2025-12-09 12:00:00,2025-12-14,DHL Express
+ORD-10013,Harper Taylor,harper.taylor80@example.com,NovaSound Wireless ANC Headphones,164.99,Delivered,2026-02-07 08:00:00,2026-02-10,USPS
+ORD-10014,Sophia Ramirez,sophia.ramirez30@example.com,NovaTab Pro 10.5 inch Tablet 128GB,254.15,In Transit,2026-02-03 05:00:00,2026-02-08,FedEx
+ORD-10015,Devon Patel,devon.patel35@example.com,ErgoGlide Ergonomic Office Chair,349.99,Delivered,2026-02-08 16:00:00,2026-02-15,FedEx
+ORD-10016,Aria Young,aria.young12@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,In Transit,2025-12-31 01:00:00,2026-01-07,UPS
+ORD-10017,Chris Garcia,chris.garcia72@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delivered,2025-12-17 21:00:00,2025-12-24,DHL Express
+ORD-10018,Priya Taylor,priya.taylor77@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2026-02-08 23:00:00,2026-02-13,UPS
+ORD-10019,Marcus White,marcus.white66@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delivered,2026-01-01 07:00:00,2026-01-06,FedEx
+ORD-10020,Jordan Nguyen,jordan.nguyen80@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,In Transit,2025-12-01 02:00:00,2025-12-05,FedEx
+ORD-10021,Sam Williams,sam.williams52@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,In Transit,2026-01-05 21:00:00,2026-01-09,DHL Express
+ORD-10022,Siddharth Rodriguez,siddharth.rodriguez83@example.com,Voyager Anti-Theft Travel Backpack,85.0,In Transit,2026-01-30 13:00:00,2026-02-02,UPS
+ORD-10023,Casey Ramirez,casey.ramirez55@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Cancelled,2025-12-07 21:00:00,2025-12-10,FedEx
+ORD-10024,Marcus Perez,marcus.perez23@example.com,SoundBar Studio Pro with Wireless Subwoofer,170.1,In Transit,2026-02-07 14:00:00,2026-02-13,UPS
+ORD-10025,Carlos Moore,carlos.moore69@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,Cancelled,2026-02-09 03:00:00,2026-02-12,FedEx
+ORD-10026,Chris Thomas,chris.thomas31@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Cancelled,2025-12-28 12:00:00,2026-01-01,FedEx
+ORD-10027,Elena Smith,elena.smith59@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,In Transit,2026-01-24 22:00:00,2026-01-28,DHL Express
+ORD-10028,Mei Jackson,mei.jackson37@example.com,NovaPulse Smart Fitness Tracker V3,89.99,Delivered,2026-01-10 01:00:00,2026-01-17,FedEx
+ORD-10029,Yuki Allen,yuki.allen77@example.com,TitanShield Rugged PowerBank 30000mAh,42.49,Delivered,2025-12-24 02:00:00,2025-12-28,FedEx
+ORD-10030,Marcus Davis,marcus.davis82@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delivered,2025-12-11 13:00:00,2025-12-16,USPS
+ORD-10031,Liam Lee,liam.lee40@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Delivered,2026-01-08 14:00:00,2026-01-11,USPS
+ORD-10032,Alex Robinson,alex.robinson89@example.com,Voyager Anti-Theft Travel Backpack,72.25,Delivered,2026-02-07 06:00:00,2026-02-11,USPS
+ORD-10033,Zoe Jones,zoe.jones41@example.com,PocketCam 4K Action Camera Bundle,179.99,Delivered,2026-01-26 17:00:00,2026-02-02,USPS
+ORD-10034,Harper Smith,harper.smith95@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2025-12-18 08:00:00,2025-12-21,FedEx
+ORD-10035,Aisha Martinez,aisha.martinez44@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,In Transit,2026-01-13 06:00:00,2026-01-20,USPS
+ORD-10036,Ananya Taylor,ananya.taylor16@example.com,UltraView 4K Portable Monitor 15.6 inch,241.45,Processing,2026-01-05 01:00:00,2026-01-09,FedEx
+ORD-10037,Avery Taylor,avery.taylor30@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Processing,2026-02-10 00:00:00,2026-02-12,FedEx
+ORD-10038,Jamie Wright,jamie.wright14@example.com,PocketCam 4K Action Camera Bundle,179.99,Delivered,2026-01-25 04:00:00,2026-01-30,FedEx
+ORD-10039,Dante Williams,dante.williams55@example.com,LuminaDesk RGB LED Light Bar,43.99,In Transit,2025-12-14 11:00:00,2025-12-21,DHL Express
+ORD-10040,Jamie Thomas,jamie.thomas30@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Delivered,2025-12-23 23:00:00,2025-12-29,USPS
+ORD-10041,Noah Moore,noah.moore30@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delivered,2026-01-30 07:00:00,2026-02-05,UPS
+ORD-10042,Zoe Martin,zoe.martin39@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,In Transit,2026-01-21 10:00:00,2026-01-24,USPS
+ORD-10043,Ethan Thompson,ethan.thompson92@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delayed,2025-12-04 03:00:00,2025-12-08,USPS
+ORD-10044,Camila Taylor,camila.taylor14@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Processing,2026-01-14 23:00:00,2026-01-19,USPS
+ORD-10045,Kai Allen,kai.allen24@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,In Transit,2026-01-02 01:00:00,2026-01-05,DHL Express
+ORD-10046,Harper Wright,harper.wright97@example.com,LuminaDesk RGB LED Light Bar,39.99,Processing,2025-12-09 21:00:00,2025-12-13,USPS
+ORD-10047,Riley Martin,riley.martin74@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,Processing,2026-01-11 12:00:00,2026-01-14,USPS
+ORD-10048,Mei Clark,mei.clark95@example.com,SwiftCharge 3-in-1 MagSafe Station,65.99,Delivered,2026-02-11 09:00:00,2026-02-18,DHL Express
+ORD-10049,Alex Martin,alex.martin46@example.com,LuminaDesk RGB LED Light Bar,39.99,Delayed,2026-01-29 14:00:00,2026-02-02,DHL Express
+ORD-10050,Devon Walker,devon.walker31@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delayed,2025-12-12 07:00:00,2025-12-16,USPS
+ORD-10051,Mei Martinez,mei.martinez13@example.com,NovaPulse Smart Fitness Tracker V3,80.99,Cancelled,2025-12-10 14:00:00,2025-12-14,DHL Express
+ORD-10052,Elena Young,elena.young61@example.com,SoundBar Studio Pro with Wireless Subwoofer,170.1,Delivered,2025-12-14 13:00:00,2025-12-18,UPS
+ORD-10053,Harper Robinson,harper.robinson16@example.com,OmniGrip Silicone Kitchen Cookware Set,71.99,Delivered,2026-01-28 04:00:00,2026-02-04,DHL Express
+ORD-10054,Aisha Patel,aisha.patel50@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Processing,2026-02-09 14:00:00,2026-02-14,UPS
+ORD-10055,Fatima Taylor,fatima.taylor41@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Cancelled,2025-12-31 08:00:00,2026-01-03,DHL Express
+ORD-10056,Sophia Thomas,sophia.thomas44@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Delivered,2025-12-18 04:00:00,2025-12-24,UPS
+ORD-10057,Jamie Wilson,jamie.wilson18@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Delayed,2026-02-08 14:00:00,2026-02-11,DHL Express
+ORD-10058,Liam Clark,liam.clark59@example.com,Voyager Anti-Theft Travel Backpack,93.5,Delivered,2026-02-12 12:00:00,2026-02-15,DHL Express
+ORD-10059,Zoe Martin,zoe.martin59@example.com,BreezeAir HEPA True Allergen Purifier,139.95,In Transit,2026-02-01 07:00:00,2026-02-07,USPS
+ORD-10060,Ananya Johnson,ananya.johnson59@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,141.9,Processing,2025-12-22 14:00:00,2025-12-24,UPS
+ORD-10061,Marcus Nguyen,marcus.nguyen82@example.com,NovaSound Wireless ANC Headphones,127.49,Processing,2025-12-18 14:00:00,2025-12-20,UPS
+ORD-10062,Olivia Harris,olivia.harris51@example.com,LuminaDesk RGB LED Light Bar,39.99,Delayed,2026-01-13 12:00:00,2026-01-19,USPS
+ORD-10063,Olivia Garcia,olivia.garcia70@example.com,NovaSound Wireless ANC Headphones,164.99,Delivered,2026-01-14 07:00:00,2026-01-17,FedEx
+ORD-10064,Jordan Thomas,jordan.thomas35@example.com,NovaSound Wireless ANC Headphones,149.99,Delivered,2025-12-31 04:00:00,2026-01-03,DHL Express
+ORD-10065,Gabriel Wilson,gabriel.wilson69@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Delivered,2025-12-15 05:00:00,2025-12-18,USPS
+ORD-10066,Camila Johnson,camila.johnson49@example.com,Voyager Anti-Theft Travel Backpack,93.5,Processing,2026-01-20 22:00:00,2026-01-22,UPS
+ORD-10067,Camila Thomas,camila.thomas23@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,Delivered,2026-02-11 01:00:00,2026-02-18,USPS
+ORD-10068,Hassan White,hassan.white18@example.com,ArmorFit Water Bottle 32oz Insulated,27.49,Delayed,2025-12-02 13:00:00,2025-12-05,DHL Express
+ORD-10069,Hassan White,hassan.white91@example.com,NovaTab Pro 10.5 inch Tablet 128GB,328.9,Delivered,2026-01-25 05:00:00,2026-02-01,USPS
+ORD-10070,Siddharth Walker,siddharth.walker69@example.com,BreezeAir HEPA True Allergen Purifier,153.94,In Transit,2026-01-11 07:00:00,2026-01-16,FedEx
+ORD-10071,Fatima Thomas,fatima.thomas69@example.com,Voyager Anti-Theft Travel Backpack,85.0,Processing,2026-01-13 00:00:00,2026-01-17,DHL Express
+ORD-10072,Carlos Young,carlos.young37@example.com,PocketCam 4K Action Camera Bundle,179.99,Delayed,2026-01-05 19:00:00,2026-01-12,USPS
+ORD-10073,Alex King,alex.king34@example.com,UltraView 4K Portable Monitor 15.6 inch,197.55,Processing,2026-02-01 17:00:00,2026-02-06,UPS
+ORD-10074,Ananya Lewis,ananya.lewis12@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,In Transit,2026-01-21 22:00:00,2026-01-26,UPS
+ORD-10075,Camila White,camila.white70@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delayed,2026-01-24 23:00:00,2026-01-29,USPS
+ORD-10076,Chen Moore,chen.moore49@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Delivered,2025-12-25 10:00:00,2026-01-01,FedEx
+ORD-10077,Carlos Gonzalez,carlos.gonzalez37@example.com,EchoBreeze Desk Fan with Nightlight,28.5,In Transit,2025-12-13 06:00:00,2025-12-17,USPS
+ORD-10078,Dante Lopez,dante.lopez48@example.com,NovaSound Wireless ANC Headphones,164.99,Delivered,2026-01-05 01:00:00,2026-01-12,FedEx
+ORD-10079,Sophia Rodriguez,sophia.rodriguez91@example.com,EchoBreeze Desk Fan with Nightlight,24.22,Delivered,2026-02-12 09:00:00,2026-02-18,DHL Express
+ORD-10080,Fatima Perez,fatima.perez33@example.com,NovaPulse Smart Fitness Tracker V3,89.99,Cancelled,2025-12-15 02:00:00,2025-12-21,DHL Express
+ORD-10081,Sam Torres,sam.torres90@example.com,NovaPulse Smart Fitness Tracker V3,80.99,Delivered,2026-02-11 09:00:00,2026-02-15,FedEx
+ORD-10082,Riley Scott,riley.scott63@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2026-02-05 12:00:00,2026-02-11,DHL Express
+ORD-10083,Lucas Nguyen,lucas.nguyen64@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Delivered,2025-12-13 06:00:00,2025-12-18,UPS
+ORD-10084,Chris Hernandez,chris.hernandez40@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Delivered,2025-12-21 00:00:00,2025-12-27,DHL Express
+ORD-10085,Kai Walker,kai.walker47@example.com,NovaPulse Smart Fitness Tracker V3,80.99,In Transit,2026-01-06 22:00:00,2026-01-09,DHL Express
+ORD-10086,Emma Taylor,emma.taylor90@example.com,Voyager Anti-Theft Travel Backpack,93.5,In Transit,2026-01-24 03:00:00,2026-01-28,UPS
+ORD-10087,Ethan Martinez,ethan.martinez19@example.com,NovaPulse Smart Fitness Tracker V3,80.99,In Transit,2026-02-11 09:00:00,2026-02-14,DHL Express
+ORD-10088,Chen Martin,chen.martin99@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Cancelled,2026-01-26 02:00:00,2026-02-01,FedEx
+ORD-10089,Aria Patel,aria.patel42@example.com,NovaSound Wireless ANC Headphones,127.49,In Transit,2026-02-12 18:00:00,2026-02-17,FedEx
+ORD-10090,Gabriel Williams,gabriel.williams32@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Cancelled,2026-01-05 05:00:00,2026-01-11,DHL Express
+ORD-10091,Chris Walker,chris.walker54@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Delayed,2025-12-14 05:00:00,2025-12-20,USPS
+ORD-10092,Ananya Jackson,ananya.jackson94@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2026-01-28 02:00:00,2026-02-02,USPS
+ORD-10093,Aria Davis,aria.davis61@example.com,ArmorFit Water Bottle 32oz Insulated,21.24,Cancelled,2026-01-22 01:00:00,2026-01-27,UPS
+ORD-10094,Maya Young,maya.young90@example.com,NovaTab Pro 10.5 inch Tablet 128GB,254.15,In Transit,2026-01-04 17:00:00,2026-01-09,UPS
+ORD-10095,Fatima Young,fatima.young25@example.com,NovaSound Wireless ANC Headphones,164.99,In Transit,2025-12-21 09:00:00,2025-12-28,FedEx
+ORD-10096,Chloe Garcia,chloe.garcia38@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delivered,2025-12-20 15:00:00,2025-12-27,USPS
+ORD-10097,Ethan Clark,ethan.clark71@example.com,EchoBreeze Desk Fan with Nightlight,25.65,Cancelled,2026-02-09 04:00:00,2026-02-13,DHL Express
+ORD-10098,Kai Allen,kai.allen27@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Processing,2026-01-13 16:00:00,2026-01-15,USPS
+ORD-10099,Sophia Martin,sophia.martin85@example.com,Voyager Anti-Theft Travel Backpack,93.5,Cancelled,2025-12-20 14:00:00,2025-12-25,DHL Express
+ORD-10100,Mateo Scott,mateo.scott79@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delayed,2025-12-25 22:00:00,2026-01-01,UPS
+ORD-10101,Elena Anderson,elena.anderson62@example.com,NovaPulse Smart Fitness Tracker V3,89.99,Cancelled,2026-01-18 12:00:00,2026-01-24,UPS
+ORD-10102,Taylor Rodriguez,taylor.rodriguez74@example.com,Voyager Anti-Theft Travel Backpack,85.0,Delivered,2026-01-26 03:00:00,2026-01-29,DHL Express
+ORD-10103,Jamie Clark,jamie.clark93@example.com,ErgoGlide Ergonomic Office Chair,297.49,Cancelled,2026-01-03 10:00:00,2026-01-06,DHL Express
+ORD-10104,Mateo Wright,mateo.wright58@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,141.9,Cancelled,2026-02-08 01:00:00,2026-02-12,FedEx
+ORD-10105,Sophia Anderson,sophia.anderson21@example.com,BreezeAir HEPA True Allergen Purifier,118.96,Delivered,2026-01-26 05:00:00,2026-01-29,USPS
+ORD-10106,Taylor Lee,taylor.lee17@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Delayed,2026-01-25 04:00:00,2026-02-01,UPS
+ORD-10107,Chloe Torres,chloe.torres97@example.com,TitanShield Rugged PowerBank 30000mAh,44.99,Delivered,2025-12-11 19:00:00,2025-12-18,DHL Express
+ORD-10108,Noah Young,noah.young84@example.com,ErgoGlide Ergonomic Office Chair,314.99,Cancelled,2026-01-02 14:00:00,2026-01-05,USPS
+ORD-10109,Chen Jackson,chen.jackson96@example.com,OmniGrip Silicone Kitchen Cookware Set,71.99,Delivered,2026-01-26 11:00:00,2026-02-01,USPS
+ORD-10110,Olivia Robinson,olivia.robinson48@example.com,LuminaDesk RGB LED Light Bar,39.99,Cancelled,2025-12-14 07:00:00,2025-12-19,DHL Express
+ORD-10111,Gabriel Jackson,gabriel.jackson99@example.com,QuantumKey Mechanical Gaming Keyboard,101.99,Processing,2026-01-05 00:00:00,2026-01-10,FedEx
+ORD-10112,Sophia Anderson,sophia.anderson87@example.com,PocketCam 4K Action Camera Bundle,161.99,In Transit,2026-01-02 21:00:00,2026-01-05,UPS
+ORD-10113,Taylor Martin,taylor.martin66@example.com,NovaPulse Smart Fitness Tracker V3,89.99,Delayed,2025-12-17 02:00:00,2025-12-22,USPS
+ORD-10114,Chloe Lopez,chloe.lopez35@example.com,ErgoGlide Ergonomic Office Chair,349.99,Delayed,2026-02-06 16:00:00,2026-02-10,USPS
+ORD-10115,Olivia Walker,olivia.walker47@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,109.65,Cancelled,2025-12-10 04:00:00,2025-12-16,UPS
+ORD-10116,Aisha White,aisha.white21@example.com,SwiftCharge 3-in-1 MagSafe Station,50.99,In Transit,2026-02-07 03:00:00,2026-02-12,DHL Express
+ORD-10117,Olivia Nguyen,olivia.nguyen58@example.com,PocketCam 4K Action Camera Bundle,152.99,In Transit,2026-01-30 00:00:00,2026-02-06,USPS
+ORD-10118,Emma Jones,emma.jones91@example.com,NovaTab Pro 10.5 inch Tablet 128GB,328.9,In Transit,2026-01-22 03:00:00,2026-01-25,UPS
+ORD-10119,Taylor Martin,taylor.martin73@example.com,AeroBrew Smart Temperature Coffee Mug,54.4,In Transit,2026-02-07 04:00:00,2026-02-13,DHL Express
+ORD-10120,Dante Wright,dante.wright63@example.com,Voyager Anti-Theft Travel Backpack,93.5,Delivered,2026-01-23 20:00:00,2026-01-29,FedEx
+ORD-10121,Maya Clark,maya.clark45@example.com,NovaPulse Smart Fitness Tracker V3,98.99,Delayed,2025-12-28 14:00:00,2026-01-01,DHL Express
+ORD-10122,Dante Miller,dante.miller97@example.com,PocketCam 4K Action Camera Bundle,179.99,Delayed,2025-12-08 12:00:00,2025-12-12,USPS
+ORD-10123,Riley Robinson,riley.robinson21@example.com,LuminaDesk RGB LED Light Bar,43.99,Delivered,2025-12-07 10:00:00,2025-12-11,UPS
+ORD-10124,Gabriel Wilson,gabriel.wilson18@example.com,OmniGrip Silicone Kitchen Cookware Set,71.99,In Transit,2025-12-30 10:00:00,2026-01-06,UPS
+ORD-10125,Alex Moore,alex.moore28@example.com,ErgoGlide Ergonomic Office Chair,349.99,In Transit,2025-12-23 03:00:00,2025-12-27,FedEx
+ORD-10126,Alex Thompson,alex.thompson40@example.com,Voyager Anti-Theft Travel Backpack,85.0,Delivered,2025-12-23 08:00:00,2025-12-27,FedEx
+ORD-10127,Chloe King,chloe.king24@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Cancelled,2026-01-16 16:00:00,2026-01-22,FedEx
+ORD-10128,Devon Anderson,devon.anderson88@example.com,NovaPulse Smart Fitness Tracker V3,98.99,In Transit,2026-01-28 20:00:00,2026-01-31,FedEx
+ORD-10129,Yuki Sanchez,yuki.sanchez64@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Cancelled,2025-12-10 02:00:00,2025-12-14,USPS
+ORD-10130,Sam Rodriguez,sam.rodriguez45@example.com,AuraGlow Smart Sunset Ambient Lamp,38.49,Delayed,2026-01-18 19:00:00,2026-01-24,USPS
+ORD-10131,Devon Patel,devon.patel65@example.com,AeroBrew Smart Temperature Coffee Mug,70.4,Delivered,2026-02-09 23:00:00,2026-02-15,UPS
+ORD-10132,Fatima Anderson,fatima.anderson62@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Processing,2026-01-23 23:00:00,2026-01-27,FedEx
+ORD-10133,Hassan Lee,hassan.lee95@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Delivered,2026-01-30 02:00:00,2026-02-02,FedEx
+ORD-10134,Chris Ramirez,chris.ramirez22@example.com,PocketCam 4K Action Camera Bundle,161.99,Delivered,2026-02-14 17:00:00,2026-02-17,USPS
+ORD-10135,Chloe Thompson,chloe.thompson95@example.com,BreezeAir HEPA True Allergen Purifier,153.94,Delivered,2026-01-06 19:00:00,2026-01-11,USPS
+ORD-10136,Casey Torres,casey.torres74@example.com,LuminaDesk RGB LED Light Bar,35.99,Cancelled,2025-12-29 03:00:00,2026-01-03,USPS
+ORD-10137,Riley Moore,riley.moore83@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delivered,2026-01-04 00:00:00,2026-01-09,UPS
+ORD-10138,Lucas Perez,lucas.perez54@example.com,NovaSound Wireless ANC Headphones,134.99,Delivered,2026-02-11 21:00:00,2026-02-14,DHL Express
+ORD-10139,Jamie Johnson,jamie.johnson21@example.com,ArmorFit Water Bottle 32oz Insulated,22.49,Processing,2026-01-23 14:00:00,2026-01-26,USPS
+ORD-10140,Dante Martin,dante.martin51@example.com,Voyager Anti-Theft Travel Backpack,85.0,Delivered,2025-12-07 04:00:00,2025-12-14,UPS
+ORD-10141,Morgan Garcia,morgan.garcia44@example.com,NovaTab Pro 10.5 inch Tablet 128GB,328.9,Processing,2026-02-01 19:00:00,2026-02-06,DHL Express
+ORD-10142,Ethan Wilson,ethan.wilson75@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Processing,2025-12-15 09:00:00,2025-12-19,DHL Express
+ORD-10143,Taylor Anderson,taylor.anderson60@example.com,AuraGlow Smart Sunset Ambient Lamp,29.74,Delivered,2025-12-27 09:00:00,2025-12-31,UPS
+ORD-10144,Olivia Jackson,olivia.jackson51@example.com,AeroBrew Smart Temperature Coffee Mug,54.4,Cancelled,2026-01-25 05:00:00,2026-01-31,UPS
+ORD-10145,Siddharth Anderson,siddharth.anderson74@example.com,OmniGrip Silicone Kitchen Cookware Set,87.99,Delayed,2025-12-10 12:00:00,2025-12-16,FedEx
+ORD-10146,Jordan Robinson,jordan.robinson19@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Processing,2026-02-12 12:00:00,2026-02-16,DHL Express
+ORD-10147,Riley Sanchez,riley.sanchez12@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,116.1,Cancelled,2026-01-16 02:00:00,2026-01-19,DHL Express
+ORD-10148,Noah Ramirez,noah.ramirez85@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2026-01-20 09:00:00,2026-01-24,USPS
+ORD-10149,Mateo Hernandez,mateo.hernandez19@example.com,ArmorFit Water Bottle 32oz Insulated,27.49,Delivered,2026-02-06 16:00:00,2026-02-11,UPS
+ORD-10150,Zoe Martinez,zoe.martinez40@example.com,AeroBrew Smart Temperature Coffee Mug,57.6,In Transit,2025-12-26 05:00:00,2025-12-29,UPS
+ORD-10151,Carlos Young,carlos.young69@example.com,Voyager Anti-Theft Travel Backpack,85.0,Cancelled,2026-02-11 20:00:00,2026-02-16,USPS
+ORD-10152,Jamie Lewis,jamie.lewis18@example.com,EchoBreeze Desk Fan with Nightlight,28.5,In Transit,2026-01-05 18:00:00,2026-01-10,FedEx
+ORD-10153,Devon Jones,devon.jones49@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delivered,2025-12-08 11:00:00,2025-12-11,USPS
+ORD-10154,Chris Patel,chris.patel74@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2026-01-27 18:00:00,2026-02-01,UPS
+ORD-10155,Kai Walker,kai.walker74@example.com,ErgoGlide Ergonomic Office Chair,297.49,Cancelled,2025-12-14 10:00:00,2025-12-18,FedEx
+ORD-10156,Taylor Thomas,taylor.thomas66@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delivered,2026-01-16 11:00:00,2026-01-22,USPS
+ORD-10157,Chloe Perez,chloe.perez96@example.com,AuraGlow Smart Sunset Ambient Lamp,29.74,Delayed,2025-12-09 10:00:00,2025-12-16,FedEx
+ORD-10158,Elena Jackson,elena.jackson42@example.com,AuraGlow Smart Sunset Ambient Lamp,31.49,Delayed,2025-12-11 18:00:00,2025-12-16,UPS
+ORD-10159,Lucas Sanchez,lucas.sanchez26@example.com,AuraGlow Smart Sunset Ambient Lamp,38.49,Delivered,2026-01-09 17:00:00,2026-01-14,DHL Express
+ORD-10160,Avery King,avery.king21@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Delayed,2025-12-03 11:00:00,2025-12-07,USPS
+ORD-10161,Liam Perez,liam.perez72@example.com,LuminaDesk RGB LED Light Bar,35.99,Delivered,2025-12-20 02:00:00,2025-12-23,USPS
+ORD-10162,Devon Wright,devon.wright77@example.com,NovaPulse Smart Fitness Tracker V3,98.99,Delayed,2025-12-17 19:00:00,2025-12-21,DHL Express
+ORD-10163,Priya Lopez,priya.lopez98@example.com,AuraGlow Smart Sunset Ambient Lamp,31.49,Cancelled,2025-12-06 13:00:00,2025-12-10,USPS
+ORD-10164,Fatima Jackson,fatima.jackson67@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,In Transit,2026-01-09 15:00:00,2026-01-14,UPS
+ORD-10165,Gabriel Lewis,gabriel.lewis69@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Processing,2025-12-21 06:00:00,2025-12-25,UPS
+ORD-10166,Morgan Walker,morgan.walker57@example.com,OmniGrip Silicone Kitchen Cookware Set,67.99,Delivered,2026-01-06 02:00:00,2026-01-11,UPS
+ORD-10167,Fatima Allen,fatima.allen28@example.com,BreezeAir HEPA True Allergen Purifier,118.96,In Transit,2026-01-27 11:00:00,2026-02-02,FedEx
+ORD-10168,Morgan Sanchez,morgan.sanchez74@example.com,PocketCam 4K Action Camera Bundle,161.99,Processing,2025-12-11 11:00:00,2025-12-13,UPS
+ORD-10169,Aria Miller,aria.miller93@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,116.1,Delivered,2025-12-05 09:00:00,2025-12-09,DHL Express
+ORD-10170,Yuki Lewis,yuki.lewis88@example.com,NovaSound Wireless ANC Headphones,127.49,Delivered,2026-01-02 06:00:00,2026-01-09,UPS
+ORD-10171,Kai King,kai.king64@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,In Transit,2026-01-08 03:00:00,2026-01-12,FedEx
+ORD-10172,Chloe Robinson,chloe.robinson18@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delivered,2026-02-04 18:00:00,2026-02-08,UPS
+ORD-10173,Sophia Ramirez,sophia.ramirez10@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2026-02-12 13:00:00,2026-02-15,UPS
+ORD-10174,Harper White,harper.white18@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delivered,2026-01-19 15:00:00,2026-01-25,FedEx
+ORD-10175,Dante Taylor,dante.taylor12@example.com,PocketCam 4K Action Camera Bundle,152.99,Delayed,2025-12-31 23:00:00,2026-01-07,FedEx
+ORD-10176,Mateo Rodriguez,mateo.rodriguez15@example.com,PocketCam 4K Action Camera Bundle,179.99,Delayed,2025-12-23 21:00:00,2025-12-29,DHL Express
+ORD-10177,Carlos Rodriguez,carlos.rodriguez18@example.com,NovaTab Pro 10.5 inch Tablet 128GB,254.15,In Transit,2025-12-26 01:00:00,2025-12-29,UPS
+ORD-10178,Aria Martin,aria.martin75@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Cancelled,2026-01-02 01:00:00,2026-01-07,UPS
+ORD-10179,Zoe Brown,zoe.brown93@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Delivered,2026-01-17 13:00:00,2026-01-23,DHL Express
+ORD-10180,Elena Perez,elena.perez33@example.com,EchoBreeze Desk Fan with Nightlight,31.35,Cancelled,2026-01-17 16:00:00,2026-01-20,USPS
+ORD-10181,Hassan Garcia,hassan.garcia65@example.com,AuraGlow Smart Sunset Ambient Lamp,31.49,In Transit,2026-01-11 03:00:00,2026-01-16,FedEx
+ORD-10182,Sophia Martin,sophia.martin67@example.com,AuraGlow Smart Sunset Ambient Lamp,38.49,Processing,2025-12-22 22:00:00,2025-12-26,DHL Express
+ORD-10183,Fatima Williams,fatima.williams55@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2025-12-08 02:00:00,2025-12-13,DHL Express
+ORD-10184,Devon Hernandez,devon.hernandez13@example.com,ErgoGlide Ergonomic Office Chair,349.99,Cancelled,2025-12-05 04:00:00,2025-12-09,FedEx
+ORD-10185,Dante White,dante.white59@example.com,Voyager Anti-Theft Travel Backpack,72.25,Delivered,2026-01-27 11:00:00,2026-02-02,USPS
+ORD-10186,Sam Torres,sam.torres27@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Processing,2026-01-10 20:00:00,2026-01-13,USPS
+ORD-10187,Riley Johnson,riley.johnson33@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Processing,2026-02-10 03:00:00,2026-02-14,USPS
+ORD-10188,Fatima Wilson,fatima.wilson88@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,Cancelled,2025-12-26 03:00:00,2025-12-29,UPS
+ORD-10189,Fatima Lopez,fatima.lopez66@example.com,UltraView 4K Portable Monitor 15.6 inch,241.45,Delayed,2026-01-14 22:00:00,2026-01-21,FedEx
+ORD-10190,Siddharth Jackson,siddharth.jackson48@example.com,TitanShield Rugged PowerBank 30000mAh,54.99,Delivered,2026-01-16 16:00:00,2026-01-19,UPS
+ORD-10191,Mei Rodriguez,mei.rodriguez40@example.com,EchoBreeze Desk Fan with Nightlight,24.22,Delayed,2026-02-09 18:00:00,2026-02-15,USPS
+ORD-10192,Aisha Rodriguez,aisha.rodriguez88@example.com,UltraView 4K Portable Monitor 15.6 inch,186.57,In Transit,2026-01-20 22:00:00,2026-01-27,DHL Express
+ORD-10193,Chloe Clark,chloe.clark83@example.com,UltraView 4K Portable Monitor 15.6 inch,197.55,Delayed,2025-12-10 14:00:00,2025-12-17,DHL Express
+ORD-10194,Zoe Rodriguez,zoe.rodriguez80@example.com,Voyager Anti-Theft Travel Backpack,76.5,Delivered,2026-01-25 16:00:00,2026-01-28,FedEx
+ORD-10195,Harper Martinez,harper.martinez48@example.com,TitanShield Rugged PowerBank 30000mAh,44.99,Delayed,2025-12-29 11:00:00,2026-01-01,USPS
+ORD-10196,Olivia Gonzalez,olivia.gonzalez91@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2026-01-08 19:00:00,2026-01-15,FedEx
+ORD-10197,Priya Nguyen,priya.nguyen84@example.com,ErgoGlide Ergonomic Office Chair,314.99,Delayed,2026-02-11 01:00:00,2026-02-14,FedEx
+ORD-10198,Taylor Torres,taylor.torres43@example.com,LuminaDesk RGB LED Light Bar,39.99,Processing,2025-12-04 15:00:00,2025-12-08,USPS
+ORD-10199,Yuki Thomas,yuki.thomas97@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Cancelled,2025-12-10 22:00:00,2025-12-14,FedEx
+ORD-10200,Fatima Clark,fatima.clark71@example.com,NovaTab Pro 10.5 inch Tablet 128GB,269.1,Delayed,2025-12-19 10:00:00,2025-12-24,USPS
+ORD-10201,Marcus Rodriguez,marcus.rodriguez57@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delivered,2026-01-10 07:00:00,2026-01-13,DHL Express
+ORD-10202,Ethan Lewis,ethan.lewis41@example.com,ErgoGlide Ergonomic Office Chair,297.49,Delivered,2026-01-07 12:00:00,2026-01-11,DHL Express
+ORD-10203,Priya Lee,priya.lee83@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,116.1,Delivered,2026-02-02 16:00:00,2026-02-08,DHL Express
+ORD-10204,Lucas Young,lucas.young12@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Cancelled,2025-12-31 06:00:00,2026-01-03,USPS
+ORD-10205,Morgan Jackson,morgan.jackson73@example.com,AuraGlow Smart Sunset Ambient Lamp,38.49,Cancelled,2026-01-06 17:00:00,2026-01-09,FedEx
+ORD-10206,Hassan Rodriguez,hassan.rodriguez43@example.com,PocketCam 4K Action Camera Bundle,179.99,Delayed,2025-12-06 12:00:00,2025-12-13,FedEx
+ORD-10207,Aisha Gonzalez,aisha.gonzalez56@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2026-01-19 16:00:00,2026-01-26,DHL Express
+ORD-10208,Ethan Davis,ethan.davis26@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delayed,2026-01-13 17:00:00,2026-01-17,USPS
+ORD-10209,Mei Patel,mei.patel75@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2025-12-06 01:00:00,2025-12-11,UPS
+ORD-10210,Yuki King,yuki.king68@example.com,ErgoGlide Ergonomic Office Chair,349.99,Delivered,2026-01-11 19:00:00,2026-01-15,USPS
+ORD-10211,Marcus Martin,marcus.martin85@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Cancelled,2026-02-11 09:00:00,2026-02-14,DHL Express
+ORD-10212,Dante Perez,dante.perez96@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,In Transit,2025-12-04 19:00:00,2025-12-09,DHL Express
+ORD-10213,Camila Torres,camila.torres39@example.com,NovaPulse Smart Fitness Tracker V3,89.99,Cancelled,2025-12-22 16:00:00,2025-12-26,DHL Express
+ORD-10214,Noah Williams,noah.williams83@example.com,AeroBrew Smart Temperature Coffee Mug,57.6,Delivered,2026-01-26 10:00:00,2026-01-30,DHL Express
+ORD-10215,Chloe Wilson,chloe.wilson62@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Cancelled,2025-12-08 22:00:00,2025-12-12,UPS
+ORD-10216,Aisha Lee,aisha.lee94@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Processing,2026-01-10 05:00:00,2026-01-14,DHL Express
+ORD-10217,Siddharth Thompson,siddharth.thompson96@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Cancelled,2025-12-25 07:00:00,2025-12-30,USPS
+ORD-10218,Emma Martin,emma.martin46@example.com,LuminaDesk RGB LED Light Bar,43.99,Cancelled,2026-01-10 15:00:00,2026-01-15,USPS
+ORD-10219,Sophia Davis,sophia.davis83@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Processing,2026-01-14 04:00:00,2026-01-16,USPS
+ORD-10220,Sophia Garcia,sophia.garcia54@example.com,NovaTab Pro 10.5 inch Tablet 128GB,328.9,In Transit,2026-01-31 06:00:00,2026-02-07,UPS
+ORD-10221,Ethan Scott,ethan.scott99@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Delivered,2026-02-14 07:00:00,2026-02-17,UPS
+ORD-10222,Harper Anderson,harper.anderson91@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,Delivered,2026-01-22 10:00:00,2026-01-25,DHL Express
+ORD-10223,Avery Smith,avery.smith80@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Cancelled,2026-01-31 20:00:00,2026-02-05,UPS
+ORD-10224,Aria Jackson,aria.jackson92@example.com,NovaPulse Smart Fitness Tracker V3,76.49,In Transit,2026-02-07 23:00:00,2026-02-11,FedEx
+ORD-10225,Chloe Lopez,chloe.lopez14@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2026-01-07 01:00:00,2026-01-12,FedEx
+ORD-10226,Gabriel Patel,gabriel.patel23@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Cancelled,2026-02-08 16:00:00,2026-02-12,DHL Express
+ORD-10227,Devon Robinson,devon.robinson44@example.com,LuminaDesk RGB LED Light Bar,33.99,Delayed,2025-12-21 23:00:00,2025-12-26,DHL Express
+ORD-10228,Carlos Smith,carlos.smith53@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,In Transit,2025-12-23 19:00:00,2025-12-29,DHL Express
+ORD-10229,Devon Lee,devon.lee21@example.com,SwiftCharge 3-in-1 MagSafe Station,65.99,Delivered,2025-12-24 04:00:00,2025-12-29,DHL Express
+ORD-10230,Noah Smith,noah.smith43@example.com,SwiftCharge 3-in-1 MagSafe Station,53.99,Cancelled,2026-01-04 10:00:00,2026-01-07,USPS
+ORD-10231,Olivia White,olivia.white98@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,Delivered,2026-01-29 09:00:00,2026-02-04,UPS
+ORD-10232,Devon Martin,devon.martin98@example.com,AeroBrew Smart Temperature Coffee Mug,70.4,In Transit,2026-01-17 19:00:00,2026-01-21,UPS
+ORD-10233,Avery Walker,avery.walker29@example.com,NovaTab Pro 10.5 inch Tablet 128GB,328.9,Delayed,2026-01-23 22:00:00,2026-01-30,DHL Express
+ORD-10234,Liam Thomas,liam.thomas97@example.com,AuraGlow Smart Sunset Ambient Lamp,29.74,Cancelled,2026-02-06 22:00:00,2026-02-09,USPS
+ORD-10235,Gabriel Davis,gabriel.davis17@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,In Transit,2026-02-12 17:00:00,2026-02-16,UPS
+ORD-10236,Aria King,aria.king66@example.com,AeroBrew Smart Temperature Coffee Mug,70.4,In Transit,2026-02-13 15:00:00,2026-02-20,FedEx
+ORD-10237,Fatima Brown,fatima.brown68@example.com,ErgoGlide Ergonomic Office Chair,349.99,Processing,2026-01-28 18:00:00,2026-02-02,FedEx
+ORD-10238,Lucas Johnson,lucas.johnson60@example.com,CleanWave Ultrasonic UV Toothbrush,38.25,In Transit,2026-02-13 02:00:00,2026-02-19,FedEx
+ORD-10239,Zoe Jones,zoe.jones79@example.com,NovaPulse Smart Fitness Tracker V3,76.49,Cancelled,2025-12-05 09:00:00,2025-12-09,DHL Express
+ORD-10240,Avery Clark,avery.clark57@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Processing,2026-01-18 02:00:00,2026-01-22,UPS
+ORD-10241,Riley Lopez,riley.lopez78@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2025-12-29 00:00:00,2026-01-03,FedEx
+ORD-10242,Chen Wright,chen.wright64@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,In Transit,2026-01-01 14:00:00,2026-01-05,USPS
+ORD-10243,Ethan Gonzalez,ethan.gonzalez24@example.com,NovaPulse Smart Fitness Tracker V3,98.99,Processing,2025-12-03 07:00:00,2025-12-05,UPS
+ORD-10244,Casey Patel,casey.patel14@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delivered,2026-01-01 23:00:00,2026-01-07,FedEx
+ORD-10245,Fatima Anderson,fatima.anderson79@example.com,LuminaDesk RGB LED Light Bar,33.99,Delivered,2026-02-03 09:00:00,2026-02-10,UPS
+ORD-10246,Aria Torres,aria.torres86@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,116.1,In Transit,2025-12-19 21:00:00,2025-12-25,UPS
+ORD-10247,Lucas Moore,lucas.moore17@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2026-01-24 17:00:00,2026-01-27,DHL Express
+ORD-10248,Zoe Harris,zoe.harris77@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,141.9,Processing,2026-01-22 04:00:00,2026-01-27,USPS
+ORD-10249,Carlos Wright,carlos.wright70@example.com,SoundBar Studio Pro with Wireless Subwoofer,170.1,In Transit,2025-12-19 14:00:00,2025-12-26,FedEx
+ORD-10250,Chloe Clark,chloe.clark81@example.com,ArmorFit Water Bottle 32oz Insulated,22.49,Processing,2026-01-01 08:00:00,2026-01-05,UPS
+ORD-10251,Chris Lewis,chris.lewis57@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,In Transit,2025-12-07 08:00:00,2025-12-14,DHL Express
+ORD-10252,Kai Williams,kai.williams19@example.com,LuminaDesk RGB LED Light Bar,39.99,In Transit,2026-01-31 06:00:00,2026-02-05,USPS
+ORD-10253,Alex Wilson,alex.wilson34@example.com,AeroBrew Smart Temperature Coffee Mug,70.4,Cancelled,2026-01-01 22:00:00,2026-01-07,UPS
+ORD-10254,Noah Scott,noah.scott51@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Cancelled,2026-02-07 20:00:00,2026-02-12,USPS
+ORD-10255,Olivia White,olivia.white75@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Delivered,2026-01-30 10:00:00,2026-02-04,UPS
+ORD-10256,Aria Clark,aria.clark15@example.com,Voyager Anti-Theft Travel Backpack,76.5,Delivered,2025-12-03 08:00:00,2025-12-08,DHL Express
+ORD-10257,Jamie Gonzalez,jamie.gonzalez52@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,In Transit,2026-02-02 17:00:00,2026-02-07,USPS
+ORD-10258,Ananya Young,ananya.young68@example.com,TitanShield Rugged PowerBank 30000mAh,54.99,Delayed,2025-12-22 04:00:00,2025-12-26,DHL Express
+ORD-10259,Siddharth Brown,siddharth.brown77@example.com,NovaPulse Smart Fitness Tracker V3,76.49,Delivered,2025-12-01 13:00:00,2025-12-05,UPS
+ORD-10260,Sam Martinez,sam.martinez11@example.com,LuminaDesk RGB LED Light Bar,39.99,Cancelled,2026-01-17 01:00:00,2026-01-23,DHL Express
+ORD-10261,Jordan Smith,jordan.smith78@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2025-12-03 16:00:00,2025-12-10,USPS
+ORD-10262,Sophia Johnson,sophia.johnson74@example.com,BreezeAir HEPA True Allergen Purifier,125.95,Delivered,2025-12-13 16:00:00,2025-12-17,UPS
+ORD-10263,Mei King,mei.king42@example.com,PocketCam 4K Action Camera Bundle,179.99,Processing,2025-12-11 11:00:00,2025-12-16,DHL Express
+ORD-10264,Gabriel Thomas,gabriel.thomas99@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delivered,2025-12-05 02:00:00,2025-12-11,DHL Express
+ORD-10265,Elena Scott,elena.scott70@example.com,NovaPulse Smart Fitness Tracker V3,98.99,Delivered,2025-12-22 02:00:00,2025-12-28,DHL Express
+ORD-10266,Mateo Torres,mateo.torres22@example.com,ArmorFit Water Bottle 32oz Insulated,21.24,In Transit,2025-12-28 22:00:00,2026-01-02,DHL Express
+ORD-10267,Taylor Jones,taylor.jones97@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Delivered,2025-12-23 10:00:00,2025-12-27,FedEx
+ORD-10268,Camila Martinez,camila.martinez60@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delivered,2026-02-11 07:00:00,2026-02-18,DHL Express
+ORD-10269,Mateo Harris,mateo.harris27@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delayed,2025-12-07 03:00:00,2025-12-11,DHL Express
+ORD-10270,Sam Perez,sam.perez87@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,Processing,2026-01-11 00:00:00,2026-01-16,USPS
+ORD-10271,Ananya Anderson,ananya.anderson55@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Processing,2025-12-24 21:00:00,2025-12-26,DHL Express
+ORD-10272,Maya Jackson,maya.jackson41@example.com,UltraView 4K Portable Monitor 15.6 inch,186.57,In Transit,2025-12-20 12:00:00,2025-12-26,UPS
+ORD-10273,Aria White,aria.white23@example.com,UltraView 4K Portable Monitor 15.6 inch,186.57,In Transit,2026-01-26 11:00:00,2026-01-29,USPS
+ORD-10274,Avery Garcia,avery.garcia33@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Processing,2025-12-14 00:00:00,2025-12-18,FedEx
+ORD-10275,Aisha Garcia,aisha.garcia86@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,Processing,2025-12-02 09:00:00,2025-12-07,DHL Express
+ORD-10276,Chris Scott,chris.scott41@example.com,Voyager Anti-Theft Travel Backpack,85.0,Delivered,2026-01-18 05:00:00,2026-01-23,UPS
+ORD-10277,Lucas Moore,lucas.moore73@example.com,ErgoGlide Ergonomic Office Chair,297.49,Delivered,2026-01-25 08:00:00,2026-01-30,DHL Express
+ORD-10278,Yuki Jones,yuki.jones56@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Cancelled,2025-12-26 14:00:00,2025-12-30,FedEx
+ORD-10279,Lucas Smith,lucas.smith60@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Processing,2026-01-12 14:00:00,2026-01-17,USPS
+ORD-10280,Kai Rodriguez,kai.rodriguez48@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,In Transit,2026-01-31 10:00:00,2026-02-06,UPS
+ORD-10281,Aria Jackson,aria.jackson98@example.com,EchoBreeze Desk Fan with Nightlight,28.5,In Transit,2026-01-11 12:00:00,2026-01-17,USPS
+ORD-10282,Dante Davis,dante.davis82@example.com,LuminaDesk RGB LED Light Bar,39.99,Delivered,2026-02-09 00:00:00,2026-02-13,DHL Express
+ORD-10283,Fatima Jackson,fatima.jackson98@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Cancelled,2025-12-18 20:00:00,2025-12-22,USPS
+ORD-10284,Olivia Martinez,olivia.martinez64@example.com,SwiftCharge 3-in-1 MagSafe Station,50.99,Cancelled,2026-01-31 18:00:00,2026-02-06,DHL Express
+ORD-10285,Siddharth Williams,siddharth.williams56@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2025-12-14 07:00:00,2025-12-18,USPS
+ORD-10286,Maya Williams,maya.williams82@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Processing,2025-12-14 00:00:00,2025-12-18,FedEx
+ORD-10287,Emma Allen,emma.allen76@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,In Transit,2026-01-27 11:00:00,2026-02-02,DHL Express
+ORD-10288,Camila Allen,camila.allen29@example.com,PocketCam 4K Action Camera Bundle,152.99,Cancelled,2025-12-14 09:00:00,2025-12-17,DHL Express
+ORD-10289,Riley Martinez,riley.martinez54@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Cancelled,2025-12-27 16:00:00,2026-01-01,DHL Express
+ORD-10290,Yuki Miller,yuki.miller66@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delivered,2026-01-08 01:00:00,2026-01-11,FedEx
+ORD-10291,Mateo Miller,mateo.miller96@example.com,TitanShield Rugged PowerBank 30000mAh,54.99,In Transit,2026-02-05 05:00:00,2026-02-10,UPS
+ORD-10292,Aisha Ramirez,aisha.ramirez69@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delivered,2025-12-24 20:00:00,2025-12-30,DHL Express
+ORD-10293,Jordan Gonzalez,jordan.gonzalez67@example.com,Voyager Anti-Theft Travel Backpack,85.0,Processing,2025-12-01 22:00:00,2025-12-04,UPS
+ORD-10294,Ethan Jones,ethan.jones83@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delivered,2026-01-16 10:00:00,2026-01-22,UPS
+ORD-10295,Riley Taylor,riley.taylor95@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Delayed,2026-01-19 19:00:00,2026-01-26,DHL Express
+ORD-10296,Riley Thompson,riley.thompson55@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delivered,2026-01-08 19:00:00,2026-01-12,FedEx
+ORD-10297,Aria Davis,aria.davis40@example.com,QuantumKey Mechanical Gaming Keyboard,101.99,Delivered,2026-01-17 22:00:00,2026-01-24,UPS
+ORD-10298,Elena Clark,elena.clark86@example.com,ErgoGlide Ergonomic Office Chair,349.99,Processing,2026-01-24 05:00:00,2026-01-27,DHL Express
+ORD-10299,Aisha Hernandez,aisha.hernandez72@example.com,QuantumKey Mechanical Gaming Keyboard,107.99,Delivered,2026-01-10 14:00:00,2026-01-15,FedEx
+ORD-10300,Alex Young,alex.young27@example.com,LuminaDesk RGB LED Light Bar,39.99,Cancelled,2026-01-22 21:00:00,2026-01-28,DHL Express
+ORD-10301,Fatima Young,fatima.young31@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delivered,2025-12-29 09:00:00,2026-01-03,FedEx
+ORD-10302,Emma Wright,emma.wright46@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Cancelled,2026-02-09 16:00:00,2026-02-12,FedEx
+ORD-10303,Ethan Wright,ethan.wright56@example.com,OmniGrip Silicone Kitchen Cookware Set,67.99,Cancelled,2026-02-08 06:00:00,2026-02-11,DHL Express
+ORD-10304,Noah Martin,noah.martin14@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Delayed,2025-12-12 14:00:00,2025-12-16,FedEx
+ORD-10305,Liam Nguyen,liam.nguyen98@example.com,PocketCam 4K Action Camera Bundle,197.99,Processing,2025-12-22 19:00:00,2025-12-25,UPS
+ORD-10306,Liam Brown,liam.brown82@example.com,PocketCam 4K Action Camera Bundle,179.99,In Transit,2026-02-07 05:00:00,2026-02-12,USPS
+ORD-10307,Sophia Torres,sophia.torres44@example.com,ArmorFit Water Bottle 32oz Insulated,27.49,Delivered,2025-12-18 13:00:00,2025-12-23,FedEx
+ORD-10308,Avery Rodriguez,avery.rodriguez41@example.com,ErgoGlide Ergonomic Office Chair,384.99,Delayed,2026-01-01 21:00:00,2026-01-07,DHL Express
+ORD-10309,Jamie Torres,jamie.torres90@example.com,CleanWave Ultrasonic UV Toothbrush,49.5,Processing,2026-01-18 14:00:00,2026-01-20,FedEx
+ORD-10310,Marcus Allen,marcus.allen45@example.com,PocketCam 4K Action Camera Bundle,179.99,Cancelled,2026-01-11 18:00:00,2026-01-14,FedEx
+ORD-10311,Chen Thompson,chen.thompson18@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,In Transit,2026-01-24 06:00:00,2026-01-29,DHL Express
+ORD-10312,Aria Jackson,aria.jackson53@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2026-02-11 15:00:00,2026-02-14,USPS
+ORD-10313,Taylor Miller,taylor.miller90@example.com,NovaTab Pro 10.5 inch Tablet 128GB,254.15,Delivered,2025-12-21 14:00:00,2025-12-24,DHL Express
+ORD-10314,Hassan Gonzalez,hassan.gonzalez98@example.com,ErgoGlide Ergonomic Office Chair,384.99,In Transit,2025-12-21 08:00:00,2025-12-26,FedEx
+ORD-10315,Olivia Garcia,olivia.garcia57@example.com,TitanShield Rugged PowerBank 30000mAh,42.49,Processing,2026-01-09 23:00:00,2026-01-14,UPS
+ORD-10316,Chris Miller,chris.miller10@example.com,LuminaDesk RGB LED Light Bar,39.99,Delivered,2025-12-17 18:00:00,2025-12-24,UPS
+ORD-10317,Fatima Smith,fatima.smith11@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,109.65,Processing,2025-12-17 15:00:00,2025-12-20,FedEx
+ORD-10318,Elena Garcia,elena.garcia23@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delayed,2026-01-08 04:00:00,2026-01-12,DHL Express
+ORD-10319,Jamie Jones,jamie.jones77@example.com,Voyager Anti-Theft Travel Backpack,72.25,Delivered,2026-01-26 11:00:00,2026-01-30,UPS
+ORD-10320,Chloe Lewis,chloe.lewis37@example.com,UltraView 4K Portable Monitor 15.6 inch,186.57,Delivered,2025-12-16 18:00:00,2025-12-21,DHL Express
+ORD-10321,Hassan Lee,hassan.lee27@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delivered,2026-01-01 17:00:00,2026-01-04,USPS
+ORD-10322,Lucas Wilson,lucas.wilson76@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2026-01-20 09:00:00,2026-01-24,FedEx
+ORD-10323,Ananya Harris,ananya.harris24@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delivered,2026-02-06 00:00:00,2026-02-11,USPS
+ORD-10324,Avery Harris,avery.harris82@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Delivered,2026-01-30 02:00:00,2026-02-06,FedEx
+ORD-10325,Sam Smith,sam.smith43@example.com,LuminaDesk RGB LED Light Bar,33.99,Delivered,2026-01-20 16:00:00,2026-01-27,USPS
+ORD-10326,Chloe Ramirez,chloe.ramirez99@example.com,SwiftCharge 3-in-1 MagSafe Station,50.99,Delivered,2026-01-05 02:00:00,2026-01-08,USPS
+ORD-10327,Devon Wilson,devon.wilson29@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Processing,2026-02-14 20:00:00,2026-02-18,FedEx
+ORD-10328,Hassan Thomas,hassan.thomas17@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,Processing,2025-12-15 14:00:00,2025-12-19,FedEx
+ORD-10329,Carlos Davis,carlos.davis11@example.com,ErgoGlide Ergonomic Office Chair,384.99,Delivered,2025-12-21 15:00:00,2025-12-28,USPS
+ORD-10330,Harper Taylor,harper.taylor31@example.com,PocketCam 4K Action Camera Bundle,161.99,In Transit,2025-12-16 00:00:00,2025-12-22,USPS
+ORD-10331,Ethan King,ethan.king18@example.com,CleanWave Ultrasonic UV Toothbrush,49.5,Delivered,2026-02-02 14:00:00,2026-02-05,USPS
+ORD-10332,Ananya Torres,ananya.torres31@example.com,PocketCam 4K Action Camera Bundle,161.99,In Transit,2025-12-14 18:00:00,2025-12-18,FedEx
+ORD-10333,Devon Smith,devon.smith15@example.com,NovaSound Wireless ANC Headphones,134.99,Delivered,2026-01-30 11:00:00,2026-02-03,DHL Express
+ORD-10334,Carlos Williams,carlos.williams80@example.com,BreezeAir HEPA True Allergen Purifier,125.95,Delayed,2026-01-01 13:00:00,2026-01-06,USPS
+ORD-10335,Sam Torres,sam.torres57@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delivered,2025-12-23 07:00:00,2025-12-29,FedEx
+ORD-10336,Sam Robinson,sam.robinson46@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Delivered,2026-02-09 14:00:00,2026-02-14,FedEx
+ORD-10337,Mei Jackson,mei.jackson82@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,In Transit,2026-01-29 11:00:00,2026-02-02,DHL Express
+ORD-10338,Siddharth Thomas,siddharth.thomas29@example.com,NovaSound Wireless ANC Headphones,149.99,Delivered,2025-12-30 17:00:00,2026-01-02,USPS
+ORD-10339,Mateo Smith,mateo.smith94@example.com,SwiftCharge 3-in-1 MagSafe Station,65.99,In Transit,2025-12-14 06:00:00,2025-12-20,UPS
+ORD-10340,Ananya Brown,ananya.brown28@example.com,CleanWave Ultrasonic UV Toothbrush,38.25,Delivered,2025-12-30 16:00:00,2026-01-04,DHL Express
+ORD-10341,Chen Garcia,chen.garcia84@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delivered,2026-01-20 02:00:00,2026-01-26,FedEx
+ORD-10342,Avery Thomas,avery.thomas47@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Processing,2026-01-11 10:00:00,2026-01-15,DHL Express
+ORD-10343,Emma Jones,emma.jones35@example.com,ErgoGlide Ergonomic Office Chair,349.99,Delivered,2025-12-20 03:00:00,2025-12-26,UPS
+ORD-10344,Chen Lee,chen.lee62@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Delayed,2025-12-27 14:00:00,2026-01-02,USPS
+ORD-10345,Olivia Davis,olivia.davis21@example.com,TitanShield Rugged PowerBank 30000mAh,54.99,In Transit,2025-12-06 06:00:00,2025-12-10,USPS
+ORD-10346,Chris Thomas,chris.thomas55@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delivered,2026-01-08 08:00:00,2026-01-11,UPS
+ORD-10347,Marcus Lewis,marcus.lewis81@example.com,OmniGrip Silicone Kitchen Cookware Set,71.99,Delivered,2026-01-29 03:00:00,2026-02-01,UPS
+ORD-10348,Alex Brown,alex.brown38@example.com,ErgoGlide Ergonomic Office Chair,314.99,Processing,2026-01-17 21:00:00,2026-01-21,FedEx
+ORD-10349,Sam Johnson,sam.johnson18@example.com,LuminaDesk RGB LED Light Bar,43.99,Cancelled,2025-12-17 02:00:00,2025-12-20,USPS
+ORD-10350,Taylor Robinson,taylor.robinson16@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Processing,2026-01-20 15:00:00,2026-01-25,FedEx
+ORD-10351,Hassan Lopez,hassan.lopez55@example.com,LuminaDesk RGB LED Light Bar,35.99,In Transit,2026-01-05 14:00:00,2026-01-08,UPS
+ORD-10352,Maya Thomas,maya.thomas92@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Processing,2026-02-09 15:00:00,2026-02-11,FedEx
+ORD-10353,Ethan Harris,ethan.harris27@example.com,BreezeAir HEPA True Allergen Purifier,125.95,In Transit,2026-02-08 00:00:00,2026-02-13,DHL Express
+ORD-10354,Yuki Wright,yuki.wright72@example.com,PocketCam 4K Action Camera Bundle,179.99,Delayed,2026-01-19 08:00:00,2026-01-22,UPS
+ORD-10355,Aria Patel,aria.patel38@example.com,NovaSound Wireless ANC Headphones,149.99,Delivered,2026-01-30 16:00:00,2026-02-06,USPS
+ORD-10356,Emma Hernandez,emma.hernandez22@example.com,SoundBar Studio Pro with Wireless Subwoofer,207.9,In Transit,2026-01-04 17:00:00,2026-01-08,FedEx
+ORD-10357,Gabriel Harris,gabriel.harris55@example.com,TitanShield Rugged PowerBank 30000mAh,44.99,In Transit,2026-02-14 10:00:00,2026-02-21,USPS
+ORD-10358,Jordan Thompson,jordan.thompson82@example.com,Voyager Anti-Theft Travel Backpack,76.5,In Transit,2026-02-02 17:00:00,2026-02-06,USPS
+ORD-10359,Ananya Williams,ananya.williams21@example.com,NovaPulse Smart Fitness Tracker V3,80.99,In Transit,2025-12-03 16:00:00,2025-12-06,DHL Express
+ORD-10360,Mateo Gonzalez,mateo.gonzalez26@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,141.9,Delivered,2026-01-11 01:00:00,2026-01-15,FedEx
+ORD-10361,Camila Martinez,camila.martinez24@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delivered,2026-01-17 22:00:00,2026-01-24,DHL Express
+ORD-10362,Casey Perez,casey.perez48@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,116.1,Delivered,2026-01-25 20:00:00,2026-01-30,DHL Express
+ORD-10363,Carlos Scott,carlos.scott98@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2026-02-14 05:00:00,2026-02-19,DHL Express
+ORD-10364,Sophia Rodriguez,sophia.rodriguez32@example.com,NovaSound Wireless ANC Headphones,164.99,Processing,2026-02-11 01:00:00,2026-02-15,UPS
+ORD-10365,Maya Anderson,maya.anderson91@example.com,Voyager Anti-Theft Travel Backpack,72.25,Cancelled,2025-12-19 10:00:00,2025-12-23,FedEx
+ORD-10366,Zoe Lee,zoe.lee31@example.com,UltraView 4K Portable Monitor 15.6 inch,241.45,Delayed,2026-01-27 00:00:00,2026-01-31,USPS
+ORD-10367,Noah Jones,noah.jones54@example.com,CleanWave Ultrasonic UV Toothbrush,38.25,Delivered,2025-12-07 12:00:00,2025-12-13,DHL Express
+ORD-10368,Priya Clark,priya.clark73@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Processing,2025-12-13 15:00:00,2025-12-16,UPS
+ORD-10369,Fatima Jones,fatima.jones14@example.com,QuantumKey Mechanical Gaming Keyboard,101.99,Delayed,2026-01-03 03:00:00,2026-01-08,FedEx
+ORD-10370,Priya Harris,priya.harris30@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delivered,2026-01-13 19:00:00,2026-01-16,DHL Express
+ORD-10371,Hassan Hernandez,hassan.hernandez87@example.com,BreezeAir HEPA True Allergen Purifier,125.95,Delivered,2025-12-13 10:00:00,2025-12-17,UPS
+ORD-10372,Chloe Scott,chloe.scott79@example.com,CleanWave Ultrasonic UV Toothbrush,49.5,In Transit,2026-01-08 07:00:00,2026-01-11,FedEx
+ORD-10373,Marcus Torres,marcus.torres80@example.com,EchoBreeze Desk Fan with Nightlight,25.65,Delivered,2026-01-16 00:00:00,2026-01-19,DHL Express
+ORD-10374,Sophia Patel,sophia.patel71@example.com,LuminaDesk RGB LED Light Bar,33.99,Delivered,2025-12-27 05:00:00,2025-12-30,USPS
+ORD-10375,Yuki Davis,yuki.davis49@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Cancelled,2026-01-03 02:00:00,2026-01-07,DHL Express
+ORD-10376,Dante Harris,dante.harris57@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Delivered,2026-01-03 14:00:00,2026-01-08,DHL Express
+ORD-10377,Emma Moore,emma.moore82@example.com,NovaPulse Smart Fitness Tracker V3,80.99,Delivered,2025-12-11 21:00:00,2025-12-18,USPS
+ORD-10378,Chloe Nguyen,chloe.nguyen39@example.com,OmniGrip Silicone Kitchen Cookware Set,67.99,Processing,2026-02-05 13:00:00,2026-02-08,DHL Express
+ORD-10379,Yuki Martin,yuki.martin20@example.com,SwiftCharge 3-in-1 MagSafe Station,65.99,Delivered,2026-02-03 18:00:00,2026-02-06,UPS
+ORD-10380,Fatima Lopez,fatima.lopez31@example.com,LuminaDesk RGB LED Light Bar,35.99,Delivered,2025-12-06 13:00:00,2025-12-12,FedEx
+ORD-10381,Mei Martinez,mei.martinez86@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,Delivered,2025-12-12 12:00:00,2025-12-19,DHL Express
+ORD-10382,Aria Moore,aria.moore76@example.com,NovaTab Pro 10.5 inch Tablet 128GB,254.15,Processing,2025-12-15 13:00:00,2025-12-18,UPS
+ORD-10383,Gabriel Nguyen,gabriel.nguyen84@example.com,AeroBrew Smart Temperature Coffee Mug,54.4,Delivered,2026-01-06 17:00:00,2026-01-12,USPS
+ORD-10384,Olivia Harris,olivia.harris93@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Cancelled,2025-12-05 05:00:00,2025-12-11,USPS
+ORD-10385,Jamie Patel,jamie.patel97@example.com,SwiftCharge 3-in-1 MagSafe Station,50.99,Processing,2026-01-12 22:00:00,2026-01-14,UPS
+ORD-10386,Yuki Moore,yuki.moore57@example.com,NovaSound Wireless ANC Headphones,149.99,In Transit,2026-01-09 08:00:00,2026-01-12,DHL Express
+ORD-10387,Emma Rodriguez,emma.rodriguez48@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,In Transit,2026-01-23 19:00:00,2026-01-27,FedEx
+ORD-10388,Fatima Wilson,fatima.wilson62@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Delayed,2025-12-08 16:00:00,2025-12-11,UPS
+ORD-10389,Lucas Allen,lucas.allen61@example.com,ErgoGlide Ergonomic Office Chair,349.99,Delivered,2025-12-23 06:00:00,2025-12-26,UPS
+ORD-10390,Noah Williams,noah.williams68@example.com,NovaPulse Smart Fitness Tracker V3,89.99,In Transit,2026-01-05 11:00:00,2026-01-12,DHL Express
+ORD-10391,Marcus Davis,marcus.davis97@example.com,NovaSound Wireless ANC Headphones,134.99,Delayed,2026-02-01 19:00:00,2026-02-05,DHL Express
+ORD-10392,Yuki Nguyen,yuki.nguyen80@example.com,PocketCam 4K Action Camera Bundle,179.99,Delivered,2026-01-03 23:00:00,2026-01-08,FedEx
+ORD-10393,Jordan Harris,jordan.harris16@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,In Transit,2025-12-29 20:00:00,2026-01-02,UPS
+ORD-10394,Ethan Clark,ethan.clark75@example.com,NovaSound Wireless ANC Headphones,164.99,Delivered,2026-01-30 04:00:00,2026-02-06,UPS
+ORD-10395,Alex Anderson,alex.anderson42@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2026-01-24 12:00:00,2026-01-30,USPS
+ORD-10396,Olivia Wilson,olivia.wilson69@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,Processing,2026-02-13 03:00:00,2026-02-17,FedEx
+ORD-10397,Aisha Patel,aisha.patel87@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Delivered,2026-01-31 02:00:00,2026-02-05,USPS
+ORD-10398,Aria Moore,aria.moore43@example.com,QuantumKey Mechanical Gaming Keyboard,107.99,Delivered,2026-02-05 07:00:00,2026-02-12,FedEx
+ORD-10399,Marcus Lee,marcus.lee97@example.com,ErgoGlide Ergonomic Office Chair,384.99,Delivered,2026-02-02 09:00:00,2026-02-08,USPS
+ORD-10400,Marcus Harris,marcus.harris14@example.com,Voyager Anti-Theft Travel Backpack,93.5,In Transit,2026-01-13 23:00:00,2026-01-20,UPS
+ORD-10401,Yuki Thompson,yuki.thompson74@example.com,QuantumKey Mechanical Gaming Keyboard,107.99,Delivered,2026-01-07 03:00:00,2026-01-11,DHL Express
+ORD-10402,Olivia Scott,olivia.scott33@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,141.9,Delivered,2025-12-29 11:00:00,2026-01-03,UPS
+ORD-10403,Chloe Perez,chloe.perez57@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,In Transit,2026-01-29 03:00:00,2026-02-01,DHL Express
+ORD-10404,Camila Nguyen,camila.nguyen89@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,In Transit,2026-02-03 03:00:00,2026-02-10,DHL Express
+ORD-10405,Lucas Clark,lucas.clark16@example.com,ErgoGlide Ergonomic Office Chair,314.99,In Transit,2026-01-13 13:00:00,2026-01-17,DHL Express
+ORD-10406,Aria Lopez,aria.lopez20@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Delivered,2026-01-10 20:00:00,2026-01-13,FedEx
+ORD-10407,Fatima Moore,fatima.moore36@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Delivered,2026-02-01 02:00:00,2026-02-08,UPS
+ORD-10408,Hassan Ramirez,hassan.ramirez61@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Processing,2025-12-01 01:00:00,2025-12-05,UPS
+ORD-10409,Alex Lee,alex.lee77@example.com,LuminaDesk RGB LED Light Bar,33.99,Delivered,2026-01-01 07:00:00,2026-01-06,USPS
+ORD-10410,Avery Miller,avery.miller59@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,In Transit,2025-12-22 02:00:00,2025-12-27,FedEx
+ORD-10411,Sophia Robinson,sophia.robinson76@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,Delayed,2026-01-25 21:00:00,2026-01-30,UPS
+ORD-10412,Ananya Thompson,ananya.thompson34@example.com,TitanShield Rugged PowerBank 30000mAh,49.99,Delivered,2025-12-30 07:00:00,2026-01-03,UPS
+ORD-10413,Jordan Nguyen,jordan.nguyen74@example.com,TitanShield Rugged PowerBank 30000mAh,42.49,Delayed,2025-12-05 12:00:00,2025-12-12,USPS
+ORD-10414,Maya Brown,maya.brown86@example.com,NovaPulse Smart Fitness Tracker V3,98.99,Delivered,2025-12-03 01:00:00,2025-12-09,FedEx
+ORD-10415,Fatima Harris,fatima.harris25@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Cancelled,2025-12-20 06:00:00,2025-12-25,FedEx
+ORD-10416,Chloe Miller,chloe.miller94@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delivered,2026-01-23 03:00:00,2026-01-28,FedEx
+ORD-10417,Riley Miller,riley.miller73@example.com,LuminaDesk RGB LED Light Bar,39.99,In Transit,2026-01-03 16:00:00,2026-01-08,UPS
+ORD-10418,Chloe Jackson,chloe.jackson30@example.com,NovaPulse Smart Fitness Tracker V3,89.99,Cancelled,2025-12-27 22:00:00,2026-01-01,DHL Express
+ORD-10419,Noah Smith,noah.smith11@example.com,UltraView 4K Portable Monitor 15.6 inch,186.57,Cancelled,2025-12-20 02:00:00,2025-12-23,FedEx
+ORD-10420,Olivia Anderson,olivia.anderson68@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Cancelled,2025-12-07 03:00:00,2025-12-10,UPS
+ORD-10421,Sophia White,sophia.white96@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Delivered,2025-12-13 01:00:00,2025-12-17,FedEx
+ORD-10422,Priya Perez,priya.perez55@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,In Transit,2025-12-12 11:00:00,2025-12-16,USPS
+ORD-10423,Riley Sanchez,riley.sanchez61@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,Processing,2026-01-31 13:00:00,2026-02-02,UPS
+ORD-10424,Avery Brown,avery.brown30@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,Cancelled,2026-02-11 21:00:00,2026-02-15,DHL Express
+ORD-10425,Maya Harris,maya.harris55@example.com,AuraGlow Smart Sunset Ambient Lamp,29.74,Delivered,2026-01-31 15:00:00,2026-02-06,FedEx
+ORD-10426,Fatima Williams,fatima.williams18@example.com,CleanWave Ultrasonic UV Toothbrush,49.5,Delayed,2025-12-02 22:00:00,2025-12-07,UPS
+ORD-10427,Harper King,harper.king98@example.com,AuraGlow Smart Sunset Ambient Lamp,29.74,Processing,2026-01-01 15:00:00,2026-01-06,USPS
+ORD-10428,Jamie Scott,jamie.scott88@example.com,NovaPulse Smart Fitness Tracker V3,76.49,Delivered,2026-02-03 15:00:00,2026-02-07,DHL Express
+ORD-10429,Sam Young,sam.young51@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,In Transit,2025-12-07 16:00:00,2025-12-14,UPS
+ORD-10430,Elena Sanchez,elena.sanchez40@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Cancelled,2026-02-12 14:00:00,2026-02-18,FedEx
+ORD-10431,Fatima Lee,fatima.lee25@example.com,EchoBreeze Desk Fan with Nightlight,31.35,Delivered,2025-12-14 12:00:00,2025-12-17,DHL Express
+ORD-10432,Aisha Scott,aisha.scott10@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,In Transit,2026-02-04 17:00:00,2026-02-10,UPS
+ORD-10433,Mateo White,mateo.white16@example.com,SoundBar Studio Pro with Wireless Subwoofer,189.0,Delayed,2026-02-10 19:00:00,2026-02-15,DHL Express
+ORD-10434,Fatima Davis,fatima.davis22@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,Delayed,2026-01-15 20:00:00,2026-01-22,USPS
+ORD-10435,Harper White,harper.white99@example.com,AeroBrew Smart Temperature Coffee Mug,54.4,Delivered,2026-02-02 04:00:00,2026-02-05,DHL Express
+ORD-10436,Olivia Gonzalez,olivia.gonzalez34@example.com,AeroBrew Smart Temperature Coffee Mug,64.0,In Transit,2026-01-28 06:00:00,2026-01-31,USPS
+ORD-10437,Chloe Williams,chloe.williams91@example.com,Voyager Anti-Theft Travel Backpack,72.25,Cancelled,2026-01-28 21:00:00,2026-02-03,UPS
+ORD-10438,Alex King,alex.king16@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Cancelled,2026-02-04 05:00:00,2026-02-08,UPS
+ORD-10439,Casey Harris,casey.harris94@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,Delayed,2026-02-03 12:00:00,2026-02-10,DHL Express
+ORD-10440,Noah Moore,noah.moore60@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,Cancelled,2025-12-18 04:00:00,2025-12-23,DHL Express
+ORD-10441,Aisha Lee,aisha.lee80@example.com,LuminaDesk RGB LED Light Bar,35.99,In Transit,2026-01-07 21:00:00,2026-01-11,USPS
+ORD-10442,Carlos Allen,carlos.allen79@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,141.9,Delivered,2026-01-15 17:00:00,2026-01-22,DHL Express
+ORD-10443,Gabriel Clark,gabriel.clark96@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Processing,2025-12-02 16:00:00,2025-12-04,FedEx
+ORD-10444,Elena Martinez,elena.martinez16@example.com,NovaPulse Smart Fitness Tracker V3,80.99,In Transit,2025-12-21 09:00:00,2025-12-25,USPS
+ORD-10445,Morgan Jackson,morgan.jackson36@example.com,OmniGrip Silicone Kitchen Cookware Set,67.99,Delayed,2026-01-27 03:00:00,2026-02-03,UPS
+ORD-10446,Elena Thomas,elena.thomas75@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,Delivered,2026-01-18 12:00:00,2026-01-23,DHL Express
+ORD-10447,Aisha Brown,aisha.brown11@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Cancelled,2025-12-29 20:00:00,2026-01-02,USPS
+ORD-10448,Mei Jackson,mei.jackson67@example.com,TitanShield Rugged PowerBank 30000mAh,54.99,Delivered,2025-12-24 05:00:00,2025-12-30,FedEx
+ORD-10449,Taylor Ramirez,taylor.ramirez45@example.com,OmniGrip Silicone Kitchen Cookware Set,79.99,Delivered,2025-12-21 18:00:00,2025-12-24,USPS
+ORD-10450,Mateo Robinson,mateo.robinson29@example.com,NovaPulse Smart Fitness Tracker V3,80.99,Delayed,2025-12-07 20:00:00,2025-12-13,USPS
+ORD-10451,Gabriel Scott,gabriel.scott55@example.com,UltraView 4K Portable Monitor 15.6 inch,241.45,Delayed,2026-02-06 07:00:00,2026-02-13,UPS
+ORD-10452,Sam Allen,sam.allen30@example.com,BreezeAir HEPA True Allergen Purifier,139.95,Processing,2025-12-12 11:00:00,2025-12-15,UPS
+ORD-10453,Mateo Perez,mateo.perez56@example.com,QuantumKey Mechanical Gaming Keyboard,107.99,Cancelled,2026-02-10 20:00:00,2026-02-13,FedEx
+ORD-10454,Zoe Lewis,zoe.lewis40@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,In Transit,2025-12-06 21:00:00,2025-12-12,USPS
+ORD-10455,Riley Harris,riley.harris42@example.com,OmniGrip Silicone Kitchen Cookware Set,87.99,In Transit,2025-12-04 16:00:00,2025-12-11,USPS
+ORD-10456,Devon Lewis,devon.lewis72@example.com,NovaPulse Smart Fitness Tracker V3,89.99,In Transit,2026-01-11 16:00:00,2026-01-14,FedEx
+ORD-10457,Priya Wright,priya.wright78@example.com,NovaSound Wireless ANC Headphones,164.99,Delivered,2025-12-27 21:00:00,2026-01-02,UPS
+ORD-10458,Casey Wilson,casey.wilson78@example.com,BreezeAir HEPA True Allergen Purifier,153.94,Delivered,2025-12-20 00:00:00,2025-12-25,DHL Express
+ORD-10459,Taylor Garcia,taylor.garcia19@example.com,NovaPulse Smart Fitness Tracker V3,80.99,In Transit,2026-02-10 02:00:00,2026-02-15,UPS
+ORD-10460,Chloe Harris,chloe.harris67@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Delayed,2025-12-03 12:00:00,2025-12-10,FedEx
+ORD-10461,Alex Jones,alex.jones84@example.com,NovaPulse Smart Fitness Tracker V3,98.99,Delivered,2026-01-15 16:00:00,2026-01-20,FedEx
+ORD-10462,Lucas Patel,lucas.patel21@example.com,QuantumKey Mechanical Gaming Keyboard,119.99,Processing,2026-01-20 21:00:00,2026-01-25,FedEx
+ORD-10463,Priya Wright,priya.wright38@example.com,ErgoGlide Ergonomic Office Chair,384.99,Processing,2026-02-08 09:00:00,2026-02-12,UPS
+ORD-10464,Dante Smith,dante.smith80@example.com,OmniGrip Silicone Kitchen Cookware Set,71.99,Delivered,2025-12-06 00:00:00,2025-12-13,DHL Express
+ORD-10465,Aisha Garcia,aisha.garcia49@example.com,LuminaDesk RGB LED Light Bar,43.99,Delayed,2025-12-28 13:00:00,2026-01-01,UPS
+ORD-10466,Carlos Anderson,carlos.anderson88@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Delivered,2025-12-24 21:00:00,2025-12-31,FedEx
+ORD-10467,Chen Scott,chen.scott19@example.com,QuantumKey Mechanical Gaming Keyboard,131.99,Delivered,2026-01-02 03:00:00,2026-01-09,UPS
+ORD-10468,Ananya Perez,ananya.perez55@example.com,ErgoGlide Ergonomic Office Chair,384.99,In Transit,2025-12-13 09:00:00,2025-12-17,FedEx
+ORD-10469,Aria Young,aria.young67@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,129.0,In Transit,2026-02-13 04:00:00,2026-02-18,USPS
+ORD-10470,Hassan Hernandez,hassan.hernandez10@example.com,HyperSpeed Dual-Band Wi-Fi 6 Router,116.1,In Transit,2026-01-25 08:00:00,2026-01-29,USPS
+ORD-10471,Mateo Walker,mateo.walker69@example.com,NovaTab Pro 10.5 inch Tablet 128GB,299.0,In Transit,2026-02-01 17:00:00,2026-02-05,FedEx
+ORD-10472,Kai Garcia,kai.garcia45@example.com,ErgoGlide Ergonomic Office Chair,349.99,In Transit,2026-01-03 23:00:00,2026-01-06,FedEx
+ORD-10473,Jordan Allen,jordan.allen90@example.com,NovaSound Wireless ANC Headphones,149.99,Processing,2026-02-14 06:00:00,2026-02-18,FedEx
+ORD-10474,Siddharth Wright,siddharth.wright70@example.com,ErgoGlide Ergonomic Office Chair,349.99,Processing,2025-12-29 18:00:00,2026-01-01,USPS
+ORD-10475,Chen Allen,chen.allen75@example.com,UltraView 4K Portable Monitor 15.6 inch,219.5,Delayed,2026-02-03 00:00:00,2026-02-10,UPS
+ORD-10476,Priya Allen,priya.allen27@example.com,NovaTab Pro 10.5 inch Tablet 128GB,269.1,Delivered,2026-02-11 18:00:00,2026-02-17,UPS
+ORD-10477,Zoe Williams,zoe.williams38@example.com,EchoBreeze Desk Fan with Nightlight,25.65,Delivered,2026-01-03 11:00:00,2026-01-06,UPS
+ORD-10478,Liam King,liam.king56@example.com,SwiftCharge 3-in-1 MagSafe Station,59.99,Cancelled,2025-12-06 01:00:00,2025-12-09,USPS
+ORD-10479,Harper Moore,harper.moore43@example.com,Voyager Anti-Theft Travel Backpack,85.0,Delivered,2026-01-18 20:00:00,2026-01-23,DHL Express
+ORD-10480,Camila Jones,camila.jones76@example.com,CleanWave Ultrasonic UV Toothbrush,45.0,In Transit,2026-02-05 12:00:00,2026-02-10,USPS
+ORD-10481,Ananya Walker,ananya.walker87@example.com,NovaSound Wireless ANC Headphones,149.99,Delivered,2026-01-26 05:00:00,2026-01-29,UPS
+ORD-10482,Devon Moore,devon.moore37@example.com,ErgoGlide Ergonomic Office Chair,314.99,Delivered,2026-01-16 19:00:00,2026-01-20,FedEx
+ORD-10483,Chloe Perez,chloe.perez24@example.com,EchoBreeze Desk Fan with Nightlight,31.35,Cancelled,2026-01-31 06:00:00,2026-02-06,UPS
+ORD-10484,Jordan Thomas,jordan.thomas15@example.com,ErgoGlide Ergonomic Office Chair,349.99,Delivered,2025-12-18 20:00:00,2025-12-25,FedEx
+ORD-10485,Jamie Brown,jamie.brown31@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Processing,2026-02-11 20:00:00,2026-02-15,FedEx
+ORD-10486,Chris Wilson,chris.wilson67@example.com,AuraGlow Smart Sunset Ambient Lamp,34.99,Cancelled,2025-12-22 07:00:00,2025-12-26,DHL Express
+ORD-10487,Camila Lopez,camila.lopez89@example.com,ArmorFit Water Bottle 32oz Insulated,24.99,Delivered,2026-01-13 14:00:00,2026-01-17,FedEx
+ORD-10488,Elena Harris,elena.harris26@example.com,AeroBrew Smart Temperature Coffee Mug,54.4,In Transit,2026-02-05 16:00:00,2026-02-09,DHL Express
+ORD-10489,Kai Miller,kai.miller32@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Delivered,2026-02-07 16:00:00,2026-02-10,FedEx
+ORD-10490,Yuki Rodriguez,yuki.rodriguez87@example.com,OmniGrip Silicone Kitchen Cookware Set,67.99,Processing,2026-02-05 13:00:00,2026-02-07,USPS
+ORD-10491,Harper Ramirez,harper.ramirez39@example.com,EchoBreeze Desk Fan with Nightlight,28.5,Delayed,2026-02-14 23:00:00,2026-02-20,FedEx
+ORD-10492,Avery Taylor,avery.taylor71@example.com,SoundBar Studio Pro with Wireless Subwoofer,160.65,In Transit,2026-02-08 13:00:00,2026-02-12,USPS
+ORD-10493,Alex Smith,alex.smith83@example.com,ArmorFit Water Bottle 32oz Insulated,21.24,Delivered,2026-01-18 20:00:00,2026-01-23,UPS
+ORD-10494,Chloe White,chloe.white23@example.com,ErgoGlide Ergonomic Office Chair,349.99,In Transit,2026-01-03 17:00:00,2026-01-10,DHL Express
+ORD-10495,Dante Moore,dante.moore97@example.com,SwiftCharge 3-in-1 MagSafe Station,53.99,Processing,2026-02-09 17:00:00,2026-02-12,DHL Express
+ORD-10496,Dante Scott,dante.scott81@example.com,EchoBreeze Desk Fan with Nightlight,28.5,In Transit,2026-02-12 11:00:00,2026-02-16,DHL Express
+ORD-10497,Riley Anderson,riley.anderson67@example.com,TitanShield Rugged PowerBank 30000mAh,42.49,In Transit,2026-02-04 12:00:00,2026-02-11,USPS
+ORD-10498,Maya Brown,maya.brown30@example.com,SwiftCharge 3-in-1 MagSafe Station,65.99,Delivered,2025-12-12 04:00:00,2025-12-19,DHL Express
+ORD-10499,Hassan Garcia,hassan.garcia18@example.com,CleanWave Ultrasonic UV Toothbrush,40.5,Delayed,2025-12-11 19:00:00,2025-12-17,FedEx
+ORD-10500,Marcus King,marcus.king46@example.com,AuraGlow Smart Sunset Ambient Lamp,29.74,Delivered,2026-02-02 14:00:00,2026-02-06,FedEx

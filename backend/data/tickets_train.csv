@@ -1,0 +1,1501 @@
+ticket_id,text,category,urgency,sentiment
+TCK-2001,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2002,"I want to return the SoundBar Studio Pro with Wireless Subwoofer from order ORD-10185, how do I get a return label?",refund,low,neutral
+TCK-2003,Tracking number TRK-992144 shows stalled in transit at Memphis hub...,delivery,medium,negative
+TCK-2004,I was charged $119.99 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-2005,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2006,CAN I GET A VAT INVOICE WITH MY COMPANY TAX NUMBER FOR ORDER ORD-10209?,billing,low,neutral
+TCK-2007,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2008,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-2009,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-2010,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2011,URGENT: Want to exchange this coffee mug for a black one instead of white.,refund,high,negative
+TCK-2012,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-2013,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2014,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2015,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-2016,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2017,Are replacement filter cartridges in stock for the CleanWave unit?,product,medium,neutral
+TCK-2018,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2019,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2020,Duplicate charge on visa statement for NovaSound headphones.,billing,high,negative
+TCK-2021,Need overnight delivery upgrade for order ORD-10052 urgently. pls reply asap!!,delivery,high,negative
+TCK-2022,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2023,"hey support team, sent back the broken headset, when does the money hit my paypal?",refund,low,negative
+TCK-2024,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2025,Please delete my account and all personal data under GDPR right to be forgotten.,account,medium,neutral
+TCK-2026,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2027,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2028,Can I return an item after 35 days for store credit? pls reply asap!!,refund,high,negative
+TCK-2029,"Item doesn't fit my desk, please initiate a full refund. hello?? anyone there??",refund,medium,neutral
+TCK-2030,URGENT: Where is my package? Tracking for ORD-10211 hasn't updated in 4 days.,delivery,high,negative
+TCK-2031,Who is the CEO of NovaCart?,other,low,neutral
+TCK-2032,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-2033,URGENT: My account is locked after typing my password wrong a few times.,account,high,negative
+TCK-2034,Can I place a wholesale bulk ordr of 200 units for our corporate retreat?,other,low,neutral
+TCK-2035,How do I pair the NovaSound headphones with two Bluetooth devices at once? hello?? anyone there??,product,low,neutral
+TCK-2036,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2037,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2038,"hey support team, fedex marked parcel delayed due to severe weather, any eta updates?",delivery,high,negative
+TCK-2039,"hey support team, need a receipt pdf sent to my accountant right away.",billing,medium,neutral
+TCK-2040,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2041,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,low,neutral
+TCK-2042,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2043,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2044,Need to return three items from my last order.,refund,medium,neutral
+TCK-2045,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,low,neutral
+TCK-2046,tracking number trk-992144 shows stalled in transit at memphis hub.,delivery,medium,negative
+TCK-2047,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2048,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2049,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2050,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2051,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2052,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2053,Why was my credit card charged twice for ORD-10078?,billing,high,negative
+TCK-2054,I was charged $45.00 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2055,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-2056,"hey support team, do you have a user manual pdf for setting up the true allergen purifier?",product,high,negative
+TCK-2057,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2058,please delete my account and all personal data under gdpr right to be forgotten.,account,medium,neutral
+TCK-2059,Why is there a $10 fee on my receipt? pls reply asap!!,billing,high,negative
+TCK-2060,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,low,neutral
+TCK-2061,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2062,Why is there a $10 fee on my receipt? pls reply asap!!,billing,high,negative
+TCK-2063,can i return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2064,How do I enable two-factor autehntication on my NovaCart account?,account,high,negative
+TCK-2065,"I want to return the PocketCam 4K Action Camera Bundle from order ORD-10031, how do I get a return label?",refund,medium,neutral
+TCK-2066,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2067,"hey support team, how do i remove saved credit cards from my wallet profile?",account,low,neutral
+TCK-2068,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-2069,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2070,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2071,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2072,Need overnight delivery upgrade for order ORD-10123 urgently.,delivery,high,negative
+TCK-2073,"URGENT: Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2074,"hey support team, return label says $5.99 deducted, but i was sent the wrong color by mistake!",refund,low,neutral
+TCK-2075,"item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2076,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2077,Need to return three items from my last ordr.,refund,low,neutral
+TCK-2078,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-2079,I'm not receiving order status SMS notifications on my new phone number.,account,high,negative
+TCK-2080,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2081,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-2082,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2083,"Cannot log in via Google SSO, getting a blank redirect.",account,low,neutral
+TCK-2084,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2085,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2086,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2087,"hey support team, my powerbank stopped charging past 2 bars, is this covered under warranty?",product,high,negative
+TCK-2088,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-2089,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2090,need to return three items from my last order.,refund,low,neutral
+TCK-2091,Need overnight delivery upgrade for order ORD-10128 urgently. pls reply asap!!,delivery,high,negative
+TCK-2092,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2093,Card was charged but I never got an order confirmation email.,billing,high,negative
+TCK-2094,"i want to return the voyager anti-theft travel backpack from order ord-10375, how do i get a return label?",refund,low,neutral
+TCK-2095,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2096,Need to return three items from my last order.,refund,low,neutral
+TCK-2097,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-2098,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-2099,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-2100,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2101,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2102,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,high,negative
+TCK-2103,I'm not receiving order status SMS notifications on my new phone number. hello?? anyone there??,account,low,neutral
+TCK-2104,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2105,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2106,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2107,Does teh AeroBrew Smart Temperature Coffee Mug come with a 1-year manufacturer warranty?,product,high,negative
+TCK-2108,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2109,"URGENT: Returned my parcel 10 days ago, where is my refund money?",refund,high,negative
+TCK-2110,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2111,"I want to return the SwiftCharge 3-in-1 MagSafe Station from order ORD-10035, how do I get a return label?",refund,medium,neutral
+TCK-2112,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2113,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2114,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-2115,Forgot my password and the reset email is not arriving in my inbox. pls reply asap!!,account,high,negative
+TCK-2116,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2117,Does the OmniGrip Silicone Kitchen Cookware Set come with a 1-year manufacturer warranty?,product,low,neutral
+TCK-2118,"My order ORD-10045 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2119,I'm not receiving order status SMS notifications on my new phone number. pls reply asap!!,account,high,negative
+TCK-2120,URGENT: Do you have a user manual PDF for setting up the True Allergen Purifier?,product,high,negative
+TCK-2121,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2122,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2123,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2124,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2125,"My powerbank stopped charging past 2 bars, is this covered under warranty???",product,high,negative
+TCK-2126,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-2127,Delivery driver didn't ring teh buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2128,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-2129,Why was my credit card charged twice for ORD-10474?,billing,high,negative
+TCK-2130,Delivery driver didn't ring teh buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2131,carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2132,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-2133,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-2134,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2135,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-2136,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2137,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2138,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2139,URGENT: Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-2140,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,medium,neutral
+TCK-2141,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2142,Can I get a VAT invoice with my company tax number for order ORD-10468?,billing,low,neutral
+TCK-2143,Is the Smart Coffee Mug dishwasher safe or hand wash only? pls reply asap!!,product,high,negative
+TCK-2144,How do I remove saved credit cards from my wallet profile???,account,low,neutral
+TCK-2145,Forgot my password and the reset email is not arriving in my inbox.,account,low,neutral
+TCK-2146,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2147,"URGENT: I want to return the OmniGrip Silicone Kitchen Cookware Set from order ORD-10126, how do I get a return label?",refund,high,negative
+TCK-2148,"URGENT: Sent back the broken headset, when does the money hit my PayPal?",refund,high,negative
+TCK-2149,"My order ORD-10438 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-2150,Does the BreezeAir HEPA True Allergen Purifier come with a 1-year manufacturer warranty?,product,low,neutral
+TCK-2151,Need to return three items from my last order.,refund,medium,neutral
+TCK-2152,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2153,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2154,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,high,negative
+TCK-2155,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-2156,I'm not receiving ordr status SMS notifications on my new phone number.,account,medium,neutral
+TCK-2157,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2158,"Returned my parcel 10 days ago, where is my refund money? pls reply asap!!",refund,high,negative
+TCK-2159,Do you have a physical retail store in Chicago or New York?,other,low,neutral
+TCK-2160,Please delete my account and all personal data under GDPR right to be forgotten.,account,low,neutral
+TCK-2161,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2162,Can I reschedule delivery for Monday when I am home from work? hello?? anyone there??,delivery,medium,neutral
+TCK-2163,"I want to return the TitanShield Rugged PowerBank 30000mAh from order ORD-10427, how do I get a return label? hello?? anyone there??",refund,medium,neutral
+TCK-2164,"I want to return the ErgoGlide Ergonomic Office Chair from order ORD-10331, how do I get a return label?",refund,medium,neutral
+TCK-2165,Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-2166,Need to return three items from my last order.,refund,high,negative
+TCK-2167,Is there a restocking fee for returning unopened headphones within 30 days???,refund,low,neutral
+TCK-2168,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-2169,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2170,Do you have a user manual PDF for setting up the True Allergen Purifier? pls reply asap!!,product,high,negative
+TCK-2171,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2172,Need a receipt PDF sent to my accountant right away. hello?? anyone there??,billing,medium,neutral
+TCK-2173,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2174,Card was charged but I never got an order confirmation email.,billing,high,negative
+TCK-2175,Where is my package? Tracking for ORD-10352 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-2176,Why is there a $10 fee on my receipt? pls reply asap!!,billing,high,negative
+TCK-2177,"Sent back the broken headset, when does the money hit my PayPal? pls reply asap!!",refund,high,negative
+TCK-2178,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-2179,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,low,neutral
+TCK-2180,What is your environmental carbon offset policy for parcel logistics? pls reply asap!!,other,high,negative
+TCK-2181,is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2182,Why was my credit card charged twice for ORD-10045?,billing,high,negative
+TCK-2183,Need to return three items from my last order.,refund,medium,neutral
+TCK-2184,Suspicious login attempt alert received from unknown IP in Russia.,account,high,negative
+TCK-2185,URGENT: Is the stainless steel bottle BPA free and lead free?,product,high,negative
+TCK-2186,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2187,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2188,IS THE STAINLESS STEEL BOTTLE BPA FREE AND LEAD FREE?,product,medium,neutral
+TCK-2189,DID MY REFUND GO THROUGH? MY BANK STILL HASN'T RECEIVED THE DEPOSIT.,billing,medium,neutral
+TCK-2190,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2191,Need overnight delivery upgrade for order ORD-10125 urgently.,delivery,high,negative
+TCK-2192,"hey support team, package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,low,neutral
+TCK-2193,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-2194,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2195,IS THE SMART COFFEE MUG DISHWASHER SAFE OR HAND WASH ONLY?,product,medium,neutral
+TCK-2196,Do you have a user manual PDF for setting up the True Allergen Purifier???,product,low,neutral
+TCK-2197,Does the ErgoGlide Ergonomic Office Chair come with a 1-year manufacturer warranty?,product,low,neutral
+TCK-2198,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2199,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2200,Need to return three items from my last order.,refund,low,neutral
+TCK-2201,Does the OmniGrip Silicone Kitchen Cookware Set come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-2202,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C? hello?? anyone there??,product,medium,neutral
+TCK-2203,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2204,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2205,I was charged $149.99 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-2206,Can I get a VAT invoice with my company tax number for order ORD-10329?,billing,medium,neutral
+TCK-2207,Are replacement filter cartridges in stock for the CleanWave unit?,product,medium,neutral
+TCK-2208,"My order ORD-10218 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-2209,Can I return an item after 35 days for store credit?,refund,high,negative
+TCK-2210,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-2211,Suspicious login attempt alert received from unknown IP in Russia.,account,high,negative
+TCK-2212,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,medium,neutral
+TCK-2213,suspicious login attempt alert received from unknown ip in russia.,account,medium,neutral
+TCK-2214,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-2215,What is ur environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-2216,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-2217,Want to exchange this coffee mug for a black one instead of white.,refund,high,negative
+TCK-2218,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2219,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-2220,Card was charged but I never got an order confirmation email.,billing,low,neutral
+TCK-2221,Can I get a VAT invoice with my company tax number for order ORD-10305?,billing,medium,neutral
+TCK-2222,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2223,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2224,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-2225,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-2226,"I want to return the OmniGrip Silicone Kitchen Cookware Set from order ORD-10050, how do I get a return label?",refund,medium,neutral
+TCK-2227,"MY POWERBANK STOPPED CHARGING PAST 2 BARS, IS THIS COVERED UNDER WARRANTY?",product,medium,neutral
+TCK-2228,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2229,Do you sponsor college esports tournaments or tech podcasts?,other,low,neutral
+TCK-2230,I was charged $64.00 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-2231,Where is my package? Tracking for ORD-10013 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-2232,Are you currently hiring customer service representatives?,other,low,neutral
+TCK-2233,Need to return three items from my last order.,refund,low,neutral
+TCK-2234,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2235,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2236,Charged for shipping even though my cart was over $50 threshold. pls reply asap!!,billing,high,negative
+TCK-2237,I was charged $39.99 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-2238,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2239,I was charged $85.00 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2240,"I want to return the NovaPulse Smart Fitness Tracker V3 from order ORD-10478, how do I get a return label?",refund,medium,neutral
+TCK-2241,Are replacement filter cartridges in stock for the CleanWave unit?,product,medium,neutral
+TCK-2242,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2243,URGENT: Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-2244,Are you currently hiring customer service representatives?,other,low,neutral
+TCK-2245,"my powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2246,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-2247,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2248,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2249,Do you have a physical retail store in Chicago or New York?,other,high,negative
+TCK-2250,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-2251,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2252,"I want to return the AuraGlow Smart Sunset Ambient Lamp from order ORD-10242, how do I get a return label?",refund,low,neutral
+TCK-2253,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2254,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2255,"URGENT: Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-2256,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2257,Can I get a VAT invoice with my company tax number for order ORD-10388? hello?? anyone there??,billing,medium,neutral
+TCK-2258,Does the AeroBrew Smart Temperature Coffee Mug come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-2259,NEED A RECEIPT PDF SENT TO MY ACCOUNTANT RIGHT AWAY.,billing,medium,neutral
+TCK-2260,URGENT: Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-2261,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-2262,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-2263,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2264,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-2265,"Sent back the broken headset, when does the money hit my PayPal???",refund,medium,negative
+TCK-2266,"Returned my parcel 10 days ago, where is my refund money? hello?? anyone there??",refund,medium,neutral
+TCK-2267,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-2268,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2269,CAN I CHANGE THE DELIVERY ADDRESS TO 742 EVERGREEN TERRACE BEFORE IT SHIPS?,delivery,low,neutral
+TCK-2270,Please delete my account and all personal data under GDPR right to be forgotten.,account,medium,neutral
+TCK-2271,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2272,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2273,Forgot my password and teh reset email is not arriving in my inbox.,account,low,neutral
+TCK-2274,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2275,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2276,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-2277,Need overnight delivery upgrade for order ORD-10114 urgently.,delivery,high,negative
+TCK-2278,Does teh NovaPulse Smart Fitness Tracker V3 come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-2279,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2280,Card was charged but I never got an order confirmation email. pls reply asap!!,billing,high,negative
+TCK-2281,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2282,Need to return three items from my last order.,refund,medium,neutral
+TCK-2283,Did my refund go through? My bank still hasn't received the deposit.,billing,high,negative
+TCK-2284,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2285,"Cannot log in via Google SSO, getting a blank redirect.",account,low,neutral
+TCK-2286,Does the PocketCam 4K Action Camera Bundle come with a 1-year manufacturer warranty?,product,high,negative
+TCK-2287,URGENT: Need overnight delivery upgrade for order ORD-10021 urgently.,delivery,high,negative
+TCK-2288,"Item doesn't fit my desk, please initiate a full refund. hello?? anyone there??",refund,low,neutral
+TCK-2289,Need to return three items from my last order.,refund,low,neutral
+TCK-2290,"FIRMWARE UPDATE FAILED ON MY SMART FITNESS TRACKER, SCREEN IS FROZEN BLACK.",product,medium,negative
+TCK-2291,"Item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-2292,"hey support team, item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-2293,Are you currently hiring customer service representatives???,other,low,neutral
+TCK-2294,"URGENT: Firmware update failed on my smart fitness tracker, screen is frozen black.",product,high,negative
+TCK-2295,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2296,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2297,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2298,"Received damaged goods, packaging was crushed. I want my money back. pls reply asap!!",refund,high,negative
+TCK-2299,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE. pls reply asap!!",billing,high,negative
+TCK-2300,Forgot my password and the reset email is not arriving in my inbox.,account,low,neutral
+TCK-2301,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2302,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2303,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2304,Can I place a wholesale bulk order of 200 units for our corporate retreat?,other,low,neutral
+TCK-2305,Where is my package? Tracking for ORD-10208 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-2306,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-2307,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-2308,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2309,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2310,Why was my credit card charged twice for ORD-10312?,billing,high,negative
+TCK-2311,"FedEx marked parcel delayed due to severe weatehr, any ETA updates?",delivery,medium,neutral
+TCK-2312,Can I submit an unsolicited product invention idea to ur engineering team?,other,low,neutral
+TCK-2313,"hey support team, why is there a $10 fee on my receipt?",billing,medium,neutral
+TCK-2314,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-2315,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2316,Can I submit an unsolicited product invention idea to ur engineering team?,other,low,neutral
+TCK-2317,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-2318,Can I submit an unsolicited product invention idea to your engineering team? pls reply asap!!,other,high,negative
+TCK-2319,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-2320,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2321,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-2322,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2323,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2324,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2325,forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-2326,"hey support team, want to cancel my novacart plus annual subscription before it auto-renews.",account,medium,neutral
+TCK-2327,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-2328,Can I get a VAT invoice with my company tax number for order ORD-10279?,billing,medium,neutral
+TCK-2329,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2330,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-2331,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2332,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2333,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2334,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-2335,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2336,Can I get a VAT invoice with my company tax number for order ORD-10041?,billing,low,neutral
+TCK-2337,URGENT: I'm not receiving order status SMS notifications on my new phone number.,account,high,negative
+TCK-2338,"I want to return the AeroBrew Smart Temperature Coffee Mug from order ORD-10241, how do I get a return label?",refund,high,negative
+TCK-2339,Where is my package? Tracking for ORD-10387 hasn't updated in 4 days.,delivery,low,neutral
+TCK-2340,Is the Smart Coffee Mug dishwasher safe or hand wash only???,product,medium,neutral
+TCK-2341,Do you sponsor college esports tournaments or tech podcasts?,other,low,neutral
+TCK-2342,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2343,How do I update my registered email address from old yahoo mail?,account,high,negative
+TCK-2344,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2345,Did my refund go through? My bank still hasn't received the deposit...,billing,medium,neutral
+TCK-2346,Carrier left package in the rain and box is soaking wet. hello?? anyone there??,delivery,medium,neutral
+TCK-2347,Did my refund go through? My bank still hasn't received teh deposit.,billing,low,neutral
+TCK-2348,"hey support team, is novacart participating in upcoming black friday sales?",other,low,neutral
+TCK-2349,URGENT: Need a receipt PDF sent to my accountant right away.,billing,high,negative
+TCK-2350,"Item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-2351,Need overnight delivery upgrade for order ORD-10053 urgently...,delivery,high,negative
+TCK-2352,"hey support team, need overnight delivery upgrade for order ord-10433 urgently.",delivery,high,negative
+TCK-2353,How do I update my registered email address from old yahoo mail?,account,medium,neutral
+TCK-2354,Do you sponsor college esports tournaments or tech podcasts?,other,low,neutral
+TCK-2355,"Returned my parcel 10 days ago, where is my refund money? pls reply asap!!",refund,high,negative
+TCK-2356,"Sent back the broken headset, when does the money hit my PayPal?",refund,high,negative
+TCK-2357,URGENT: Why is there a $10 fee on my receipt?,billing,high,negative
+TCK-2358,"FEDEX MARKED PARCEL DELAYED DUE TO SEVERE WEATHER, ANY ETA UPDATES?",delivery,medium,neutral
+TCK-2359,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-2360,Can I reschedule delivery for Monday when I am home from work?,delivery,high,negative
+TCK-2361,"hey support team, tracking says delivered yesterday but nothing on my porch or mailroom.",delivery,low,neutral
+TCK-2362,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-2363,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2364,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2365,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2366,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2367,Can I return an item after 35 days for store credit? hello?? anyone there??,refund,low,neutral
+TCK-2368,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-2369,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-2370,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2371,Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-2372,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2373,URGENT: Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-2374,How do I pair the NovaSound headphones with two Bluetooth devices at once? pls reply asap!!,product,high,negative
+TCK-2375,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2376,JUST WANTED TO SAY YOUR PACKAGING DESIGN LOOKS REALLY MODERN AND COOL!,other,low,positive
+TCK-2377,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2378,"hey support team, what are the exact dimensions of the ergoglide office chair seat?",product,low,neutral
+TCK-2379,"received damaged goods, packaging was crushed. i want my money back.",refund,medium,negative
+TCK-2380,URGENT: Need a receipt PDF sent to my accountant right away.,billing,high,negative
+TCK-2381,Need to return three items from my last order.,refund,low,neutral
+TCK-2382,URGENT: Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-2383,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-2384,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2385,Tracking says delivered yesterday but nothing on my porch or mailroom. pls reply asap!!,delivery,high,negative
+TCK-2386,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2387,Can I get a VAT invoice with my company tax number for order ORD-10015?,billing,medium,neutral
+TCK-2388,"I want to return the EchoBreeze Desk Fan with Nightlight from order ORD-10494, how do I get a return label?",refund,high,negative
+TCK-2389,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2390,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,low,neutral
+TCK-2391,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2392,"MY POWERBANK STOPPED CHARGING PAST 2 BARS, IS THIS COVERED UNDER WARRANTY?",product,low,neutral
+TCK-2393,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2394,My bank statement has an unauthorized charge from NovaCart. pls reply asap!!,billing,high,negative
+TCK-2395,DOES THE OMNIGRIP SILICONE KITCHEN COOKWARE SET COME WITH A 1-YEAR MANUFACTURER WARRANTY?,product,medium,neutral
+TCK-2396,How do I update my registered email address from old yahoo mail?,account,low,neutral
+TCK-2397,Need to return three items from my last order.,refund,low,neutral
+TCK-2398,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2399,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2400,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2401,WHAT ARE THE EXACT DIMENSIONS OF THE ERGOGLIDE OFFICE CHAIR SEAT?,product,low,neutral
+TCK-2402,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-2403,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2404,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2405,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-2406,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2407,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,low,neutral
+TCK-2408,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2409,"hey support team, charged for shipping even though my cart was over $50 threshold.",billing,medium,neutral
+TCK-2410,Where is my package? Tracking for ORD-10473 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-2411,Who is the CEO of NovaCart?,other,low,neutral
+TCK-2412,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,high,negative
+TCK-2413,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-2414,"hey support team, fedex marked parcel delayed due to severe weather, any eta updates?",delivery,medium,neutral
+TCK-2415,"hey support team, what is your environmental carbon offset policy for parcel logistics?",other,low,neutral
+TCK-2416,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2417,"Item doesn't fit my desk, please initiate a full refund. hello?? anyone there??",refund,medium,neutral
+TCK-2418,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-2419,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2420,"Cannot log in via Google SSO, getting a blank redirect.",account,low,neutral
+TCK-2421,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2422,Is the stainless steel bottle BPA free and lead free?,product,low,neutral
+TCK-2423,"My order ORD-10256 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-2424,Are replacement filter cartridges in stock for the CleanWave unit?,product,low,neutral
+TCK-2425,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2426,can i change the delivery address to 742 evergreen terrace before it ships?,delivery,low,neutral
+TCK-2427,"Item doesn't fit my desk, please initiate a full refund. hello?? anyone there??",refund,medium,neutral
+TCK-2428,"ITEM DOESN'T FIT MY DESK, PLEASE INITIATE A FULL REFUND.",refund,low,neutral
+TCK-2429,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-2430,DO YOU HAVE A PHYSICAL RETAIL STORE IN CHICAGO OR NEW YORK?,other,low,neutral
+TCK-2431,"URGENT: Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-2432,Are you currently hiring customer service representatives?,other,low,neutral
+TCK-2433,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,medium,neutral
+TCK-2434,want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2435,Need overnight delivery upgrade for order ORD-10067 urgently.,delivery,high,negative
+TCK-2436,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2437,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-2438,URGENT: Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,high,negative
+TCK-2439,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2440,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2441,Is the stainless steel bottle BPA free and lead free?,product,high,negative
+TCK-2442,"hey support team, package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-2443,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2444,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2445,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,low,neutral
+TCK-2446,need overnight delivery upgrade for order ord-10025 urgently.,delivery,high,negative
+TCK-2447,"URGENT: Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2448,How do I update my registered email address from old yahoo mail?,account,low,neutral
+TCK-2449,How do I remove saved credit cards from my wallet profile?,account,high,negative
+TCK-2450,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2451,DO YOU HAVE A USER MANUAL PDF FOR SETTING UP THE TRUE ALLERGEN PURIFIER?,product,low,neutral
+TCK-2452,"hey support team, item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-2453,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-2454,URGENT: Need to return three items from my last order.,refund,high,negative
+TCK-2455,Can I submit an unsolicited product invention idea to your engineering team???,other,high,negative
+TCK-2456,Why was my credit card charged twice for ORD-10357?,billing,high,negative
+TCK-2457,URGENT: Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,high,negative
+TCK-2458,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2459,Can I get a VAT invoice with my company tax number for order ORD-10379?,billing,medium,neutral
+TCK-2460,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2461,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-2462,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2463,How do I remove saved credit cards from my wallet profile?,account,low,neutral
+TCK-2464,Why is there a $10 fee on my receipt?,billing,low,neutral
+TCK-2465,Forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-2466,Need to return three items from my last order.,refund,medium,neutral
+TCK-2467,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2468,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2469,"Returned my parcel 10 days ago, where is my refund money?",refund,high,negative
+TCK-2470,carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2471,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2472,Charged for shipping even though my cart was over $50 threshold.,billing,low,neutral
+TCK-2473,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2474,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2475,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2476,URGENT: Duplicate charge on visa statement for NovaSound headphones.,billing,high,negative
+TCK-2477,My bank statement has an unauthorized charge from NovaCart. pls reply asap!!,billing,high,negative
+TCK-2478,Suspicious login attempt alert received from unknown IP in Russia. hello?? anyone there??,account,low,neutral
+TCK-2479,Is the stainless steel bottle BPA free and lead free?,product,high,negative
+TCK-2480,Is the stainless steel bottle BPA free and lead free?,product,high,negative
+TCK-2481,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-2482,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2483,is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2484,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-2485,URGENT: How do I enable two-factor authentication on my NovaCart account?,account,high,negative
+TCK-2486,URGENT: Website buttons are overlapping on mobile Safari iOS 17.2.,other,high,negative
+TCK-2487,How do I update my registered email address from old yahoo mail?,account,high,negative
+TCK-2488,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-2489,Need to return three items from my last order.,refund,medium,neutral
+TCK-2490,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2491,HOW DO I ENABLE TWO-FACTOR AUTHENTICATION ON MY NOVACART ACCOUNT?,account,low,neutral
+TCK-2492,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2493,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-2494,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2495,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-2496,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2497,"Package arrived at wrong apartment unit, driver dropped it down the hall. hello?? anyone there??",delivery,low,neutral
+TCK-2498,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2499,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2500,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2501,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2502,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2503,Just wanted to say your packaging design looks really modern and cool! hello?? anyone there??,other,low,positive
+TCK-2504,Can I get a VAT invoice with my company tax number for order ORD-10061? hello?? anyone there??,billing,medium,neutral
+TCK-2505,Is the Smart Coffee Mug dishwasher safe or hand wash only? pls reply asap!!,product,high,negative
+TCK-2506,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2507,Need overnight delivery upgrade for order ORD-10159 urgently.,delivery,high,negative
+TCK-2508,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2509,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2510,URGENT: Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,high,negative
+TCK-2511,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2512,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,high,negative
+TCK-2513,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-2514,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2515,Please delete my account and all personal data under GDPR right to be forgotten.,account,medium,neutral
+TCK-2516,why was my credit card charged twice for ord-10175?,billing,high,negative
+TCK-2517,DO YOU HAVE A USER MANUAL PDF FOR SETTING UP THE TRUE ALLERGEN PURIFIER?,product,low,neutral
+TCK-2518,"hey support team, my order ord-10131 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-2519,CAN I PLACE A WHOLESALE BULK ORDER OF 200 UNITS FOR OUR CORPORATE RETREAT?,other,low,neutral
+TCK-2520,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,low,neutral
+TCK-2521,Need overnight delivery upgrade for order ORD-10301 urgently.,delivery,high,negative
+TCK-2522,I'm not receiving order status SMS notifications on my new phone number. hello?? anyone there??,account,medium,neutral
+TCK-2523,Can I return an item after 35 days for store credit?,refund,high,negative
+TCK-2524,Need to return three items from my last order.,refund,low,neutral
+TCK-2525,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2526,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2527,Are replacement filter cartridges in stock for teh CleanWave unit?,product,low,neutral
+TCK-2528,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-2529,"Cannot log in via Google SSO, getting a blank redirect.",account,low,neutral
+TCK-2530,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2531,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-2532,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-2533,forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-2534,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-2535,Why was my credit card charged twice for ORD-10457?,billing,high,negative
+TCK-2536,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2537,Are you currently hiring customer service representatives?,other,low,neutral
+TCK-2538,Where is my package? Tracking for ORD-10389 hasn't updated in 4 days.,delivery,low,neutral
+TCK-2539,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,low,neutral
+TCK-2540,URGENT: Need to return three items from my last order.,refund,high,negative
+TCK-2541,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2542,Need to return three items from my last order.,refund,low,neutral
+TCK-2543,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2544,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-2545,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2546,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2547,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,low,neutral
+TCK-2548,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,low,neutral
+TCK-2549,My account is locked after typing my password wrong a few times. hello?? anyone there??,account,medium,negative
+TCK-2550,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-2551,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2552,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2553,Need to return three items from my last order.,refund,medium,neutral
+TCK-2554,How do I pair teh NovaSound headphones with two Bluetooth devices at once?,product,high,negative
+TCK-2555,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2556,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2557,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-2558,Does the ArmorFit Water Bottle 32oz Insulated come with a 1-year manufacturer warranty?,product,high,negative
+TCK-2559,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-2560,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2561,"hey support team, why was my credit card charged twice for ord-10031?",billing,high,negative
+TCK-2562,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-2563,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2564,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2565,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-2566,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-2567,JUST WANTED TO SAY YOUR PACKAGING DESIGN LOOKS REALLY MODERN AND COOL!,other,low,positive
+TCK-2568,Forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-2569,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2570,Please delete my account and all personal data under GDPR right to be forgotten.,account,high,negative
+TCK-2571,Did my refund go through? My bank still hasn't received the deposit. pls reply asap!!,billing,high,negative
+TCK-2572,delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2573,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-2574,"URGENT: Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-2575,Why is there a $10 fee on my receipt?,billing,low,neutral
+TCK-2576,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,medium,neutral
+TCK-2577,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2578,URGENT: Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-2579,Where is my package? Tracking for ORD-10391 hasn't updated in 4 days.,delivery,low,neutral
+TCK-2580,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2581,ARE REPLACEMENT FILTER CARTRIDGES IN STOCK FOR THE CLEANWAVE UNIT?,product,medium,neutral
+TCK-2582,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2583,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2584,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-2585,Can I change the delivery address to 742 Evergreen Terrace before it ships? pls reply asap!!,delivery,high,negative
+TCK-2586,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2587,I was charged $299.00 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2588,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2589,Tracking number TRK-992144 shows stalled in transit at Memphis hub. pls reply asap!!,delivery,high,negative
+TCK-2590,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2591,please delete my account and all personal data under gdpr right to be forgotten.,account,low,neutral
+TCK-2592,How do I update my registered email address from old yahoo mail?,account,medium,neutral
+TCK-2593,Suspicious login attempt alert received from unknown IP in Russia. pls reply asap!!,account,high,negative
+TCK-2594,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2595,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-2596,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2597,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2598,Does the ErgoGlide Ergonomic Office Chair come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-2599,"hey support team, why is there a $10 fee on my receipt?",billing,medium,neutral
+TCK-2600,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2601,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2602,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,high,negative
+TCK-2603,"RECEIVED DAMAGED GOODS, PACKAGING WAS CRUSHED. I WANT MY MONEY BACK.",refund,low,negative
+TCK-2604,ARE REPLACEMENT FILTER CARTRIDGES IN STOCK FOR THE CLEANWAVE UNIT?,product,medium,neutral
+TCK-2605,"fedex marked parcel delayed due to severe weather, any eta updates?",delivery,low,neutral
+TCK-2606,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2607,I'm not receiving order status SMS notifications on my new phone number...,account,medium,neutral
+TCK-2608,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2609,How do I update my registered email address from old yahoo mail?,account,medium,neutral
+TCK-2610,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2611,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2612,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,medium,neutral
+TCK-2613,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,low,neutral
+TCK-2614,"MY POWERBANK STOPPED CHARGING PAST 2 BARS, IS THIS COVERED UNDER WARRANTY?",product,medium,neutral
+TCK-2615,Carrier left package in the rain and box is soaking wet. hello?? anyone there??,delivery,high,negative
+TCK-2616,Did my refund go through? My bank still hasn't received the deposit...,billing,medium,neutral
+TCK-2617,Card was charged but I never got an order confirmation email.,billing,low,neutral
+TCK-2618,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2619,Why is there a $10 fee on my receipt? pls reply asap!!,billing,high,negative
+TCK-2620,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,low,neutral
+TCK-2621,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-2622,Where is my package? Tracking for ORD-10458 hasn't updated in 4 days.,delivery,high,negative
+TCK-2623,"Return label says $5.99 deducted, but I was sent the wrong color by mistake! pls reply asap!!",refund,high,negative
+TCK-2624,Need overnight delivery upgrade for order ORD-10003 urgently.,delivery,high,negative
+TCK-2625,please delete my account and all personal data under gdpr right to be forgotten.,account,medium,neutral
+TCK-2626,CAN I CHANGE THE DELIVERY ADDRESS TO 742 EVERGREEN TERRACE BEFORE IT SHIPS?,delivery,medium,neutral
+TCK-2627,Can I get a VAT invoice with my company tax number for order ORD-10023?,billing,low,neutral
+TCK-2628,"hey support team, need to return three items from my last order.",refund,low,neutral
+TCK-2629,"My order ORD-10008 was supposed to arrive yesterday, when will it be here?",delivery,high,negative
+TCK-2630,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-2631,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2632,Are replacement filter cartridges in stock for the CleanWave unit?,product,medium,neutral
+TCK-2633,How do I enable two-factor authentication on my NovaCart account?,account,low,neutral
+TCK-2634,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-2635,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2636,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,high,negative
+TCK-2637,"URGENT: FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,high,negative
+TCK-2638,Card was charged but I never got an order confirmation email.,billing,low,neutral
+TCK-2639,"I want to return the BreezeAir HEPA True Allergen Purifier from order ORD-10267, how do I get a return label?",refund,low,neutral
+TCK-2640,do you have a user manual pdf for setting up the true allergen purifier?,product,low,neutral
+TCK-2641,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2642,Where is my package? Tracking for ORD-10034 hasn't updated in 4 days...,delivery,high,negative
+TCK-2643,Who is the CEO of NovaCart?,other,low,neutral
+TCK-2644,Will teh 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2645,"My ordr ORD-10311 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2646,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2647,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2648,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2649,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-2650,Need a receipt PDF sent to my accountant right away.,billing,high,negative
+TCK-2651,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2652,Do you sponsor college esports tournaments or tech podcasts?,other,high,negative
+TCK-2653,"hey support team, how do i pair the novasound headphones with two bluetooth devices at once?",product,medium,neutral
+TCK-2654,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-2655,tracking number trk-992144 shows stalled in transit at memphis hub.,delivery,medium,negative
+TCK-2656,Forgot my password and teh reset email is not arriving in my inbox.,account,low,neutral
+TCK-2657,NEED OVERNIGHT DELIVERY UPGRADE FOR ORDER ORD-10488 URGENTLY.,delivery,high,negative
+TCK-2658,Can I return an item after 35 days for store credit?,refund,high,negative
+TCK-2659,What are the exact dimensions of the ErgoGlide office chair seat? pls reply asap!!,product,high,negative
+TCK-2660,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2661,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2662,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-2663,Card was charged but I never got an order confirmation email. pls reply asap!!,billing,high,negative
+TCK-2664,How do I enable two-factor authentication on my NovaCart account???,account,low,neutral
+TCK-2665,is novacart participating in upcoming black friday sales?,other,low,neutral
+TCK-2666,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,high,negative
+TCK-2667,"Item doesn't fit my desk, please initiate a full refund. pls reply asap!!",refund,high,negative
+TCK-2668,Why was my credit card charged twice for ORD-10300?,billing,high,negative
+TCK-2669,my account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-2670,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2671,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-2672,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-2673,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2674,CARD WAS CHARGED BUT I NEVER GOT AN ORDER CONFIRMATION EMAIL.,billing,low,neutral
+TCK-2675,Please delete my account and all personal data under GDPR right to be forgotten.,account,medium,neutral
+TCK-2676,Can I change the delivery address to 742 Evergreen Terrace before it ships? hello?? anyone there??,delivery,medium,neutral
+TCK-2677,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2678,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-2679,Duplicate charge on visa statement for NovaSound headphones.,billing,low,neutral
+TCK-2680,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2681,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-2682,Are you currently hiring customer service representatives?,other,high,negative
+TCK-2683,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2684,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2685,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2686,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2687,CAN I CHANGE THE DELIVERY ADDRESS TO 742 EVERGREEN TERRACE BEFORE IT SHIPS?,delivery,high,negative
+TCK-2688,Need overnight delivery upgrade for order ORD-10480 urgently.,delivery,high,negative
+TCK-2689,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-2690,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-2691,How do I enable two-factor authentication on my NovaCart account?,account,high,negative
+TCK-2692,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-2693,URGENT: How do I enable two-factor authentication on my NovaCart account?,account,high,negative
+TCK-2694,Does the HyperSpeed Dual-Band Wi-Fi 6 Router come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-2695,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2696,Do you sponsor college esports tournaments or tech podcasts?,other,low,neutral
+TCK-2697,Where is my package? Tracking for ORD-10473 hasn't updated in 4 days.,delivery,low,neutral
+TCK-2698,"hey support team, is the smart coffee mug dishwasher safe or hand wash only?",product,medium,neutral
+TCK-2699,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-2700,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2701,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2702,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,high,negative
+TCK-2703,"hey support team, cannot log in via google sso, getting a blank redirect.",account,low,neutral
+TCK-2704,did my refund go through? my bank still hasn't received the deposit.,billing,high,negative
+TCK-2705,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2706,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2707,Can I submit an unsolicited product invention idea to your engineering team?,other,low,neutral
+TCK-2708,WANT TO EXCHANGE THIS COFFEE MUG FOR A BLACK ONE INSTEAD OF WHITE.,refund,high,negative
+TCK-2709,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-2710,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2711,"My order ORD-10051 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2712,Duplicate charge on visa statement for NovaSound headphones.,billing,low,neutral
+TCK-2713,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2714,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2715,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2716,Where is my package? Tracking for ORD-10044 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-2717,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2718,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2719,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-2720,Can I get a VAT invoice with my company tax number for order ORD-10154?,billing,low,neutral
+TCK-2721,"My order ORD-10374 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2722,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2723,Can I place a wholesale bulk order of 200 units for our corporate retreat?,other,low,neutral
+TCK-2724,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2725,Can I get a VAT invoice with my company tax number for ordr ORD-10162?,billing,low,neutral
+TCK-2726,"RETURN LABEL SAYS $5.99 DEDUCTED, BUT I WAS SENT THE WRONG COLOR BY MISTAKE!",refund,low,neutral
+TCK-2727,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-2728,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,low,neutral
+TCK-2729,Need overnight delivery upgrade for order ORD-10444 urgently.,delivery,high,negative
+TCK-2730,"I want to return the HyperSpeed Dual-Band Wi-Fi 6 Router from order ORD-10088, how do I get a return label?",refund,low,neutral
+TCK-2731,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-2732,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2733,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2734,How do I enable two-factor authentication on my NovaCart account?,account,low,neutral
+TCK-2735,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-2736,I was charged $189.00 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2737,Suspicious login attempt alert received from unknown IP in Russia.,account,high,negative
+TCK-2738,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-2739,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-2740,Does the BreezeAir HEPA True Allergen Purifier come with a 1-year manufacturer warranty?,product,low,neutral
+TCK-2741,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-2742,"Firmware update failed on my smart fitness tracker, screen is frozen black. hello?? anyone there??",product,medium,negative
+TCK-2743,CAN I SUBMIT AN UNSOLICITED PRODUCT INVENTION IDEA TO YOUR ENGINEERING TEAM?,other,low,neutral
+TCK-2744,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-2745,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-2746,"I want to return the NovaTab Pro 10.5 inch Tablet 128GB from order ORD-10479, how do I get a return label?",refund,low,neutral
+TCK-2747,need a receipt pdf sent to my accountant right away.,billing,medium,neutral
+TCK-2748,Where is my package? Tracking for ORD-10052 hasn't updated in 4 days.,delivery,high,negative
+TCK-2749,"Returned my parcel 10 days ago, where is my refund money?",refund,high,negative
+TCK-2750,How do I update my registered email address from old yahoo mail? pls reply asap!!,account,high,negative
+TCK-2751,"My order ORD-10275 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2752,Card was charged but I never got an order confirmation email.,billing,low,neutral
+TCK-2753,Charged for shipping even though my cart was over $50 threshold.,billing,low,neutral
+TCK-2754,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2755,CHARGED FOR SHIPPING EVEN THOUGH MY CART WAS OVER $50 THRESHOLD.,billing,low,neutral
+TCK-2756,Where is my package? Tracking for ORD-10393 hasn't updated in 4 days. hello?? anyone there??,delivery,medium,neutral
+TCK-2757,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-2758,DUPLICATE CHARGE ON VISA STATEMENT FOR NOVASOUND HEADPHONES.,billing,medium,neutral
+TCK-2759,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2760,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2761,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2762,"hey support team, can i reschedule delivery for monday when i am home from work?",delivery,medium,neutral
+TCK-2763,Want to exchange this coffee mug for a black one instead of white. hello?? anyone there??,refund,low,neutral
+TCK-2764,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,low,neutral
+TCK-2765,Need overnight delivery upgrade for order ORD-10052 urgently.,delivery,high,negative
+TCK-2766,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2767,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2768,"FEDEX MARKED PARCEL DELAYED DUE TO SEVERE WEATHER, ANY ETA UPDATES?",delivery,medium,neutral
+TCK-2769,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2770,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,medium,neutral
+TCK-2771,Suspicious login attempt alert received from unknown IP in Russia...,account,medium,neutral
+TCK-2772,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2773,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,medium,neutral
+TCK-2774,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-2775,Who is the CEO of NovaCart?,other,low,neutral
+TCK-2776,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2777,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2778,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-2779,"fedex marked parcel delayed due to severe weather, any eta updates?",delivery,low,neutral
+TCK-2780,want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-2781,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2782,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2783,"I want to return the PocketCam 4K Action Camera Bundle from order ORD-10422, how do I get a return label? pls reply asap!!",refund,high,negative
+TCK-2784,Why was my credit card charged twice for ORD-10276?,billing,high,negative
+TCK-2785,How do I update my registered email address from old yahoo mail?,account,low,neutral
+TCK-2786,Need overnight delivery upgrade for order ORD-10323 urgently...,delivery,high,negative
+TCK-2787,I'm not receiving order status SMS notifications on my new phone number.,account,high,negative
+TCK-2788,Can I get a VAT invoice with my company tax number for order ORD-10418?,billing,low,neutral
+TCK-2789,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-2790,Charged for shipping even though my cart was over $50 threshold.,billing,low,neutral
+TCK-2791,"i want to return the aerobrew smart temperature coffee mug from order ord-10309, how do i get a return label?",refund,high,negative
+TCK-2792,WHY IS THERE A $10 FEE ON MY RECEIPT?,billing,medium,neutral
+TCK-2793,"I want to return the AeroBrew Smart Temperature Coffee Mug from order ORD-10491, how do I get a return label?",refund,medium,neutral
+TCK-2794,Can I get a VAT invoice with my company tax number for order ORD-10246?,billing,low,neutral
+TCK-2795,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-2796,"hey support team, how do i pair the novasound headphones with two bluetooth devices at once?",product,medium,neutral
+TCK-2797,Charged for shipping even though my cart was over $50 threshold. pls reply asap!!,billing,high,negative
+TCK-2798,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-2799,What is your environmental carbon offset policy for parcel logistics?,other,high,negative
+TCK-2800,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,medium,neutral
+TCK-2801,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-2802,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2803,Why was my credit card charged twice for ORD-10442?,billing,high,negative
+TCK-2804,Can I get a VAT invoice with my company tax number for order ORD-10200?,billing,medium,neutral
+TCK-2805,Klarna payment installment was taken twice this month. hello?? anyone there??,billing,high,negative
+TCK-2806,Can I place a wholesale bulk order of 200 units for our corporate retreat?,other,low,neutral
+TCK-2807,URGENT: I'm not receiving order status SMS notifications on my new phone number.,account,high,negative
+TCK-2808,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2809,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2810,please delete my account and all personal data under gdpr right to be forgotten.,account,medium,neutral
+TCK-2811,Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-2812,"My order ORD-10151 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2813,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2814,Charged for shipping even though my cart was over $50 threshold.,billing,low,neutral
+TCK-2815,IS THE SMART COFFEE MUG DISHWASHER SAFE OR HAND WASH ONLY?,product,low,neutral
+TCK-2816,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2817,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2818,I was charged $89.99 but checkout showed a discount code was active.,billing,high,negative
+TCK-2819,"hey support team, suspicious login attempt alert received from unknown ip in russia.",account,medium,neutral
+TCK-2820,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2821,I was charged $59.99 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2822,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2823,URGENT: Card was charged but I never got an order confirmation email.,billing,high,negative
+TCK-2824,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-2825,I was charged $34.99 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2826,I was charged $39.99 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2827,"I want to return the CleanWave Ultrasonic UV Toothbrush from ordr ORD-10124, how do I get a return label?",refund,medium,neutral
+TCK-2828,Does the HyperSpeed Dual-Band Wi-Fi 6 Router come with a 1-year manufacturer warranty? pls reply asap!!,product,high,negative
+TCK-2829,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-2830,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-2831,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2832,Need overnight delivery upgrade for order ORD-10445 urgently.,delivery,high,negative
+TCK-2833,My account is locked after typing my password wrong a few times.,account,low,negative
+TCK-2834,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-2835,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2836,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-2837,just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-2838,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-2839,TRACKING SAYS DELIVERED YESTERDAY BUT NOTHING ON MY PORCH OR MAILROOM.,delivery,high,negative
+TCK-2840,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-2841,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2842,Need overnight delivery upgrade for order ORD-10470 urgently.,delivery,high,negative
+TCK-2843,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2844,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,high,negative
+TCK-2845,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-2846,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2847,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2848,What are the exact dimensions of the ErgoGlide office chair seat? hello?? anyone there??,product,low,neutral
+TCK-2849,"Sent back teh broken headset, when does teh money hit my PayPal?",refund,high,negative
+TCK-2850,need a receipt pdf sent to my accountant right away.,billing,medium,neutral
+TCK-2851,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-2852,Why is there a $10 fee on my receipt???,billing,high,negative
+TCK-2853,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2854,"hey support team, fedex marked parcel delayed due to severe weather, any eta updates?",delivery,medium,neutral
+TCK-2855,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2856,can i submit an unsolicited product invention idea to your engineering team?,other,low,neutral
+TCK-2857,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2858,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2859,Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-2860,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2861,Please delete my account and all personal data under GDPR right to be forgotten.,account,low,neutral
+TCK-2862,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-2863,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2864,"Package arrived at wrong apartment unit, driver dropped it down the hall. hello?? anyone there??",delivery,high,negative
+TCK-2865,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2866,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2867,how do i pair the novasound headphones with two bluetooth devices at once?,product,medium,neutral
+TCK-2868,Need to return three items from my last order.,refund,medium,neutral
+TCK-2869,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2870,URGENT: How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,high,negative
+TCK-2871,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-2872,Want to exchange this coffee mug for a black one instead of white.,refund,high,negative
+TCK-2873,Does the NovaSound Wireless ANC Headphones come with a 1-year manufacturer warranty? hello?? anyone there??,product,medium,neutral
+TCK-2874,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-2875,Who is the CEO of NovaCart?,other,low,neutral
+TCK-2876,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2877,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2878,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2879,Why was my credit card charged twice for ORD-10224?,billing,high,negative
+TCK-2880,"I want to return the OmniGrip Silicone Kitchen Cookware Set from order ORD-10317, how do I get a return label?",refund,high,negative
+TCK-2881,"URGENT: My order ORD-10233 was supposed to arrive yesterday, when will it be here?",delivery,high,negative
+TCK-2882,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-2883,"FedEx marked parcel delayed due to severe weather, any ETA updates???",delivery,medium,neutral
+TCK-2884,"Item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-2885,"My order ORD-10048 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-2886,Carrier left pakage in teh rain and box is soaking wet.,delivery,low,neutral
+TCK-2887,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-2888,"My order ORD-10338 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-2889,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-2890,want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2891,Please delete my account and all personal data under GDPR right to be forgotten...,account,high,negative
+TCK-2892,I was charged $349.99 but checkout showed a discount code was active.,billing,low,neutral
+TCK-2893,"hey support team, how do i update my registered email address from old yahoo mail?",account,low,neutral
+TCK-2894,Card was charged but I never got an ordr confirmation email.,billing,medium,neutral
+TCK-2895,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-2896,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2897,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-2898,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-2899,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2900,"package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,low,neutral
+TCK-2901,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-2902,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-2903,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-2904,Why was my credit card charged twice for ORD-10411?,billing,high,negative
+TCK-2905,Can I submit an unsolicited product invention idea to your engineering team?,other,low,neutral
+TCK-2906,"URGENT: Sent back the broken headset, when does the money hit my PayPal?",refund,high,negative
+TCK-2907,"hey support team, cannot log in via google sso, getting a blank redirect.",account,high,negative
+TCK-2908,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,high,negative
+TCK-2909,Charged for shipping even though my cart was over $50 threshold. hello?? anyone there??,billing,medium,neutral
+TCK-2910,Need overnight delivery upgrade for order ORD-10025 urgently.,delivery,high,negative
+TCK-2911,"Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-2912,Where is my package? Tracking for ORD-10072 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-2913,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2914,Forgot my password and the reset email is not arriving in my inbox. pls reply asap!!,account,high,negative
+TCK-2915,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2916,Are replacement filter cartridges in stock for the CleanWave unit???,product,medium,neutral
+TCK-2917,Can I submit an unsolicited product invention idea to your engineering team?,other,low,neutral
+TCK-2918,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-2919,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-2920,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,high,negative
+TCK-2921,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2922,Need overnight delivery upgrade for order ORD-10390 urgently.,delivery,high,negative
+TCK-2923,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-2924,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-2925,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-2926,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-2927,Why was my credit card charged twice for ORD-10244?,billing,high,negative
+TCK-2928,Can I reschedule delivery for Monday when I am home from work???,delivery,medium,neutral
+TCK-2929,URGENT: Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-2930,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2931,Can I return an item after 35 days for store credit?,refund,low,neutral
+TCK-2932,Why was my credit card charged twice for ORD-10295?,billing,high,negative
+TCK-2933,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-2934,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-2935,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-2936,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-2937,Why is tehre a $10 fee on my receipt?,billing,low,neutral
+TCK-2938,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-2939,Forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-2940,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-2941,"Returned my parcel 10 days ago, where is my refund money?",refund,high,negative
+TCK-2942,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-2943,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-2944,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2945,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2946,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2947,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2948,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2949,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-2950,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2951,Why was my credit card charged twice for ORD-10256?,billing,high,negative
+TCK-2952,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-2953,Does the NovaPulse Smart Fitness Tracker V3 come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-2954,Did my refund go through??? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-2955,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-2956,Tracking says delivered yesterday but nothing on my porch or mailroom. hello?? anyone there??,delivery,medium,neutral
+TCK-2957,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-2958,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2959,TRACKING NUMBER TRK-992144 SHOWS STALLED IN TRANSIT AT MEMPHIS HUB.,delivery,medium,negative
+TCK-2960,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-2961,"hey support team, do you have a user manual pdf for setting up the true allergen purifier?",product,low,neutral
+TCK-2962,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,low,neutral
+TCK-2963,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-2964,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2965,"URGENT: I want to return the NovaPulse Smart Fitness Tracker V3 from order ORD-10044, how do I get a return label?",refund,high,negative
+TCK-2966,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-2967,Forgot my password and the reset email is not arriving in my inbox.,account,low,neutral
+TCK-2968,"URGENT: My order ORD-10288 was supposed to arrive yesterday, when will it be here?",delivery,high,negative
+TCK-2969,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2970,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-2971,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,low,neutral
+TCK-2972,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-2973,Is the stainless steel bottle BPA free and lead free???,product,low,neutral
+TCK-2974,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-2975,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-2976,My account is locked after typing my password wrong a few times.,account,low,negative
+TCK-2977,URGENT: Charged for shipping even though my cart was over $50 threshold.,billing,high,negative
+TCK-2978,Need to return three items from my last order.,refund,low,neutral
+TCK-2979,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-2980,IS THERE A RESTOCKING FEE FOR RETURNING UNOPENED HEADPHONES WITHIN 30 DAYS?,refund,low,neutral
+TCK-2981,Need to return three items from my last order.,refund,low,neutral
+TCK-2982,URGENT: How do I update my registered email address from old yahoo mail?,account,high,negative
+TCK-2983,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-2984,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-2985,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2986,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-2987,Please delete my account and all personal data under GDPR right to be forgotten.,account,medium,neutral
+TCK-2988,Does the CleanWave Ultrasonic UV Toothbrush come with a 1-year manufacturer warranty?,product,high,negative
+TCK-2989,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-2990,Delivery driver didn't ring the buzzer and marked delivery attempted. pls reply asap!!,delivery,high,negative
+TCK-2991,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-2992,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,low,neutral
+TCK-2993,Does the BreezeAir HEPA True Allergen Purifier come with a 1-year manufacturer warranty?,product,low,neutral
+TCK-2994,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-2995,Need overnight delivery upgrade for order ORD-10461 urgently.,delivery,high,negative
+TCK-2996,Is the stainless steel bottle BPA free and lead free?,product,low,neutral
+TCK-2997,"Item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-2998,"My powerbank stopped charging past 2 bars, is this covered under warranty? hello?? anyone there??",product,high,negative
+TCK-2999,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-3000,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3001,"hey support team, my powerbank stopped charging past 2 bars, is this covered under warranty?",product,low,neutral
+TCK-3002,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-3003,Does the EchoBreeze Desk Fan with Nightlight come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-3004,Forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-3005,duplicate charge on visa statement for novasound headphones.,billing,high,negative
+TCK-3006,"Sent back the broken headset, when does the money hit my PayPal? pls reply asap!!",refund,high,negative
+TCK-3007,Please delete my account and all personal data under GDPR right to be forgotten...,account,medium,neutral
+TCK-3008,"hey support team, forgot my password and the reset email is not arriving in my inbox.",account,medium,neutral
+TCK-3009,"My ordr ORD-10060 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-3010,CHARGED FOR SHIPPING EVEN THOUGH MY CART WAS OVER $50 THRESHOLD.,billing,low,neutral
+TCK-3011,Suspicious login attempt alert received from unknown IP in Russia.,account,high,negative
+TCK-3012,Forgot my password and the reset email is not arriving in my inbox.,account,low,neutral
+TCK-3013,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-3014,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-3015,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,low,neutral
+TCK-3016,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,low,neutral
+TCK-3017,Are replacement filter cartridges in stock for the CleanWave unit???,product,medium,neutral
+TCK-3018,Can I reschedule delivery for Monday when I am home from work???,delivery,high,negative
+TCK-3019,Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-3020,"MY POWERBANK STOPPED CHARGING PAST 2 BARS, IS THIS COVERED UNDER WARRANTY?",product,high,negative
+TCK-3021,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-3022,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3023,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-3024,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-3025,Need overnight delivery upgrade for order ORD-10223 urgently.,delivery,high,negative
+TCK-3026,Does the AeroBrew Smart Temperature Coffee Mug come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-3027,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-3028,charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-3029,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-3030,Delivery driver didn't ring the buzzer and marked delivery attempted. pls reply asap!!,delivery,high,negative
+TCK-3031,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-3032,Why was my credit card charged twice for ORD-10495?,billing,high,negative
+TCK-3033,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,high,negative
+TCK-3034,"Firmware update failed on my smart fitness tracker, screen is frozen black. pls reply asap!!",product,high,negative
+TCK-3035,URGENT: How do I update my registered email address from old yahoo mail?,account,high,negative
+TCK-3036,URGENT: Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-3037,Why is there a $10 fee on my receipt?,billing,high,negative
+TCK-3038,Forgot my password and the reset email is not arriving in my inbox.,account,high,negative
+TCK-3039,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-3040,Need a receipt PDF sent to my accountant right away...,billing,medium,neutral
+TCK-3041,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-3042,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-3043,Where is my package??? Tracking for ORD-10083 hasn't updated in 4 days.,delivery,low,neutral
+TCK-3044,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-3045,URGENT: Need overnight delivery upgrade for order ORD-10017 urgently.,delivery,high,negative
+TCK-3046,I was charged $189.00 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-3047,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-3048,"Return label says $5...99 deducted, but I was sent the wrong color by mistake!",refund,low,neutral
+TCK-3049,Can I change the delivery address to 742 Evergreen Terrace before it ships? hello?? anyone there??,delivery,low,neutral
+TCK-3050,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,high,negative
+TCK-3051,"hey support team, carrier left package in the rain and box is soaking wet.",delivery,medium,neutral
+TCK-3052,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-3053,"hey support team, want to exchange this coffee mug for a black one instead of white.",refund,medium,neutral
+TCK-3054,"Sent back the broken headset, when does the money hit my PayPal?",refund,high,negative
+TCK-3055,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-3056,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-3057,"hey support team, what are the exact dimensions of the ergoglide office chair seat?",product,low,neutral
+TCK-3058,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-3059,"I want to return the PocketCam 4K Action Camera Bundle from order ORD-10038, how do I get a return label?",refund,medium,neutral
+TCK-3060,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-3061,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-3062,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3063,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-3064,What are the exact dimensions of the ErgoGlide office chair seat???,product,low,neutral
+TCK-3065,Card was charged but I never got an order confirmation email. pls reply asap!!,billing,high,negative
+TCK-3066,Need to return three items from my last order.,refund,high,negative
+TCK-3067,Carrier left package in the rain and box is soaking wet. pls reply asap!!,delivery,high,negative
+TCK-3068,Are you currently hiring customer service representatives?,other,low,neutral
+TCK-3069,can i reschedule delivery for monday when i am home from work?,delivery,medium,neutral
+TCK-3070,Does the NovaSound Wireless ANC Headphones come with a 1-year manufacturer warranty? pls reply asap!!,product,high,negative
+TCK-3071,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-3072,"hey support team, tracking says delivered yesterday but nothing on my porch or mailroom.",delivery,low,neutral
+TCK-3073,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-3074,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-3075,"Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-3076,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-3077,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-3078,How do I update my registered email address from old yahoo mail?,account,medium,neutral
+TCK-3079,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-3080,I was charged $79.99 but checkout showed a discount code was active.,billing,low,neutral
+TCK-3081,"Cannot log in via Google SSO, getting a blank redirect. hello?? anyone there??",account,medium,neutral
+TCK-3082,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,medium,negative
+TCK-3083,Need to return three items from my last order.,refund,high,negative
+TCK-3084,"URGENT: Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-3085,"My order ORD-10238 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-3086,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-3087,Can I change the delivery address to 742 Evergreen Terrace before it ships? hello?? anyone there??,delivery,low,neutral
+TCK-3088,carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3089,Where is my package? Tracking for ORD-10158 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-3090,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-3091,Do you have a physical retail store in Chicago or New York?,other,low,neutral
+TCK-3092,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-3093,Duplicate charge on visa statement for NovaSound headphones.,billing,low,neutral
+TCK-3094,can i change the delivery address to 742 evergreen terrace before it ships?,delivery,medium,neutral
+TCK-3095,"received damaged goods, packaging was crushed. i want my money back.",refund,medium,negative
+TCK-3096,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-3097,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-3098,Where is my package? Tracking for ORD-10381 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-3099,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-3100,How do I update my registered email address from old yahoo mail? pls reply asap!!,account,high,negative
+TCK-3101,JUST WANTED TO SAY YOUR PACKAGING DESIGN LOOKS REALLY MODERN AND COOL!,other,low,positive
+TCK-3102,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-3103,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-3104,Need to return three items from my last order...,refund,medium,neutral
+TCK-3105,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-3106,"hey support team, need a receipt pdf sent to my accountant right away.",billing,medium,neutral
+TCK-3107,"Cannot log in via Google SSO, getting a blank redirect.",account,low,neutral
+TCK-3108,"My order ORD-10019 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-3109,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,low,neutral
+TCK-3110,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-3111,i was charged $219.50 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-3112,"hey support team, need a receipt pdf sent to my accountant right away.",billing,medium,neutral
+TCK-3113,"returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-3114,Delivery driver didn't ring the buzzer and marked delivery attempted. hello?? anyone there??,delivery,low,neutral
+TCK-3115,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-3116,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-3117,"hey support team, duplicate charge on visa statement for novasound headphones.",billing,medium,neutral
+TCK-3118,DO YOU HAVE A PHYSICAL RETAIL STORE IN CHICAGO OR NEW YORK?,other,low,neutral
+TCK-3119,Where is my package? Tracking for ORD-10320 hasn't updated in 4 days.,delivery,high,negative
+TCK-3120,"Sent back the broken headset, when does the money hit my PayPal?",refund,medium,negative
+TCK-3121,"hey support team, are replacement filter cartridges in stock for the cleanwave unit?",product,medium,neutral
+TCK-3122,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-3123,"Returned my parcel 10 days ago, where is my refund money?",refund,low,neutral
+TCK-3124,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-3125,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,low,neutral
+TCK-3126,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,high,negative
+TCK-3127,Why was my credit card charged twice for ORD-10071?,billing,high,negative
+TCK-3128,Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-3129,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3130,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-3131,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,medium,neutral
+TCK-3132,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-3133,Do u have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-3134,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,low,neutral
+TCK-3135,CAN I CHANGE THE DELIVERY ADDRESS TO 742 EVERGREEN TERRACE BEFORE IT SHIPS?,delivery,medium,neutral
+TCK-3136,"I want to return the CleanWave Ultrasonic UV Toothbrush from order ORD-10311, how do I get a return label? pls reply asap!!",refund,high,negative
+TCK-3137,can i return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3138,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-3139,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-3140,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,high,negative
+TCK-3141,Where is my package? Tracking for ORD-10161 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-3142,"I want to return the HyperSpeed Dual-Band Wi-Fi 6 Router from order ORD-10171, how do I get a return label?",refund,medium,neutral
+TCK-3143,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-3144,"Item doesn't fit my desk, please initiate a full refund. pls reply asap!!",refund,high,negative
+TCK-3145,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-3146,"I want to return the CleanWave Ultrasonic UV Toothbrush from order ORD-10160, how do I get a return label?",refund,high,negative
+TCK-3147,"ITEM DOESN'T FIT MY DESK, PLEASE INITIATE A FULL REFUND.",refund,low,neutral
+TCK-3148,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-3149,URGENT: Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,high,negative
+TCK-3150,"hey support team, sent back the broken headset, when does the money hit my paypal?",refund,low,negative
+TCK-3151,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-3152,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-3153,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-3154,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-3155,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-3156,How do I update my registered email address from old yahoo mail?,account,medium,neutral
+TCK-3157,I was charged $49.99 but checkout showed a discount code was active.,billing,low,neutral
+TCK-3158,NEED TO RETURN THREE ITEMS FROM MY LAST ORDER.,refund,medium,neutral
+TCK-3159,CHARGED FOR SHIPPING EVEN THOUGH MY CART WAS OVER $50 THRESHOLD.,billing,medium,neutral
+TCK-3160,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-3161,Tracking number TRK-992144 shows stalled in transit at Memphis hub. hello?? anyone there??,delivery,medium,negative
+TCK-3162,Where is my package? Tracking for ORD-10498 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-3163,"fedex marked parcel delayed due to severe weather, any eta updates?",delivery,low,neutral
+TCK-3164,Need overnight delivery upgrade for ordr ORD-10495 urgently.,delivery,high,negative
+TCK-3165,How do I enable two-factor authentication on my NovaCart account?,account,high,negative
+TCK-3166,Can I get a VAT invoice with my company tax number for order ORD-10411?,billing,low,neutral
+TCK-3167,Can I get a VAT invoice with my company tax number for order ORD-10155?,billing,medium,neutral
+TCK-3168,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-3169,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3170,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C? hello?? anyone there??,product,low,neutral
+TCK-3171,How do I update my registered email address from old yahoo mail?,account,low,neutral
+TCK-3172,Need to return three items from my last order.,refund,low,neutral
+TCK-3173,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-3174,"Returned my parcel 10 days ago, where is my refund money? pls reply asap!!",refund,high,negative
+TCK-3175,"Package arrived at wrong apartment unit, driver dropped it down the hall. pls reply asap!!",delivery,high,negative
+TCK-3176,"hey support team, delivery driver didn't ring the buzzer and marked delivery attempted.",delivery,medium,neutral
+TCK-3177,"Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-3178,Does the HyperSpeed Dual-Band Wi-Fi 6 Router come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-3179,Can I return an item after 35 days for store credit? pls reply asap!!,refund,high,negative
+TCK-3180,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-3181,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,low,neutral
+TCK-3182,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,low,neutral
+TCK-3183,Is the stainless steel bottle BPA free and lead free?,product,high,negative
+TCK-3184,Is the stainless steel bottle BPA free and lead free?,product,low,neutral
+TCK-3185,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-3186,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-3187,Please delete my account and all personal data under GDPR right to be forgotten.,account,low,neutral
+TCK-3188,Want to exchange this coffee mug for a black one instead of white.,refund,medium,neutral
+TCK-3189,"Firmware update failed on my smart fitness tracker, screen is frozen black. hello?? anyone there??",product,low,negative
+TCK-3190,Are you currently hiring customer service representatives?,other,high,negative
+TCK-3191,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-3192,What are the exact dimensions of the ErgoGlide office chair seat?,product,low,neutral
+TCK-3193,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-3194,"hey support team, do you have a user manual pdf for setting up the true allergen purifier?",product,low,neutral
+TCK-3195,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-3196,"hey support team, how do i update my registered email address from old yahoo mail?",account,low,neutral
+TCK-3197,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-3198,Need overnight delivery upgrade for order ORD-10424 urgently.,delivery,high,negative
+TCK-3199,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-3200,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3201,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-3202,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-3203,How do I remove saved credit cards from my wallet profile?,account,medium,neutral
+TCK-3204,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3205,Can I submit an unsolicited product invention idea to ur engineering team?,other,low,neutral
+TCK-3206,Charged for shipping even though my cart was over $50 threshold.,billing,low,neutral
+TCK-3207,Card was charged but I never got an order confirmation email...,billing,medium,neutral
+TCK-3208,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-3209,"hey support team, return label says $5.99 deducted, but i was sent the wrong color by mistake!",refund,medium,neutral
+TCK-3210,is the stainless steel bottle bpa free and lead free?,product,low,neutral
+TCK-3211,"URGENT: Returned my parcel 10 days ago, where is my refund money?",refund,high,negative
+TCK-3212,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-3213,"Item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-3214,Need overnight delivery upgrade for order ORD-10321 urgently.,delivery,high,negative
+TCK-3215,Do you have a physical retail store in Chicago or New York?,other,low,neutral
+TCK-3216,"Sent back the broken headset, when does the money hit my PayPal?",refund,low,negative
+TCK-3217,"sent back the broken headset, when does the money hit my paypal?",refund,medium,negative
+TCK-3218,Need overnight delivery upgrade for order ORD-10228 urgently.,delivery,high,negative
+TCK-3219,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-3220,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,high,negative
+TCK-3221,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-3222,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-3223,"hey support team, need a receipt pdf sent to my accountant right away.",billing,medium,neutral
+TCK-3224,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-3225,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-3226,Charged for shipping even though my cart was over $50 threshold...,billing,low,neutral
+TCK-3227,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-3228,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-3229,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-3230,How do I update my registered email address from old yahoo mail?,account,medium,neutral
+TCK-3231,How do I enable two-factor authentication on my NovaCart account? pls reply asap!!,account,high,negative
+TCK-3232,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,low,neutral
+TCK-3233,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-3234,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-3235,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3236,Can I return an item after 35 days for store credit? pls reply asap!!,refund,high,negative
+TCK-3237,"My order ORD-10143 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-3238,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3239,"sent back the broken headset, when does the money hit my paypal?",refund,low,negative
+TCK-3240,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,medium,neutral
+TCK-3241,Why was my credit card charged twice for ORD-10229?,billing,high,negative
+TCK-3242,"My order ORD-10354 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-3243,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-3244,Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,medium,neutral
+TCK-3245,"URGENT: Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-3246,Need a receipt PDF sent to my accountant right away...,billing,high,negative
+TCK-3247,Need to return three items from my last order.,refund,medium,neutral
+TCK-3248,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-3249,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-3250,URGENT: Duplicate charge on visa statement for NovaSound headphones.,billing,high,negative
+TCK-3251,Can I reschedule delivery for Monday when I am home from work?,delivery,medium,neutral
+TCK-3252,Can I get a VAT invoice with my company tax number for order ORD-10250?,billing,low,neutral
+TCK-3253,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-3254,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-3255,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-3256,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-3257,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-3258,How do I update my registered email address from old yahoo mail?,account,low,neutral
+TCK-3259,Did my refund go through? My bank still hasn't received the deposit.,billing,low,neutral
+TCK-3260,"hey support team, can i return an item after 35 days for store credit?",refund,medium,neutral
+TCK-3261,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-3262,Does the BreezeAir HEPA True Allergen Purifier come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-3263,My bank statement has an unauthorized charge from NovaCart. pls reply asap!!,billing,high,negative
+TCK-3264,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3265,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-3266,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-3267,Why was my credit card charged twice for ORD-10328? hello?? anyone there??,billing,high,negative
+TCK-3268,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,high,negative
+TCK-3269,Can I submit an unsolicited product invention idea to your engineering team?,other,low,neutral
+TCK-3270,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-3271,WANT TO EXCHANGE THIS COFFEE MUG FOR A BLACK ONE INSTEAD OF WHITE.,refund,medium,neutral
+TCK-3272,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-3273,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,low,neutral
+TCK-3274,Forgot my password and the reset email is not arriving in my inbox.,account,medium,neutral
+TCK-3275,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-3276,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-3277,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-3278,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,medium,neutral
+TCK-3279,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-3280,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-3281,I'm not receiving order status SMS notifications on my new phone number. pls reply asap!!,account,high,negative
+TCK-3282,"hey support team, charged for shipping even though my cart was over $50 threshold.",billing,medium,neutral
+TCK-3283,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-3284,Are replacement filter cartridges in stock for the CleanWave unit?,product,low,neutral
+TCK-3285,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-3286,"Item doesn't fit my desk, please initiate a full refund.",refund,low,neutral
+TCK-3287,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,high,negative
+TCK-3288,Is the stainless steel bottle BPA free and lead free?,product,low,neutral
+TCK-3289,"hey support team, need a receipt pdf sent to my accountant right away.",billing,low,neutral
+TCK-3290,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-3291,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-3292,Can I change the delivery address to 742 Evergreen Terrace before it ships? pls reply asap!!,delivery,high,negative
+TCK-3293,"hey support team, received damaged goods, packaging was crushed. i want my money back.",refund,medium,negative
+TCK-3294,"URGENT: FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,high,negative
+TCK-3295,Tracking says delivered yesterday but nothing on my porch or mailroom.,delivery,high,negative
+TCK-3296,Do you sponsor college esports tournaments or tech podcasts?,other,low,neutral
+TCK-3297,Duplicate charge on visa statement for NovaSound headphones.,billing,low,neutral
+TCK-3298,"My powerbank stopped charging past 2 bars, is this covered under warranty???",product,low,neutral
+TCK-3299,"RETURNED MY PARCEL 10 DAYS AGO, WHERE IS MY REFUND MONEY?",refund,low,neutral
+TCK-3300,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,low,negative
+TCK-3301,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-3302,NEED OVERNIGHT DELIVERY UPGRADE FOR ORDER ORD-10370 URGENTLY.,delivery,high,negative
+TCK-3303,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3304,Need a receipt PDF sent to my accountant right away.,billing,low,neutral
+TCK-3305,"I want to return the EchoBreeze Desk Fan with Nightlight from order ORD-10160, how do I get a return label?",refund,low,neutral
+TCK-3306,Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-3307,Need to return three items from my last order.,refund,low,neutral
+TCK-3308,"Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-3309,"My order ORD-10374 was supposed to arrive yesterday, when will it be here?",delivery,medium,neutral
+TCK-3310,Want to exchange this coffee mug for a black one instead of white. hello?? anyone there??,refund,medium,neutral
+TCK-3311,Does the SwiftCharge 3-in-1 MagSafe Station come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-3312,Why is there a $10 fee on my receipt? hello?? anyone there??,billing,high,negative
+TCK-3313,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-3314,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,medium,neutral
+TCK-3315,Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-3316,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-3317,"Item doesn't fit my desk, please initiate a full refund.",refund,medium,neutral
+TCK-3318,DID MY REFUND GO THROUGH? MY BANK STILL HASN'T RECEIVED THE DEPOSIT.,billing,medium,neutral
+TCK-3319,Duplicate charge on visa statement for NovaSound headphones.,billing,low,neutral
+TCK-3320,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,medium,neutral
+TCK-3321,Duplicate charge on visa statement for NovaSound headphones.,billing,low,neutral
+TCK-3322,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-3323,Where is my package? Tracking for ORD-10492 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-3324,"Returned my parcel 10 days ago, where is my refund money? pls reply asap!!",refund,high,negative
+TCK-3325,How do I update my registered email address from old yahoo mail?,account,high,negative
+TCK-3326,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-3327,Who is the CEO of NovaCart?,other,low,neutral
+TCK-3328,Did my refund go through? My bank still hasn't received the deposit.,billing,medium,neutral
+TCK-3329,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-3330,I was charged $119.99 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-3331,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-3332,Do you have a user manual PDF for setting up the True Allergen Purifier?,product,high,negative
+TCK-3333,"My powerbank stopped charging past 2 bars, is this covered under warranty???",product,medium,neutral
+TCK-3334,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-3335,URGENT: Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,high,negative
+TCK-3336,"Payment keeps failing with card ending in 4128, error code ERR_CARD_DECLINE.",billing,low,negative
+TCK-3337,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-3338,Need to return three items from my last order.,refund,medium,neutral
+TCK-3339,NEED TO RETURN THREE ITEMS FROM MY LAST ORDER.,refund,medium,neutral
+TCK-3340,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-3341,Need to return three items from my last order.,refund,high,negative
+TCK-3342,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-3343,What are the exact dimensions of the ErgoGlide office chair seat???,product,high,negative
+TCK-3344,Are you currently hiring customer service representatives?,other,low,neutral
+TCK-3345,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-3346,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-3347,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-3348,Please delete my account and all personal data under GDPR right to be forgotten.,account,high,negative
+TCK-3349,Need overnight delivery upgrade for order ORD-10255 urgently.,delivery,high,negative
+TCK-3350,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3351,Do you sponsor college esports tournaments or tech podcasts? pls reply asap!!,other,high,negative
+TCK-3352,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-3353,I was charged $34.99 but checkout showed a discount code was active.,billing,medium,neutral
+TCK-3354,"hey support team, did my refund go through? my bank still hasn't received the deposit.",billing,high,negative
+TCK-3355,What is your environmental carbon offset policy for parcel logistics?,other,low,neutral
+TCK-3356,Where is my package? Tracking for ORD-10126 hasn't updated in 4 days. pls reply asap!!,delivery,high,negative
+TCK-3357,My bank statement has an unauthorized charge from NovaCart...,billing,high,negative
+TCK-3358,can i change the delivery address to 742 evergreen terrace before it ships?,delivery,medium,neutral
+TCK-3359,Can I reschedule delivery for Monday when I am home from work???,delivery,medium,neutral
+TCK-3360,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3361,"Package arrived at wrong apartment unit, driver dropped it down the hall. hello?? anyone there??",delivery,high,negative
+TCK-3362,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,low,neutral
+TCK-3363,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,high,negative
+TCK-3364,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,medium,neutral
+TCK-3365,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-3366,Need overnight delivery upgrade for order ORD-10224 urgently.,delivery,high,negative
+TCK-3367,Duplicate charge on visa statement for NovaSound headphones.,billing,medium,neutral
+TCK-3368,My account is locked after typing my password wrong a few times.,account,low,negative
+TCK-3369,Does the AuraGlow Smart Sunset Ambient Lamp come with a 1-year manufacturer warranty?,product,medium,neutral
+TCK-3370,Who is the CEO of NovaCart?,other,low,neutral
+TCK-3371,Need overnight delivery upgrade for order ORD-10409 urgently.,delivery,high,negative
+TCK-3372,duplicate charge on visa statement for novasound headphones.,billing,low,neutral
+TCK-3373,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-3374,Please delete my account and all personal data under GDPR right to be forgotten.,account,high,negative
+TCK-3375,"hey support team, how do i pair the novasound headphones with two bluetooth devices at once?",product,medium,neutral
+TCK-3376,Tracking number TRK-992144 shows stalled in transit at Memphis hub. hello?? anyone there??,delivery,low,negative
+TCK-3377,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-3378,DELIVERY DRIVER DIDN'T RING THE BUZZER AND MARKED DELIVERY ATTEMPTED.,delivery,low,neutral
+TCK-3379,"return label says $5.99 deducted, but i was sent the wrong color by mistake!",refund,medium,neutral
+TCK-3380,Charged for shipping even though my cart was over $50 threshold.,billing,medium,neutral
+TCK-3381,Can I get a VAT invoice with my company tax number for order ORD-10097?,billing,medium,neutral
+TCK-3382,Why is there a $10 fee on my receipt?,billing,medium,neutral
+TCK-3383,How do I enable two-factor authentication on my NovaCart account?,account,medium,neutral
+TCK-3384,How do I pair the NovaSound headphones with two Bluetooth devices at once?,product,high,negative
+TCK-3385,"Cannot log in via Google SSO, getting a blank redirect.",account,medium,neutral
+TCK-3386,Do you sponsor college esports tournaments or tech podcasts?,other,low,neutral
+TCK-3387,Carrier left package in the rain and box is soaking wet.,delivery,high,negative
+TCK-3388,"hey support team, my order ord-10123 was supposed to arrive yesterday, when will it be here?",delivery,high,negative
+TCK-3389,Need a receipt PDF sent to my accountant right away.,billing,high,negative
+TCK-3390,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,medium,neutral
+TCK-3391,Want to exchange this coffee mug for a black one instead of white...,refund,medium,neutral
+TCK-3392,TRACKING NUMBER TRK-992144 SHOWS STALLED IN TRANSIT AT MEMPHIS HUB.,delivery,medium,negative
+TCK-3393,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3394,I was charged $85.00 but checkout showed a discount code was active.,billing,low,neutral
+TCK-3395,Where is my package? Tracking for ORD-10274 hasn't updated in 4 days. pls reply asap!!,delivery,high,negative
+TCK-3396,"URGENT: Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,high,negative
+TCK-3397,"Firmware update failed on my smart fitness tracker, screen is frozen black.",product,low,negative
+TCK-3398,Carrier left package in the rain and box is soaking wet.,delivery,low,neutral
+TCK-3399,"hey support team, can i change the delivery address to 742 evergreen terrace before it ships?",delivery,medium,neutral
+TCK-3400,Does the SoundBar Studio Pro with Wireless Subwoofer come with a 1-year manufacturer warranty?,product,low,neutral
+TCK-3401,"hey support team, charged for shipping even though my cart was over $50 threshold.",billing,high,negative
+TCK-3402,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3403,URGENT: Need overnight delivery upgrade for order ORD-10364 urgently.,delivery,high,negative
+TCK-3404,"hey support team, how do i update my registered email address from old yahoo mail?",account,medium,neutral
+TCK-3405,Need a receipt PDF sent to my accountant right away.,billing,medium,neutral
+TCK-3406,DELIVERY DRIVER DIDN'T RING THE BUZZER AND MARKED DELIVERY ATTEMPTED.,delivery,high,negative
+TCK-3407,Is the stainless steel bottle BPA free and lead free?,product,medium,neutral
+TCK-3408,Can I submit an unsolicited product invention idea to ur engineering team?,other,low,neutral
+TCK-3409,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-3410,Why was my credit card charged twice for ORD-10241?,billing,high,negative
+TCK-3411,Charged for shipping even though my cart was over $50 threshold.,billing,low,neutral
+TCK-3412,"received damaged goods, packaging was crushed. i want my money back.",refund,medium,negative
+TCK-3413,who is the ceo of novacart?,other,low,neutral
+TCK-3414,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-3415,"URGENT: FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,high,negative
+TCK-3416,Why is tehre a $10 fee on my receipt?,billing,high,negative
+TCK-3417,Can I reschedule delivery for Monday when I am home from work?,delivery,low,neutral
+TCK-3418,I'm not receiving order status SMS notifications on my new phone number.,account,medium,neutral
+TCK-3419,"My order ORD-10462 was supposed to arrive yesterday, when will it be here?",delivery,high,negative
+TCK-3420,Why was my credit card charged twice for ORD-10417?,billing,high,negative
+TCK-3421,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3422,Why is there a $10 fee on my receipt?,billing,low,neutral
+TCK-3423,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-3424,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-3425,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-3426,Card was charged but I never got an order confirmation email.,billing,medium,neutral
+TCK-3427,Suspicious login attempt alert received from unknown IP in Russia.,account,medium,neutral
+TCK-3428,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-3429,Is there a restocking fee for returning unopened headphones within 30 days?,refund,low,neutral
+TCK-3430,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3431,Can I return an item after 35 days for store credit???,refund,medium,neutral
+TCK-3432,Need to return three items from my last order. hello?? anyone there??,refund,low,neutral
+TCK-3433,Can I reschedule delivery for Monday when I am home from work?,delivery,high,negative
+TCK-3434,Need overnight delivery upgrade for order ORD-10342 urgently.,delivery,high,negative
+TCK-3435,How do I enable two-factor authentication on my NovaCart account?,account,low,neutral
+TCK-3436,Can I change the delivery address to 742 Evergreen Terrace before it ships?,delivery,medium,neutral
+TCK-3437,Suspicious login attempt alert received from unknown IP in Russia.,account,low,neutral
+TCK-3438,Why was my credit card charged twice for ORD-10170? hello?? anyone there??,billing,high,negative
+TCK-3439,"MY ORDER ORD-10491 WAS SUPPOSED TO ARRIVE YESTERDAY, WHEN WILL IT BE HERE?",delivery,medium,neutral
+TCK-3440,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-3441,"Returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-3442,Want to exchange this coffee mug for a black one instead of white.,refund,low,neutral
+TCK-3443,Where is my package? Tracking for ORD-10070 hasn't updated in 4 days.,delivery,medium,neutral
+TCK-3444,Is there a restocking fee for returning unopened headphones within 30 days?,refund,medium,neutral
+TCK-3445,Just wanted to say your packaging design looks really modern and cool!,other,low,positive
+TCK-3446,Can I get a VAT invoice with my company tax number for order ORD-10320?,billing,low,neutral
+TCK-3447,WILL THE 4K PORTABLE MONITOR CONNECT DIRECTLY TO AN IPHONE 15 VIA USB-C?,product,medium,neutral
+TCK-3448,Need to return three items from my last order.,refund,low,neutral
+TCK-3449,"Return label says $5.99 deducted, but I was sent the wrong color by mistake!",refund,low,neutral
+TCK-3450,"FedEx marked parcel delayed due to severe weather, any ETA updates?",delivery,low,neutral
+TCK-3451,is novacart participating in upcoming black friday sales?,other,low,neutral
+TCK-3452,"hey support team, just wanted to say your packaging design looks really modern and cool!",other,low,positive
+TCK-3453,Can I return an item after 35 days for store credit?,refund,medium,neutral
+TCK-3454,What are the exact dimensions of the ErgoGlide office chair seat? hello?? anyone there??,product,low,neutral
+TCK-3455,"Received damaged goods, packaging was crushed. I want my money back.",refund,low,negative
+TCK-3456,Is there a restocking fee for returning unopened headphones within 30 days?,refund,high,negative
+TCK-3457,I WAS CHARGED $219.50 BUT CHECKOUT SHOWED A DISCOUNT CODE WAS ACTIVE.,billing,medium,neutral
+TCK-3458,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-3459,Klarna payment installment was taken twice this month.,billing,high,negative
+TCK-3460,Delivery driver didn't ring the buzzer and marked delivery attempted.,delivery,medium,neutral
+TCK-3461,URGENT: Is the Smart Coffee Mug dishwasher safe or hand wash only?,product,high,negative
+TCK-3462,URGENT: Where is my package? Tracking for ORD-10368 hasn't updated in 4 days.,delivery,high,negative
+TCK-3463,"Received damaged goods, packaging was crushed. I want my money back.",refund,medium,negative
+TCK-3464,Need to return three items from my last order.,refund,high,negative
+TCK-3465,My bank statement has an unauthorized charge from NovaCart.,billing,high,negative
+TCK-3466,"Sent back the broken headset, when does the money hit my PayPal?",refund,high,negative
+TCK-3467,URGENT: Did my refund go through? My bank still hasn't received the deposit.,billing,high,negative
+TCK-3468,"My powerbank stopped charging past 2 bars, is this covered under warranty?",product,medium,neutral
+TCK-3469,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,low,neutral
+TCK-3470,My account is locked after typing my password wrong a few times.,account,low,negative
+TCK-3471,I'm not receiving order status SMS notifications on my new phone number.,account,low,neutral
+TCK-3472,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,high,negative
+TCK-3473,"Package arrived at wrong apartment unit, driver dropped it down the hall.",delivery,medium,neutral
+TCK-3474,Want to cancel my NovaCart Plus annual subscription before it auto-renews.,account,high,negative
+TCK-3475,"hey support team, carrier left package in the rain and box is soaking wet.",delivery,medium,neutral
+TCK-3476,"returned my parcel 10 days ago, where is my refund money?",refund,medium,neutral
+TCK-3477,"hey support team, delivery driver didn't ring the buzzer and marked delivery attempted.",delivery,medium,neutral
+TCK-3478,klarna payment installment was taken twice this month.,billing,high,negative
+TCK-3479,"My order ORD-10139 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-3480,Website buttons are overlapping on mobile Safari iOS 17.2.,other,low,neutral
+TCK-3481,"MY ORDER ORD-10250 WAS SUPPOSED TO ARRIVE YESTERDAY, WHEN WILL IT BE HERE?",delivery,high,negative
+TCK-3482,Carrier left package in the rain and box is soaking wet.,delivery,medium,neutral
+TCK-3483,Where is my package? Tracking for ORD-10490 hasn't updated in 4 days.,delivery,low,neutral
+TCK-3484,Need to return three items from my last order. pls reply asap!!,refund,high,negative
+TCK-3485,"Package arrived at wrong apartment unit, driver dropped it down teh hall.",delivery,high,negative
+TCK-3486,Tracking number TRK-992144 shows stalled in transit at Memphis hub.,delivery,medium,negative
+TCK-3487,Is the stainless steel bottle BPA free and lead free?,product,low,neutral
+TCK-3488,Can I get a VAT invoice with my company tax number for order ORD-10495?,billing,medium,neutral
+TCK-3489,"Cannot log in via Google SSO, getting a blank redirect.",account,low,neutral
+TCK-3490,"Item doesn't fit my desk, please initiate a full refund.",refund,high,negative
+TCK-3491,"hey support team, need to return three items from my last order.",refund,medium,neutral
+TCK-3492,"My order ORD-10187 was supposed to arrive yesterday, when will it be here?",delivery,low,neutral
+TCK-3493,Need overnight delivery upgrade for order ORD-10248 urgently. pls reply asap!!,delivery,high,negative
+TCK-3494,Is NovaCart participating in upcoming Black Friday sales?,other,low,neutral
+TCK-3495,Will the 4K portable monitor connect directly to an iPhone 15 via USB-C?,product,low,neutral
+TCK-3496,"hey support team, firmware update failed on my smart fitness tracker, screen is frozen black.",product,medium,negative
+TCK-3497,"payment keeps failing with card ending in 4128, error code err_card_decline.",billing,medium,negative
+TCK-3498,"hey support team, need a receipt pdf sent to my accountant right away.",billing,medium,neutral
+TCK-3499,My account is locked after typing my password wrong a few times.,account,medium,negative
+TCK-3500,Need overnight delivery upgrade for order ORD-10066 urgently.,delivery,high,negative
