@@ -10,7 +10,7 @@
 [![Code Style: Ruff](https://img.shields.io/badge/Code%20Style-Ruff-black.svg)](https://github.com/astral-sh/ruff)
 
 > 🚀 **Live Demo Web App**: [https://supportmind-frontend.onrender.com](https://supportmind-1-hjtq.onrender.com))  
-> 📖 **Interactive Swagger API Docs**: [https://supportmind-backend.onrender.com/docs](https://supportmind-backend.onrender.com/docs)  
+> 📖 **Interactive Swagger API Docs**: [https://supportmind-backend.onrender.com/docs](https://supportmind-v348.onrender.com/docs)  
 > 🧪 **Evaluation Lab Report**: [`eval/reports/evaluation_report.md`](eval/reports/evaluation_report.md)
 
 > **SupportMind** is a production-grade AI customer support copilot engineered for high-volume e-commerce platforms ("NovaCart"). It pairs **Hybrid RAG** (BM25 + FAISS Dense Vector + Reciprocal Rank Fusion + Reranking) with **custom algorithmic Data Structures** ($O(N \log K)$ Min-Heap Top-K, $O(1)$ LRU Cache), **autonomous multi-agent routing**, **strict Human-in-the-Loop financial approval safeguards**, and a **post-generation Critic Agent** that audits factual claims to eliminate hallucinations.
