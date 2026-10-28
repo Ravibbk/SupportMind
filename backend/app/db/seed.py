@@ -1,8 +1,13 @@
 import csv
+import sys
 from pathlib import Path
 
-from app.db.models import get_db_connection, init_db
+# Ensure backend directory is in sys.path for direct CLI script execution
+BACKEND_DIR = Path(__file__).resolve().parent.parent.parent
+if str(BACKEND_DIR) not in sys.path:
+    sys.path.insert(0, str(BACKEND_DIR))
 
+from app.db.models import get_db_connection, init_db
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 ORDERS_CSV = BASE_DIR / "data" / "orders.csv"
