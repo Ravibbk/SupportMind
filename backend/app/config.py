@@ -3,7 +3,7 @@
 Loads environment variables with Pydantic Settings and validates defaults.
 """
 
-from typing import List
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     # Server settings
     HOST: str = "0.0.0.0"
     PORT: int = 8000
-    ALLOWED_ORIGINS: List[str] = [
+    ALLOWED_ORIGINS: list[str] = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",

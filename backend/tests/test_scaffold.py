@@ -1,7 +1,8 @@
 """Smoke test to verify project scaffolding and FastAPI app startup."""
 
 import pytest
-from httpx import AsyncClient, ASGITransport
+from httpx import ASGITransport, AsyncClient
+
 from app.main import app
 
 

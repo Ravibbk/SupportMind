@@ -5,6 +5,7 @@ Configures CORS, middleware, lifecycle events, and routes.
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+
 from app.config import settings
 
 app = FastAPI(
