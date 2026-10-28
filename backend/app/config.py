@@ -4,6 +4,10 @@ Loads environment variables with Pydantic Settings and validates defaults.
 """
 
 
+import json
+from typing import Any
+
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -19,15 +23,36 @@ class Settings(BaseSettings):
     # Server settings
     HOST: str = "0.0.0.0"
     PORT: int = 8000
-    ALLOWED_ORIGINS: list[str] = [
+    ALLOWED_ORIGINS: list[str] | str = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
     ]
 
+    @field_validator("ALLOWED_ORIGINS")
+    @classmethod
+    def assemble_cors_origins(cls, v: Any) -> list[str]:
+        """Parse ALLOWED_ORIGINS from comma-separated string, JSON array, or list."""
+        if isinstance(v, str):
+            v_trimmed = v.strip()
+            if v_trimmed.startswith("[") and v_trimmed.endswith("]"):
+                try:
+                    parsed = json.loads(v_trimmed)
+                    if isinstance(parsed, list):
+                        return [str(x).strip() for x in parsed if str(x).strip()]
+                except Exception:
+                    pass
+            # Split comma separated or single origin (e.g. '*' or 'http://localhost:5173,http://localhost:3000')
+            return [x.strip() for x in v.split(",") if x.strip()]
+        if isinstance(v, list):
+            return [str(x).strip() for x in v if str(x).strip()]
+        return ["*"]
+
+
     # LLM Settings
     GEMINI_API_KEY: str = ""
     LLM_MODEL: str = "gemini-2.5-flash"
+
     PROMPT_VERSION: str = "v3"
     DEMO_MODE: bool = False
 
