@@ -91,9 +91,23 @@ class RAGPipeline:
         # 1. Index in BM25 Inverted Index
         self.bm25_index.index_chunks(all_chunks)
 
-        # 2. Generate Dense Embeddings and Index in VectorStore
-        texts = [c.text for c in all_chunks]
-        embeddings = embed_texts(texts)
+        # 2. Load Precomputed Dense Embeddings or Generate with FastEmbed
+        cached_npz = docs_dir.parent / "policy_embeddings.npz"
+        embeddings = None
+        if cached_npz.exists():
+            try:
+                import numpy as np
+                data = np.load(cached_npz)
+                loaded_emb = data.get("embeddings")
+                if loaded_emb is not None and len(loaded_emb) == len(all_chunks):
+                    embeddings = loaded_emb
+            except Exception:
+                embeddings = None
+
+        if embeddings is None:
+            texts = [c.text for c in all_chunks]
+            embeddings = embed_texts(texts)
+
         self.vector_store.add_chunks(all_chunks, embeddings)
 
         # Clear query cache on re-indexing
